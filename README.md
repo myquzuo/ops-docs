@@ -235,6 +235,9 @@ Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**�
 | [Gitea](docs/Gitea.md) | [→ 查看](docs/Gitea.md) |
 | [Gogs](docs/Gogs.md) | [→ 查看](docs/Gogs.md) |
 | [Bitbucket](docs/Bitbucket.md) | [→ 查看](docs/Bitbucket.md) |
+| [kubeadm](docs/kubeadm.md) | [→ 查看](docs/kubeadm.md) |
+| [Kubespray](docs/Kubespray.md) | [→ 查看](docs/Kubespray.md) |
+| [kOps](docs/kOps.md) | [→ 查看](docs/kOps.md) |
 | [Apache Impala](docs/Apache%20Impala.md) | [→ 查看](docs/Apache%20Impala.md) |
 | [SQL Server](docs/SQL%20Server.md) | [→ 查看](docs/SQL%20Server.md) |
 
