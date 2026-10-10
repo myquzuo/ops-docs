@@ -1,8 +1,6 @@
 # Quzuo ops-docs · 运维与开发技术文档库
 
-Quzuo（https://www.quzuo.net）技术文档平台公开文档库。所有文档均基于**真实服务器环境实际安装、部署、测试并落地运行**，覆盖操作系统、容器与云原生、数据库、中间件、CI/CD 与 DevOps、监控告警、网络与安全等方向，内容贯穿安装、部署、配置、使用、性能测试与优化、故障排查的完整实操流程。
-
-点击文档标题即可在线阅读，无需登录即可访问正文，文档中的命令与回显均为真实环境逐条实测结果。
+Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**真实服务器环境实际安装、部署、测试并落地运行**，覆盖操作系统、容器与云原生、数据库、中间件、CI/CD 与 DevOps、监控告警、网络与安全等方向，内容贯穿安装、部署、配置、使用、性能测试与优化、故障排查的完整实操流程。点击文档标题即可在线阅读，无需登录即可访问正文，文档中的命令与回显均为真实环境逐条实测结果。
 
 ## 专栏总览
 
@@ -238,13 +236,23 @@ Quzuo（https://www.quzuo.net）技术文档平台公开文档库。所有文档
 | [Apache Impala](Apache%20Impala.md) |
 | [SQL Server](SQL%20Server.md) |
 
-## 使用说明
+## 内容主题
 
-- 每个专栏对应仓库根目录下一个同名 Markdown 文件，内含该专栏全部文档的在线阅读地址。
-- 在线地址格式：`https://www.quzuo.net/document/<slug>`，例如 https://www.quzuo.net/document/WIIFPfUSqsph
-- 文档可在站内搜索、按专栏/标签浏览；专栏与文档均由 Quzuo 平台动态维护，本仓库定期同步。
+- **操作系统与服务器**：Linux 发行版（Ubuntu、CentOS、Rocky、AlmaLinux、openEuler、统信 UOS、银河麒麟、深度 deepin 等）、基础环境配置、时间同步、系统监控与诊断、性能优化与调优、安全审计
+- **数据库与存储**：MySQL、PostgreSQL、Redis、MongoDB、TiDB、StarRocks、ClickHouse、Elasticsearch、Hadoop 生态，以及 MinIO、Ceph、SeaweedFS 等对象与分布式存储和备份方案
+- **容器与云原生**：Docker、containerd、Podman、Kubernetes 生态、镜像仓库（Harbor、Nexus、Artifactory）、服务网关与代理（Envoy、Kong、Traefik、Nginx）
+- **中间件与消息队列**：Kafka、RabbitMQ、RocketMQ、Pulsar、ZooKeeper、etcd、HAProxy 等
+- **CI/CD 与 DevOps**：Jenkins、GitLab、GitHub Actions、Ansible、Terraform、Tekton、Drone 等持续集成、配置管理与基础设施即代码
+- **监控告警与可观测**：Prometheus、Grafana、Zabbix、Loki、Jaeger、SkyWalking，及钉钉 / 企业微信告警推送
+- **网络与安全**：OpenVPN、WireGuard、V2Ray、frp、防火墙、漏洞扫描、证书管理与身份认证
+- **性能测试与压测**：常见负载压测与基准测试工具的使用及结果分析
 
-## 同步与贡献
+## 在线阅读方式
 
-- 本仓库由 `/opt/data/quzuo/docs` 内容自动生成（生成脚本 `ops_docs_generate.py`），文档新增/更新后重新运行即可同步。
-- 如需补充缺失专栏或修正链接，欢迎提交 Issue / PR。
+- 站内全文检索：https://www.quzuo.net
+- 按专栏 / 标签浏览，无需登录即可阅读正文
+- 直达链接格式：`https://www.quzuo.net/document/<slug>`，例如 https://www.quzuo.net/document/WIIFPfUSqsph
+
+## 关于 Quzuo
+
+Quzuo（https://www.quzuo.net）是一个面向运维与开发者的技术文档平台，文档内容全部基于真实环境实测沉淀，覆盖主流开源软件与国产化技术栈的安装、部署、配置、使用、优化与排障，欢迎收藏、检索与分享。
