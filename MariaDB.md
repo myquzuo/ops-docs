@@ -1,0 +1,12 @@
+# MariaDB
+
+> 文档均为真实服务器实测落地，点击标题直接在线阅读。
+
+| # | 技术文档 | 在线地址 |
+|---|---|---|
+| 1 | [MariaDB 11.8 Docker Compose 部署指南](https://www.quzuo.net/document/NeGHKKqbjQCW) | [https://www.quzuo.net/document/NeGHKKqbjQCW](https://www.quzuo.net/document/NeGHKKqbjQCW) |
+| 2 | [MariaDB 11.8 常用 CLI 命令与工具详解](https://www.quzuo.net/document/YryYJUOv8wdv) | [https://www.quzuo.net/document/YryYJUOv8wdv](https://www.quzuo.net/document/YryYJUOv8wdv) |
+| 3 | [MariaDB 11.8 配置参数详解](https://www.quzuo.net/document/xUugiwOeUR5x) | [https://www.quzuo.net/document/xUugiwOeUR5x](https://www.quzuo.net/document/xUugiwOeUR5x) |
+| 4 | [Ubuntu 24.04 安装 MariaDB 11.8](https://www.quzuo.net/document/tBqwvjdfnbXc) | [https://www.quzuo.net/document/tBqwvjdfnbXc](https://www.quzuo.net/document/tBqwvjdfnbXc) |
+
+[← 返回文档总览](../README.md)
