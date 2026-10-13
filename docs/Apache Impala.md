@@ -4,11 +4,9 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Impala Docker Compose 部署指南](https://www.quzuo.net/document/C09xTGappxyi) | [https://www.quzuo.net/document/C09xTGappxyi](https://www.quzuo.net/document/C09xTGappxyi) |
-| 2 | [Apache Impala 分布式集群部署指南](https://www.quzuo.net/document/st7LgWkkbaWC) | [https://www.quzuo.net/document/st7LgWkkbaWC](https://www.quzuo.net/document/st7LgWkkbaWC) |
-| 3 | [Apache Impala 常用 CLI 命令工具详解](https://www.quzuo.net/document/jmdv0WGUDmX9) | [https://www.quzuo.net/document/jmdv0WGUDmX9](https://www.quzuo.net/document/jmdv0WGUDmX9) |
-| 4 | [Apache Impala 配置参数详解](https://www.quzuo.net/document/HJQ75n2YC91e) | [https://www.quzuo.net/document/HJQ75n2YC91e](https://www.quzuo.net/document/HJQ75n2YC91e) |
-| 5 | [CentOS 8 安装 Apache Impala 4.5.3 指南](https://www.quzuo.net/document/pQw9ciOcLSDm) | [https://www.quzuo.net/document/pQw9ciOcLSDm](https://www.quzuo.net/document/pQw9ciOcLSDm) |
-| 6 | [Ubuntu 22.04 安装 Apache Impala 4.5.3 指南](https://www.quzuo.net/document/2DUgYDfNL83F) | [https://www.quzuo.net/document/2DUgYDfNL83F](https://www.quzuo.net/document/2DUgYDfNL83F) |
+| 1 | [Apache Impala Docker Compose 部署指南](https://www.quzuo.net/document/6veoAcbqR8Nr) | [https://www.quzuo.net/document/6veoAcbqR8Nr](https://www.quzuo.net/document/6veoAcbqR8Nr) |
+| 2 | [Apache Impala 常用 CLI 命令与工具详解](https://www.quzuo.net/document/OT6MGOLEExye) | [https://www.quzuo.net/document/OT6MGOLEExye](https://www.quzuo.net/document/OT6MGOLEExye) |
+| 3 | [Apache Impala 配置参数详解](https://www.quzuo.net/document/ASovnZmsVzr3) | [https://www.quzuo.net/document/ASovnZmsVzr3](https://www.quzuo.net/document/ASovnZmsVzr3) |
+| 4 | [CentOS 8 与 Ubuntu 22.04 安装 Apache Impala 4.5.3 指南](https://www.quzuo.net/document/QPBdA8YXNYQ5) | [https://www.quzuo.net/document/QPBdA8YXNYQ5](https://www.quzuo.net/document/QPBdA8YXNYQ5) |
 
 [← 返回文档总览](../README.md)

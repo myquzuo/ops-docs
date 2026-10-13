@@ -236,10 +236,197 @@ Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**�
 | [Gogs](docs/Gogs.md) | [→ 查看](docs/Gogs.md) |
 | [Bitbucket](docs/Bitbucket.md) | [→ 查看](docs/Bitbucket.md) |
 | [kubeadm](docs/kubeadm.md) | [→ 查看](docs/kubeadm.md) |
+| [K3s](docs/K3s.md) | [→ 查看](docs/K3s.md) |
+| [k0s](docs/k0s.md) | [→ 查看](docs/k0s.md) |
+| [MicroK8s](docs/MicroK8s.md) | [→ 查看](docs/MicroK8s.md) |
+| [Minikube](docs/Minikube.md) | [→ 查看](docs/Minikube.md) |
+| [Kind](docs/Kind.md) | [→ 查看](docs/Kind.md) |
+| [OpenShift](docs/OpenShift.md) | [→ 查看](docs/OpenShift.md) |
+| [Tanzu](docs/Tanzu.md) | [→ 查看](docs/Tanzu.md) |
+| [RKE2](docs/RKE2.md) | [→ 查看](docs/RKE2.md) |
 | [Kubespray](docs/Kubespray.md) | [→ 查看](docs/Kubespray.md) |
 | [kOps](docs/kOps.md) | [→ 查看](docs/kOps.md) |
+| [Apache Fluss](docs/Apache%20Fluss.md) | [→ 查看](docs/Apache%20Fluss.md) |
+| [Apache Answer](docs/Apache%20Answer.md) | [→ 查看](docs/Apache%20Answer.md) |
+| [Apache Artemis](docs/Apache%20Artemis.md) | [→ 查看](docs/Apache%20Artemis.md) |
+| [Apache AGE](docs/Apache%20AGE.md) | [→ 查看](docs/Apache%20AGE.md) |
+| [Apache Ant](docs/Apache%20Ant.md) | [→ 查看](docs/Apache%20Ant.md) |
+| [Apache Arrow](docs/Apache%20Arrow.md) | [→ 查看](docs/Apache%20Arrow.md) |
+| [Apache Atlas](docs/Apache%20Atlas.md) | [→ 查看](docs/Apache%20Atlas.md) |
+| [Apache Allura](docs/Apache%20Allura.md) | [→ 查看](docs/Apache%20Allura.md) |
+| [Apache Airavata](docs/Apache%20Airavata.md) | [→ 查看](docs/Apache%20Airavata.md) |
+| [Apache BookKeeper](docs/Apache%20BookKeeper.md) | [→ 查看](docs/Apache%20BookKeeper.md) |
+| [Apache Celeborn](docs/Apache%20Celeborn.md) | [→ 查看](docs/Apache%20Celeborn.md) |
+| [Apache Camel](docs/Apache%20Camel.md) | [→ 查看](docs/Apache%20Camel.md) |
+| [Apache CloudStack](docs/Apache%20CloudStack.md) | [→ 查看](docs/Apache%20CloudStack.md) |
+| [Apache Bigtop](docs/Apache%20Bigtop.md) | [→ 查看](docs/Apache%20Bigtop.md) |
+| [Apache Beam](docs/Apache%20Beam.md) | [→ 查看](docs/Apache%20Beam.md) |
+| [Apache bRPC](docs/Apache%20bRPC.md) | [→ 查看](docs/Apache%20bRPC.md) |
+| [Apache BuildStream](docs/Apache%20BuildStream.md) | [→ 查看](docs/Apache%20BuildStream.md) |
+| [Apache Calcite](docs/Apache%20Calcite.md) | [→ 查看](docs/Apache%20Calcite.md) |
+| [Apache Cayenne](docs/Apache%20Cayenne.md) | [→ 查看](docs/Apache%20Cayenne.md) |
+| [Apache CXF](docs/Apache%20CXF.md) | [→ 查看](docs/Apache%20CXF.md) |
+| [Apache Curator](docs/Apache%20Curator.md) | [→ 查看](docs/Apache%20Curator.md) |
+| [Apache Cordova](docs/Apache%20Cordova.md) | [→ 查看](docs/Apache%20Cordova.md) |
+| [Apache FreeMarker](docs/Apache%20FreeMarker.md) | [→ 查看](docs/Apache%20FreeMarker.md) |
+| [Apache Fineract](docs/Apache%20Fineract.md) | [→ 查看](docs/Apache%20Fineract.md) |
+| [Apache Groovy](docs/Apache%20Groovy.md) | [→ 查看](docs/Apache%20Groovy.md) |
+| [Apache Daffodil](docs/Apache%20Daffodil.md) | [→ 查看](docs/Apache%20Daffodil.md) |
+| [Apache DeltaSpike](docs/Apache%20DeltaSpike.md) | [→ 查看](docs/Apache%20DeltaSpike.md) |
+| [Apache DevLake](docs/Apache%20DevLake.md) | [→ 查看](docs/Apache%20DevLake.md) |
+| [Apache Felix](docs/Apache%20Felix.md) | [→ 查看](docs/Apache%20Felix.md) |
+| [Apache DataFusion](docs/Apache%20DataFusion.md) | [→ 查看](docs/Apache%20DataFusion.md) |
+| [Apache Gravitino](docs/Apache%20Gravitino.md) | [→ 查看](docs/Apache%20Gravitino.md) |
+| [Apache Gobblin](docs/Apache%20Gobblin.md) | [→ 查看](docs/Apache%20Gobblin.md) |
+| [Apache EventMesh](docs/Apache%20EventMesh.md) | [→ 查看](docs/Apache%20EventMesh.md) |
+| [Apache Guacamole](docs/Apache%20Guacamole.md) | [→ 查看](docs/Apache%20Guacamole.md) |
+| [Apache DataSketches](docs/Apache%20DataSketches.md) | [→ 查看](docs/Apache%20DataSketches.md) |
+| [Apache DataFu](docs/Apache%20DataFu.md) | [→ 查看](docs/Apache%20DataFu.md) |
+| [Apache Drill](docs/Apache%20Drill.md) | [→ 查看](docs/Apache%20Drill.md) |
+| [Apache Directory](docs/Apache%20Directory.md) | [→ 查看](docs/Apache%20Directory.md) |
+| [Apache Gluten](docs/Apache%20Gluten.md) | [→ 查看](docs/Apache%20Gluten.md) |
+| [Apache Geode](docs/Apache%20Geode.md) | [→ 查看](docs/Apache%20Geode.md) |
+| [Apache Empire-db](docs/Apache%20Empire-db.md) | [→ 查看](docs/Apache%20Empire-db.md) |
+| [Apache Fory](docs/Apache%20Fory.md) | [→ 查看](docs/Apache%20Fory.md) |
+| [Apache ECharts](docs/Apache%20ECharts.md) | [→ 查看](docs/Apache%20ECharts.md) |
+| [Apache Dubbo](docs/Apache%20Dubbo.md) | [→ 查看](docs/Apache%20Dubbo.md) |
+| [Apache Grails](docs/Apache%20Grails.md) | [→ 查看](docs/Apache%20Grails.md) |
+| [Apache Brooklyn](docs/Apache%20Brooklyn.md) | [→ 查看](docs/Apache%20Brooklyn.md) |
+| [Apache cTAKES](docs/Apache%20cTAKES.md) | [→ 查看](docs/Apache%20cTAKES.md) |
+| [Apache Causeway](docs/Apache%20Causeway.md) | [→ 查看](docs/Apache%20Causeway.md) |
+| [Apache Helix](docs/Apache%20Helix.md) | [→ 查看](docs/Apache%20Helix.md) |
+| [Apache HertzBeat](docs/Apache%20HertzBeat.md) | [→ 查看](docs/Apache%20HertzBeat.md) |
+| [Apache Hop](docs/Apache%20Hop.md) | [→ 查看](docs/Apache%20Hop.md) |
+| [Apache HttpComponents](docs/Apache%20HttpComponents.md) | [→ 查看](docs/Apache%20HttpComponents.md) |
+| [Apache HugeGraph](docs/Apache%20HugeGraph.md) | [→ 查看](docs/Apache%20HugeGraph.md) |
+| [Apache Iggy](docs/Apache%20Iggy.md) | [→ 查看](docs/Apache%20Iggy.md) |
+| [Apache Ignite](docs/Apache%20Ignite.md) | [→ 查看](docs/Apache%20Ignite.md) |
 | [Apache Impala](docs/Apache%20Impala.md) | [→ 查看](docs/Apache%20Impala.md) |
-| [SQL Server](docs/SQL%20Server.md) | [→ 查看](docs/SQL%20Server.md) |
+| [Apache Incubator](docs/Apache%20Incubator.md) | [→ 查看](docs/Apache%20Incubator.md) |
+| [Apache InLong](docs/Apache%20InLong.md) | [→ 查看](docs/Apache%20InLong.md) |
+| [Apache IoTDB](docs/Apache%20IoTDB.md) | [→ 查看](docs/Apache%20IoTDB.md) |
+| [Apache Jackrabbit](docs/Apache%20Jackrabbit.md) | [→ 查看](docs/Apache%20Jackrabbit.md) |
+| [Apache James](docs/Apache%20James.md) | [→ 查看](docs/Apache%20James.md) |
+| [Apache Jena](docs/Apache%20Jena.md) | [→ 查看](docs/Apache%20Jena.md) |
+| [Apache JMeter](docs/Apache%20JMeter.md) | [→ 查看](docs/Apache%20JMeter.md) |
+| [Apache Johnzon](docs/Apache%20Johnzon.md) | [→ 查看](docs/Apache%20Johnzon.md) |
+| [Apache Juneau](docs/Apache%20Juneau.md) | [→ 查看](docs/Apache%20Juneau.md) |
+| [Apache Karaf](docs/Apache%20Karaf.md) | [→ 查看](docs/Apache%20Karaf.md) |
+| [Apache Knox](docs/Apache%20Knox.md) | [→ 查看](docs/Apache%20Knox.md) |
+| [Apache Kvrocks](docs/Apache%20Kvrocks.md) | [→ 查看](docs/Apache%20Kvrocks.md) |
+| [Apache Kyuubi](docs/Apache%20Kyuubi.md) | [→ 查看](docs/Apache%20Kyuubi.md) |
+| [Apache Libcloud](docs/Apache%20Libcloud.md) | [→ 查看](docs/Apache%20Libcloud.md) |
+| [Apache Linkis](docs/Apache%20Linkis.md) | [→ 查看](docs/Apache%20Linkis.md) |
+| [Apache Livy](docs/Apache%20Livy.md) | [→ 查看](docs/Apache%20Livy.md) |
+| [Apache Logging Services](docs/Apache%20Logging%20Services.md) | [→ 查看](docs/Apache%20Logging%20Services.md) |
+| [Apache Lucene](docs/Apache%20Lucene.md) | [→ 查看](docs/Apache%20Lucene.md) |
+| [Apache Lucene.NET](docs/Apache%20Lucene.NET.md) | [→ 查看](docs/Apache%20Lucene.NET.md) |
+| [Apache Mahout](docs/Apache%20Mahout.md) | [→ 查看](docs/Apache%20Mahout.md) |
+| [Apache ManifoldCF](docs/Apache%20ManifoldCF.md) | [→ 查看](docs/Apache%20ManifoldCF.md) |
+| [Apache mod_perl](docs/Apache%20mod_perl.md) | [→ 查看](docs/Apache%20mod_perl.md) |
+| [Apache Maven](docs/Apache%20Maven.md) | [→ 查看](docs/Apache%20Maven.md) |
+| [Apache MINA](docs/Apache%20MINA.md) | [→ 查看](docs/Apache%20MINA.md) |
+| [Apache MyFaces](docs/Apache%20MyFaces.md) | [→ 查看](docs/Apache%20MyFaces.md) |
+| [Apache NetBeans](docs/Apache%20NetBeans.md) | [→ 查看](docs/Apache%20NetBeans.md) |
+| [Apache Nutch](docs/Apache%20Nutch.md) | [→ 查看](docs/Apache%20Nutch.md) |
+| [Apache OpenDAL](docs/Apache%20OpenDAL.md) | [→ 查看](docs/Apache%20OpenDAL.md) |
+| [Apache OFBiz](docs/Apache%20OFBiz.md) | [→ 查看](docs/Apache%20OFBiz.md) |
+| [Apache OpenJPA](docs/Apache%20OpenJPA.md) | [→ 查看](docs/Apache%20OpenJPA.md) |
+| [Apache OpenOffice](docs/Apache%20OpenOffice.md) | [→ 查看](docs/Apache%20OpenOffice.md) |
+| [Apache OpenNLP](docs/Apache%20OpenNLP.md) | [→ 查看](docs/Apache%20OpenNLP.md) |
+| [Apache OpenMeetings](docs/Apache%20OpenMeetings.md) | [→ 查看](docs/Apache%20OpenMeetings.md) |
+| [Apache OpenWhisk](docs/Apache%20OpenWhisk.md) | [→ 查看](docs/Apache%20OpenWhisk.md) |
+| [Apache OpenWebBeans](docs/Apache%20OpenWebBeans.md) | [→ 查看](docs/Apache%20OpenWebBeans.md) |
+| [Apache ORC](docs/Apache%20ORC.md) | [→ 查看](docs/Apache%20ORC.md) |
+| [Apache Ozone](docs/Apache%20Ozone.md) | [→ 查看](docs/Apache%20Ozone.md) |
+| [Apache Parquet](docs/Apache%20Parquet.md) | [→ 查看](docs/Apache%20Parquet.md) |
+| [Apache Pekko](docs/Apache%20Pekko.md) | [→ 查看](docs/Apache%20Pekko.md) |
+| [Apache PDFBox](docs/Apache%20PDFBox.md) | [→ 查看](docs/Apache%20PDFBox.md) |
+| [Apache Phoenix](docs/Apache%20Phoenix.md) | [→ 查看](docs/Apache%20Phoenix.md) |
+| [Apache PLC4X](docs/Apache%20PLC4X.md) | [→ 查看](docs/Apache%20PLC4X.md) |
+| [Apache Pig](docs/Apache%20Pig.md) | [→ 查看](docs/Apache%20Pig.md) |
+| [Apache POI](docs/Apache%20POI.md) | [→ 查看](docs/Apache%20POI.md) |
+| [Apache Polaris](docs/Apache%20Polaris.md) | [→ 查看](docs/Apache%20Polaris.md) |
+| [Apache Pony Mail](docs/Apache%20Pony%20Mail.md) | [→ 查看](docs/Apache%20Pony%20Mail.md) |
+| [Apache APR](docs/Apache%20APR.md) | [→ 查看](docs/Apache%20APR.md) |
+| [Apache Qpid](docs/Apache%20Qpid.md) | [→ 查看](docs/Apache%20Qpid.md) |
+| [Apache Ranger](docs/Apache%20Ranger.md) | [→ 查看](docs/Apache%20Ranger.md) |
+| [Apache Ratis](docs/Apache%20Ratis.md) | [→ 查看](docs/Apache%20Ratis.md) |
+| [Apache Reqsign](docs/Apache%20Reqsign.md) | [→ 查看](docs/Apache%20Reqsign.md) |
+| [Apache ResilientDB](docs/Apache%20ResilientDB.md) | [→ 查看](docs/Apache%20ResilientDB.md) |
+| [Apache Roller](docs/Apache%20Roller.md) | [→ 查看](docs/Apache%20Roller.md) |
+| [Apache Royale](docs/Apache%20Royale.md) | [→ 查看](docs/Apache%20Royale.md) |
+| [Apache Rya](docs/Apache%20Rya.md) | [→ 查看](docs/Apache%20Rya.md) |
+| [Apache Samza](docs/Apache%20Samza.md) | [→ 查看](docs/Apache%20Samza.md) |
+| [Apache Santuario](docs/Apache%20Santuario.md) | [→ 查看](docs/Apache%20Santuario.md) |
+| [Apache SDAP](docs/Apache%20SDAP.md) | [→ 查看](docs/Apache%20SDAP.md) |
+| [Apache SeaTunnel](docs/Apache%20SeaTunnel.md) | [→ 查看](docs/Apache%20SeaTunnel.md) |
+| [Apache Sedona](docs/Apache%20Sedona.md) | [→ 查看](docs/Apache%20Sedona.md) |
+| [Apache Serf](docs/Apache%20Serf.md) | [→ 查看](docs/Apache%20Serf.md) |
+| [Apache ServiceComb](docs/Apache%20ServiceComb.md) | [→ 查看](docs/Apache%20ServiceComb.md) |
+| [Apache ShardingSphere](docs/Apache%20ShardingSphere.md) | [→ 查看](docs/Apache%20ShardingSphere.md) |
+| [Apache ShenYu](docs/Apache%20ShenYu.md) | [→ 查看](docs/Apache%20ShenYu.md) |
+| [Apache Shiro](docs/Apache%20Shiro.md) | [→ 查看](docs/Apache%20Shiro.md) |
+| [Apache SINGA](docs/Apache%20SINGA.md) | [→ 查看](docs/Apache%20SINGA.md) |
+| [Apache SIS](docs/Apache%20SIS.md) | [→ 查看](docs/Apache%20SIS.md) |
+| [Apache SkyWalking](docs/Apache%20SkyWalking.md) | [→ 查看](docs/Apache%20SkyWalking.md) |
+| [Apache Sling](docs/Apache%20Sling.md) | [→ 查看](docs/Apache%20Sling.md) |
+| [Apache SpamAssassin](docs/Apache%20SpamAssassin.md) | [→ 查看](docs/Apache%20SpamAssassin.md) |
+| [Apache STeVe](docs/Apache%20STeVe.md) | [→ 查看](docs/Apache%20STeVe.md) |
+| [Apache Storm](docs/Apache%20Storm.md) | [→ 查看](docs/Apache%20Storm.md) |
+| [Apache StormCrawler](docs/Apache%20StormCrawler.md) | [→ 查看](docs/Apache%20StormCrawler.md) |
+| [Apache StreamPark](docs/Apache%20StreamPark.md) | [→ 查看](docs/Apache%20StreamPark.md) |
+| [Apache StreamPipes](docs/Apache%20StreamPipes.md) | [→ 查看](docs/Apache%20StreamPipes.md) |
+| [Apache Struts](docs/Apache%20Struts.md) | [→ 查看](docs/Apache%20Struts.md) |
+| [Apache Subversion](docs/Apache%20Subversion.md) | [→ 查看](docs/Apache%20Subversion.md) |
+| [Apache Synapse](docs/Apache%20Synapse.md) | [→ 查看](docs/Apache%20Synapse.md) |
+| [Apache Syncope](docs/Apache%20Syncope.md) | [→ 查看](docs/Apache%20Syncope.md) |
+| [Apache SystemDS](docs/Apache%20SystemDS.md) | [→ 查看](docs/Apache%20SystemDS.md) |
+| [Apache Tez](docs/Apache%20Tez.md) | [→ 查看](docs/Apache%20Tez.md) |
+| [Apache TomEE](docs/Apache%20TomEE.md) | [→ 查看](docs/Apache%20TomEE.md) |
+| [Apache Traffic Server](docs/Apache%20Traffic%20Server.md) | [→ 查看](docs/Apache%20Traffic%20Server.md) |
+| [Apache TinkerPop](docs/Apache%20TinkerPop.md) | [→ 查看](docs/Apache%20TinkerPop.md) |
+| [Apache Uniffle](docs/Apache%20Uniffle.md) | [→ 查看](docs/Apache%20Uniffle.md) |
+| [Apache Unomi](docs/Apache%20Unomi.md) | [→ 查看](docs/Apache%20Unomi.md) |
+| [Apache Zeppelin](docs/Apache%20Zeppelin.md) | [→ 查看](docs/Apache%20Zeppelin.md) |
+| [Apache YuniKorn](docs/Apache%20YuniKorn.md) | [→ 查看](docs/Apache%20YuniKorn.md) |
+| [Apache Thrift](docs/Apache%20Thrift.md) | [→ 查看](docs/Apache%20Thrift.md) |
+| [Apache Tika](docs/Apache%20Tika.md) | [→ 查看](docs/Apache%20Tika.md) |
+| [Apache Velocity](docs/Apache%20Velocity.md) | [→ 查看](docs/Apache%20Velocity.md) |
+| [Apache Wicket](docs/Apache%20Wicket.md) | [→ 查看](docs/Apache%20Wicket.md) |
+| [Apache Tapestry](docs/Apache%20Tapestry.md) | [→ 查看](docs/Apache%20Tapestry.md) |
+| [Apache Tcl](docs/Apache%20Tcl.md) | [→ 查看](docs/Apache%20Tcl.md) |
+| [Apache TsFile](docs/Apache%20TsFile.md) | [→ 查看](docs/Apache%20TsFile.md) |
+| [Apache Turbine](docs/Apache%20Turbine.md) | [→ 查看](docs/Apache%20Turbine.md) |
+| [Apache TVM](docs/Apache%20TVM.md) | [→ 查看](docs/Apache%20TVM.md) |
+| [Kettle](docs/Kettle.md) | [→ 查看](docs/Kettle.md) |
+| [Tableau](docs/Tableau.md) | [→ 查看](docs/Tableau.md) |
+| [Apache UIMA](docs/Apache%20UIMA.md) | [→ 查看](docs/Apache%20UIMA.md) |
+| [Apache Wayang](docs/Apache%20Wayang.md) | [→ 查看](docs/Apache%20Wayang.md) |
+| [Apache Xalan](docs/Apache%20Xalan.md) | [→ 查看](docs/Apache%20Xalan.md) |
+| [Apache Xerces](docs/Apache%20Xerces.md) | [→ 查看](docs/Apache%20Xerces.md) |
+| [Apache Yetus](docs/Apache%20Yetus.md) | [→ 查看](docs/Apache%20Yetus.md) |
+| [Apache BifroMQ](docs/Apache%20BifroMQ.md) | [→ 查看](docs/Apache%20BifroMQ.md) |
+| [Apache Amoro](docs/Apache%20Amoro.md) | [→ 查看](docs/Apache%20Amoro.md) |
+| [Apache Archiva](docs/Apache%20Archiva.md) | [→ 查看](docs/Apache%20Archiva.md) |
+| [Apache Casbin](docs/Apache%20Casbin.md) | [→ 查看](docs/Apache%20Casbin.md) |
+| [Apache BVal](docs/Apache%20BVal.md) | [→ 查看](docs/Apache%20BVal.md) |
+| [Apache Axiom](docs/Apache%20Axiom.md) | [→ 查看](docs/Apache%20Axiom.md) |
+| [Apache Commons BCEL](docs/Apache%20Commons%20BCEL.md) | [→ 查看](docs/Apache%20Commons%20BCEL.md) |
+| [Apache Commons BeanUtils](docs/Apache%20Commons%20BeanUtils.md) | [→ 查看](docs/Apache%20Commons%20BeanUtils.md) |
+| [Apache Commons CLI](docs/Apache%20Commons%20CLI.md) | [→ 查看](docs/Apache%20Commons%20CLI.md) |
+| [Apache Commons Codec](docs/Apache%20Commons%20Codec.md) | [→ 查看](docs/Apache%20Commons%20Codec.md) |
+| [Apache Commons Collections](docs/Apache%20Commons%20Collections.md) | [→ 查看](docs/Apache%20Commons%20Collections.md) |
+| [Apache Commons Compress](docs/Apache%20Commons%20Compress.md) | [→ 查看](docs/Apache%20Commons%20Compress.md) |
+| [Apache Commons Configuration](docs/Apache%20Commons%20Configuration.md) | [→ 查看](docs/Apache%20Commons%20Configuration.md) |
+| [Apache Commons Crypto](docs/Apache%20Commons%20Crypto.md) | [→ 查看](docs/Apache%20Commons%20Crypto.md) |
+| [Apache Commons CSV](docs/Apache%20Commons%20CSV.md) | [→ 查看](docs/Apache%20Commons%20CSV.md) |
+| [Apache Commons Daemon](docs/Apache%20Commons%20Daemon.md) | [→ 查看](docs/Apache%20Commons%20Daemon.md) |
+| [Apache Ambari](docs/Apache%20Ambari.md) | [→ 查看](docs/Apache%20Ambari.md) |
+| [Apache AsterixDB](docs/Apache%20AsterixDB.md) | [→ 查看](docs/Apache%20AsterixDB.md) |
+| [Apache Axis2](docs/Apache%20Axis2.md) | [→ 查看](docs/Apache%20Axis2.md) |
+| [Apache Batik](docs/Apache%20Batik.md) | [→ 查看](docs/Apache%20Batik.md) |
+| [Apache AntUnit](docs/Apache%20AntUnit.md) | [→ 查看](docs/Apache%20AntUnit.md) |
 
 ## 内容主题
 
@@ -257,6 +444,12 @@ Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**�
 - 站内全文检索：https://www.quzuo.net
 - 按专栏 / 标签浏览，无需登录即可阅读正文
 - 直达链接格式：`https://www.quzuo.net/document/<slug>`，例如 https://www.quzuo.net/document/WIIFPfUSqsph
+
+## 赞助支持
+
+如果这些文档对你的工作有所帮助，欢迎通过 GitHub Sponsors 支持本项目。你的支持将用于持续的真实环境实测、内容更新与维护，帮助我们把这份文档库做得更完整。
+
+- GitHub Sponsors：https://github.com/sponsors/myquzuo
 
 ## 关于 Quzuo
 
