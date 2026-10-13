@@ -445,12 +445,6 @@ Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**�
 - 按专栏 / 标签浏览，无需登录即可阅读正文
 - 直达链接格式：`https://www.quzuo.net/document/<slug>`，例如 https://www.quzuo.net/document/WIIFPfUSqsph
 
-## 赞助支持
-
-如果这些文档对你的工作有所帮助，欢迎通过 GitHub Sponsors 支持本项目。你的支持将用于持续的真实环境实测、内容更新与维护，帮助我们把这份文档库做得更完整。
-
-- GitHub Sponsors：https://github.com/sponsors/myquzuo
-
 ## 关于 Quzuo
 
 Quzuo是一个面向运维与开发者的技术文档平台，文档内容全部基于真实环境实测沉淀，覆盖主流开源软件与国产化技术栈的安装、部署、配置、使用、优化与排障，欢迎[访问官网](https://www.quzuo.net)收藏、检索与分享。
