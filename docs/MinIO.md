@@ -5,8 +5,9 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [MinIO Docker Compose 部署指南](https://www.quzuo.net/document/aQXqV2u5LdKO) | [https://www.quzuo.net/document/aQXqV2u5LdKO](https://www.quzuo.net/document/aQXqV2u5LdKO) |
-| 2 | [MinIO Ubuntu 22.04 安装指南](https://www.quzuo.net/document/IdJspmXQsott) | [https://www.quzuo.net/document/IdJspmXQsott](https://www.quzuo.net/document/IdJspmXQsott) |
-| 3 | [MinIO 常用 CLI 命令与工具详解](https://www.quzuo.net/document/w9kgYqs7vzlE) | [https://www.quzuo.net/document/w9kgYqs7vzlE](https://www.quzuo.net/document/w9kgYqs7vzlE) |
-| 4 | [MinIO 配置参数详解](https://www.quzuo.net/document/PWaThRBHrV9L) | [https://www.quzuo.net/document/PWaThRBHrV9L](https://www.quzuo.net/document/PWaThRBHrV9L) |
+| 2 | [MinIO RELEASE.2025-10-15T17-29-55Z 介绍与选型指南](https://www.quzuo.net/document/8AxDI4vpgwEQ) | [https://www.quzuo.net/document/8AxDI4vpgwEQ](https://www.quzuo.net/document/8AxDI4vpgwEQ) |
+| 3 | [MinIO Ubuntu 22.04 安装指南](https://www.quzuo.net/document/IdJspmXQsott) | [https://www.quzuo.net/document/IdJspmXQsott](https://www.quzuo.net/document/IdJspmXQsott) |
+| 4 | [MinIO 常用 CLI 命令与工具详解](https://www.quzuo.net/document/w9kgYqs7vzlE) | [https://www.quzuo.net/document/w9kgYqs7vzlE](https://www.quzuo.net/document/w9kgYqs7vzlE) |
+| 5 | [MinIO 配置参数详解](https://www.quzuo.net/document/PWaThRBHrV9L) | [https://www.quzuo.net/document/PWaThRBHrV9L](https://www.quzuo.net/document/PWaThRBHrV9L) |
 
 [← 返回文档总览](../README.md)

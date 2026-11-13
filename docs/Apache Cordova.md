@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Cordova 13.0.0 常用 CLI 命令与工具详解](https://www.quzuo.net/document/NnpI2fcin5S1) | [https://www.quzuo.net/document/NnpI2fcin5S1](https://www.quzuo.net/document/NnpI2fcin5S1) |
-| 2 | [Apache Cordova 13.0.0 构建并运行示例移动应用指南](https://www.quzuo.net/document/BvoRG429vrk2) | [https://www.quzuo.net/document/BvoRG429vrk2](https://www.quzuo.net/document/BvoRG429vrk2) |
-| 3 | [Apache Cordova 13.0.0 配置参数详解](https://www.quzuo.net/document/7gLtwn1iBJjn) | [https://www.quzuo.net/document/7gLtwn1iBJjn](https://www.quzuo.net/document/7gLtwn1iBJjn) |
-| 4 | [Ubuntu 22.04 安装 Apache Cordova 13.0.0 指南](https://www.quzuo.net/document/DaJGTB2XFTRC) | [https://www.quzuo.net/document/DaJGTB2XFTRC](https://www.quzuo.net/document/DaJGTB2XFTRC) |
+| 1 | [Apache Cordova 13.0.0 介绍与选型指南](https://www.quzuo.net/document/BTXO41oAUDyg) | [https://www.quzuo.net/document/BTXO41oAUDyg](https://www.quzuo.net/document/BTXO41oAUDyg) |
+| 2 | [Apache Cordova 13.0.0 常用 CLI 命令与工具详解](https://www.quzuo.net/document/NnpI2fcin5S1) | [https://www.quzuo.net/document/NnpI2fcin5S1](https://www.quzuo.net/document/NnpI2fcin5S1) |
+| 3 | [Apache Cordova 13.0.0 构建并运行示例移动应用指南](https://www.quzuo.net/document/BvoRG429vrk2) | [https://www.quzuo.net/document/BvoRG429vrk2](https://www.quzuo.net/document/BvoRG429vrk2) |
+| 4 | [Apache Cordova 13.0.0 配置参数详解](https://www.quzuo.net/document/7gLtwn1iBJjn) | [https://www.quzuo.net/document/7gLtwn1iBJjn](https://www.quzuo.net/document/7gLtwn1iBJjn) |
+| 5 | [Ubuntu 22.04 安装 Apache Cordova 13.0.0 指南](https://www.quzuo.net/document/DaJGTB2XFTRC) | [https://www.quzuo.net/document/DaJGTB2XFTRC](https://www.quzuo.net/document/DaJGTB2XFTRC) |
 
 [← 返回文档总览](../README.md)

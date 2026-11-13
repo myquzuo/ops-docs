@@ -9,6 +9,7 @@
 | 3 | [JuiceFS 1.4 常用 CLI 命令与运维指南](https://www.quzuo.net/document/wDg5Ezl0QNUm) | [https://www.quzuo.net/document/wDg5Ezl0QNUm](https://www.quzuo.net/document/wDg5Ezl0QNUm) |
 | 4 | [JuiceFS 1.4 配置参数详解](https://www.quzuo.net/document/wK2nA7DPLQlE) | [https://www.quzuo.net/document/wK2nA7DPLQlE](https://www.quzuo.net/document/wK2nA7DPLQlE) |
 | 5 | [JuiceFS 1.4 集群模式部署指南](https://www.quzuo.net/document/aK8JVShw3y8K) | [https://www.quzuo.net/document/aK8JVShw3y8K](https://www.quzuo.net/document/aK8JVShw3y8K) |
-| 6 | [Ubuntu 22.04 安装 JuiceFS 1.4 指南](https://www.quzuo.net/document/kKHGSKvf3Xop) | [https://www.quzuo.net/document/kKHGSKvf3Xop](https://www.quzuo.net/document/kKHGSKvf3Xop) |
+| 6 | [JuiceFS 1.4.1 介绍与选型指南](https://www.quzuo.net/document/sNNZiovB71iP) | [https://www.quzuo.net/document/sNNZiovB71iP](https://www.quzuo.net/document/sNNZiovB71iP) |
+| 7 | [Ubuntu 22.04 安装 JuiceFS 1.4 指南](https://www.quzuo.net/document/kKHGSKvf3Xop) | [https://www.quzuo.net/document/kKHGSKvf3Xop](https://www.quzuo.net/document/kKHGSKvf3Xop) |
 
 [← 返回文档总览](../README.md)

@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Hive 单节点伪集群（多HiveServer2）指南](https://www.quzuo.net/document/MtyvmRUe70Dz) | [https://www.quzuo.net/document/MtyvmRUe70Dz](https://www.quzuo.net/document/MtyvmRUe70Dz) |
-| 2 | [Apache Hive 终端命令参数使用示例](https://www.quzuo.net/document/CAevpari77OG) | [https://www.quzuo.net/document/CAevpari77OG](https://www.quzuo.net/document/CAevpari77OG) |
-| 3 | [Apache Hive 配置文件详解](https://www.quzuo.net/document/uQ648XjvxdPZ) | [https://www.quzuo.net/document/uQ648XjvxdPZ](https://www.quzuo.net/document/uQ648XjvxdPZ) |
-| 4 | [Ubuntu 22.04 分布式部署 Apache Hive 指南](https://www.quzuo.net/document/CAHjYlTPYJFt) | [https://www.quzuo.net/document/CAHjYlTPYJFt](https://www.quzuo.net/document/CAHjYlTPYJFt) |
+| 1 | [Apache Hive 4.2.1 介绍与选型指南](https://www.quzuo.net/document/3aa87xHKUoVU) | [https://www.quzuo.net/document/3aa87xHKUoVU](https://www.quzuo.net/document/3aa87xHKUoVU) |
+| 2 | [Apache Hive 单节点伪集群（多HiveServer2）指南](https://www.quzuo.net/document/MtyvmRUe70Dz) | [https://www.quzuo.net/document/MtyvmRUe70Dz](https://www.quzuo.net/document/MtyvmRUe70Dz) |
+| 3 | [Apache Hive 终端命令参数使用示例](https://www.quzuo.net/document/CAevpari77OG) | [https://www.quzuo.net/document/CAevpari77OG](https://www.quzuo.net/document/CAevpari77OG) |
+| 4 | [Apache Hive 配置文件详解](https://www.quzuo.net/document/uQ648XjvxdPZ) | [https://www.quzuo.net/document/uQ648XjvxdPZ](https://www.quzuo.net/document/uQ648XjvxdPZ) |
+| 5 | [Ubuntu 22.04 分布式部署 Apache Hive 指南](https://www.quzuo.net/document/CAHjYlTPYJFt) | [https://www.quzuo.net/document/CAHjYlTPYJFt](https://www.quzuo.net/document/CAHjYlTPYJFt) |
 
 [← 返回文档总览](../README.md)

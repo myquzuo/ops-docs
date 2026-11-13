@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [HAProxy Docker Compose 部署指南](https://www.quzuo.net/document/YgMa1dOZxTlS) | [https://www.quzuo.net/document/YgMa1dOZxTlS](https://www.quzuo.net/document/YgMa1dOZxTlS) |
-| 2 | [HAProxy Ubuntu 22.04 安装指南](https://www.quzuo.net/document/rqtkWtmjbQxY) | [https://www.quzuo.net/document/rqtkWtmjbQxY](https://www.quzuo.net/document/rqtkWtmjbQxY) |
-| 3 | [HAProxy 常用 CLI 命令详解](https://www.quzuo.net/document/wBjEDJsQzV4B) | [https://www.quzuo.net/document/wBjEDJsQzV4B](https://www.quzuo.net/document/wBjEDJsQzV4B) |
-| 4 | [HAProxy 负载均衡配置指南](https://www.quzuo.net/document/srLCgbiXLoHe) | [https://www.quzuo.net/document/srLCgbiXLoHe](https://www.quzuo.net/document/srLCgbiXLoHe) |
+| 1 | [HAProxy 3.1 与 3.2 介绍与选型指南](https://www.quzuo.net/document/BHRWp3u4vpWH) | [https://www.quzuo.net/document/BHRWp3u4vpWH](https://www.quzuo.net/document/BHRWp3u4vpWH) |
+| 2 | [HAProxy Docker Compose 部署指南](https://www.quzuo.net/document/YgMa1dOZxTlS) | [https://www.quzuo.net/document/YgMa1dOZxTlS](https://www.quzuo.net/document/YgMa1dOZxTlS) |
+| 3 | [HAProxy Ubuntu 22.04 安装指南](https://www.quzuo.net/document/rqtkWtmjbQxY) | [https://www.quzuo.net/document/rqtkWtmjbQxY](https://www.quzuo.net/document/rqtkWtmjbQxY) |
+| 4 | [HAProxy 常用 CLI 命令详解](https://www.quzuo.net/document/wBjEDJsQzV4B) | [https://www.quzuo.net/document/wBjEDJsQzV4B](https://www.quzuo.net/document/wBjEDJsQzV4B) |
+| 5 | [HAProxy 负载均衡配置指南](https://www.quzuo.net/document/srLCgbiXLoHe) | [https://www.quzuo.net/document/srLCgbiXLoHe](https://www.quzuo.net/document/srLCgbiXLoHe) |
 
 [← 返回文档总览](../README.md)

@@ -7,6 +7,7 @@
 | 1 | [Apache cTAKES 4.0.0.1 常用 CLI 命令与工具详解](https://www.quzuo.net/document/TM22vDfQyqsF) | [https://www.quzuo.net/document/TM22vDfQyqsF](https://www.quzuo.net/document/TM22vDfQyqsF) |
 | 2 | [Apache cTAKES 4.0.0.1 运行临床文本处理流水线指南](https://www.quzuo.net/document/kEpfynXxnsVS) | [https://www.quzuo.net/document/kEpfynXxnsVS](https://www.quzuo.net/document/kEpfynXxnsVS) |
 | 3 | [Apache cTAKES 4.0.0.1 配置参数详解](https://www.quzuo.net/document/m2fSQZTxNq1q) | [https://www.quzuo.net/document/m2fSQZTxNq1q](https://www.quzuo.net/document/m2fSQZTxNq1q) |
-| 4 | [Ubuntu 22.04 安装 Apache cTAKES 4.0.0.1 指南](https://www.quzuo.net/document/YjpASaIaLWjG) | [https://www.quzuo.net/document/YjpASaIaLWjG](https://www.quzuo.net/document/YjpASaIaLWjG) |
+| 4 | [Apache cTAKES 6.0.0 介绍与选型指南](https://www.quzuo.net/document/gJ9xTmYHzycC) | [https://www.quzuo.net/document/gJ9xTmYHzycC](https://www.quzuo.net/document/gJ9xTmYHzycC) |
+| 5 | [Ubuntu 22.04 安装 Apache cTAKES 4.0.0.1 指南](https://www.quzuo.net/document/YjpASaIaLWjG) | [https://www.quzuo.net/document/YjpASaIaLWjG](https://www.quzuo.net/document/YjpASaIaLWjG) |
 
 [← 返回文档总览](../README.md)

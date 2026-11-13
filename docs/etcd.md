@@ -9,6 +9,7 @@
 | 3 | [etcd 3.7 分布式集群部署指南](https://www.quzuo.net/document/bAYcv1ImIBHf) | [https://www.quzuo.net/document/bAYcv1ImIBHf](https://www.quzuo.net/document/bAYcv1ImIBHf) |
 | 4 | [etcd 3.7 命令与运维指南](https://www.quzuo.net/document/TSHVkSRTw06Z) | [https://www.quzuo.net/document/TSHVkSRTw06Z](https://www.quzuo.net/document/TSHVkSRTw06Z) |
 | 5 | [etcd 3.7 配置参数详解](https://www.quzuo.net/document/3swfeRHboIth) | [https://www.quzuo.net/document/3swfeRHboIth](https://www.quzuo.net/document/3swfeRHboIth) |
-| 6 | [Ubuntu 22.04 安装 etcd 3.7 指南](https://www.quzuo.net/document/x3FMnUgXslzE) | [https://www.quzuo.net/document/x3FMnUgXslzE](https://www.quzuo.net/document/x3FMnUgXslzE) |
+| 6 | [etcd 3.7.2 介绍与选型指南](https://www.quzuo.net/document/VfLnCB7u05Cq) | [https://www.quzuo.net/document/VfLnCB7u05Cq](https://www.quzuo.net/document/VfLnCB7u05Cq) |
+| 7 | [Ubuntu 22.04 安装 etcd 3.7 指南](https://www.quzuo.net/document/x3FMnUgXslzE) | [https://www.quzuo.net/document/x3FMnUgXslzE](https://www.quzuo.net/document/x3FMnUgXslzE) |
 
 [← 返回文档总览](../README.md)

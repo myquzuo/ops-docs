@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [XigmaNAS QEMU 虚拟机部署安装指南](https://www.quzuo.net/document/Y1iUEaWOdrN9) | [https://www.quzuo.net/document/Y1iUEaWOdrN9](https://www.quzuo.net/document/Y1iUEaWOdrN9) |
-| 2 | [XigmaNAS Web 界面配置详解](https://www.quzuo.net/document/CQLHPecGi0Pi) | [https://www.quzuo.net/document/CQLHPecGi0Pi](https://www.quzuo.net/document/CQLHPecGi0Pi) |
-| 3 | [XigmaNAS 常用命令行与运维指南](https://www.quzuo.net/document/KthlonDRLqZL) | [https://www.quzuo.net/document/KthlonDRLqZL](https://www.quzuo.net/document/KthlonDRLqZL) |
-| 4 | [XigmaNAS 简介、版本与镜像下载指南](https://www.quzuo.net/document/gdpJnuX8jn8j) | [https://www.quzuo.net/document/gdpJnuX8jn8j](https://www.quzuo.net/document/gdpJnuX8jn8j) |
+| 1 | [XigmaNAS 14.3 介绍与选型指南](https://www.quzuo.net/document/ihq4nsGD9ueZ) | [https://www.quzuo.net/document/ihq4nsGD9ueZ](https://www.quzuo.net/document/ihq4nsGD9ueZ) |
+| 2 | [XigmaNAS QEMU 虚拟机部署安装指南](https://www.quzuo.net/document/Y1iUEaWOdrN9) | [https://www.quzuo.net/document/Y1iUEaWOdrN9](https://www.quzuo.net/document/Y1iUEaWOdrN9) |
+| 3 | [XigmaNAS Web 界面配置详解](https://www.quzuo.net/document/CQLHPecGi0Pi) | [https://www.quzuo.net/document/CQLHPecGi0Pi](https://www.quzuo.net/document/CQLHPecGi0Pi) |
+| 4 | [XigmaNAS 常用命令行与运维指南](https://www.quzuo.net/document/KthlonDRLqZL) | [https://www.quzuo.net/document/KthlonDRLqZL](https://www.quzuo.net/document/KthlonDRLqZL) |
+| 5 | [XigmaNAS 简介、版本与镜像下载指南](https://www.quzuo.net/document/gdpJnuX8jn8j) | [https://www.quzuo.net/document/gdpJnuX8jn8j](https://www.quzuo.net/document/gdpJnuX8jn8j) |
 
 [← 返回文档总览](../README.md)

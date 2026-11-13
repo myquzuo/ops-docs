@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Allura Docker Compose 部署指南](https://www.quzuo.net/document/AxlJE9mOnSfp) | [https://www.quzuo.net/document/AxlJE9mOnSfp](https://www.quzuo.net/document/AxlJE9mOnSfp) |
-| 2 | [Apache Allura 常用 CLI 命令与运维指南](https://www.quzuo.net/document/cxTCq5B8FcHb) | [https://www.quzuo.net/document/cxTCq5B8FcHb](https://www.quzuo.net/document/cxTCq5B8FcHb) |
-| 3 | [Apache Allura 配置参数详解](https://www.quzuo.net/document/Nat8HruBePrR) | [https://www.quzuo.net/document/Nat8HruBePrR](https://www.quzuo.net/document/Nat8HruBePrR) |
-| 4 | [Ubuntu 22.04 安装 Apache Allura 指南](https://www.quzuo.net/document/TcTUvQwmOtj9) | [https://www.quzuo.net/document/TcTUvQwmOtj9](https://www.quzuo.net/document/TcTUvQwmOtj9) |
+| 1 | [Apache Allura 1.22 介绍与选型指南](https://www.quzuo.net/document/AcL4jxmV3Xjt) | [https://www.quzuo.net/document/AcL4jxmV3Xjt](https://www.quzuo.net/document/AcL4jxmV3Xjt) |
+| 2 | [Apache Allura Docker Compose 部署指南](https://www.quzuo.net/document/AxlJE9mOnSfp) | [https://www.quzuo.net/document/AxlJE9mOnSfp](https://www.quzuo.net/document/AxlJE9mOnSfp) |
+| 3 | [Apache Allura 常用 CLI 命令与运维指南](https://www.quzuo.net/document/cxTCq5B8FcHb) | [https://www.quzuo.net/document/cxTCq5B8FcHb](https://www.quzuo.net/document/cxTCq5B8FcHb) |
+| 4 | [Apache Allura 配置参数详解](https://www.quzuo.net/document/Nat8HruBePrR) | [https://www.quzuo.net/document/Nat8HruBePrR](https://www.quzuo.net/document/Nat8HruBePrR) |
+| 5 | [Ubuntu 22.04 安装 Apache Allura 指南](https://www.quzuo.net/document/TcTUvQwmOtj9) | [https://www.quzuo.net/document/TcTUvQwmOtj9](https://www.quzuo.net/document/TcTUvQwmOtj9) |
 
 [← 返回文档总览](../README.md)

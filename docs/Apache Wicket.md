@@ -4,10 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Wicket 常用 CLI 命令与工具详解](https://www.quzuo.net/document/XcvoKnWOWIzv) | [https://www.quzuo.net/document/XcvoKnWOWIzv](https://www.quzuo.net/document/XcvoKnWOWIzv) |
-| 2 | [Apache Wicket 快速入门与集成示例](https://www.quzuo.net/document/Fgxhaekpw5mi) | [https://www.quzuo.net/document/Fgxhaekpw5mi](https://www.quzuo.net/document/Fgxhaekpw5mi) |
-| 3 | [Apache Wicket 配置参数详解](https://www.quzuo.net/document/GplLi8zSzsWo) | [https://www.quzuo.net/document/GplLi8zSzsWo](https://www.quzuo.net/document/GplLi8zSzsWo) |
-| 4 | [CentOS 8 安装 Apache Wicket 指南](https://www.quzuo.net/document/OvTpyg8Ia9e4) | [https://www.quzuo.net/document/OvTpyg8Ia9e4](https://www.quzuo.net/document/OvTpyg8Ia9e4) |
-| 5 | [Ubuntu 22.04 安装 Apache Wicket 指南](https://www.quzuo.net/document/QgWYlgvFouVt) | [https://www.quzuo.net/document/QgWYlgvFouVt](https://www.quzuo.net/document/QgWYlgvFouVt) |
+| 1 | [Apache Wicket 10.11.0 介绍与选型指南](https://www.quzuo.net/document/CDt8IGXw8DVn) | [https://www.quzuo.net/document/CDt8IGXw8DVn](https://www.quzuo.net/document/CDt8IGXw8DVn) |
+| 2 | [Apache Wicket 常用 CLI 命令与工具详解](https://www.quzuo.net/document/XcvoKnWOWIzv) | [https://www.quzuo.net/document/XcvoKnWOWIzv](https://www.quzuo.net/document/XcvoKnWOWIzv) |
+| 3 | [Apache Wicket 快速入门与集成示例](https://www.quzuo.net/document/Fgxhaekpw5mi) | [https://www.quzuo.net/document/Fgxhaekpw5mi](https://www.quzuo.net/document/Fgxhaekpw5mi) |
+| 4 | [Apache Wicket 配置参数详解](https://www.quzuo.net/document/GplLi8zSzsWo) | [https://www.quzuo.net/document/GplLi8zSzsWo](https://www.quzuo.net/document/GplLi8zSzsWo) |
+| 5 | [CentOS 8 安装 Apache Wicket 指南](https://www.quzuo.net/document/OvTpyg8Ia9e4) | [https://www.quzuo.net/document/OvTpyg8Ia9e4](https://www.quzuo.net/document/OvTpyg8Ia9e4) |
+| 6 | [Ubuntu 22.04 安装 Apache Wicket 指南](https://www.quzuo.net/document/QgWYlgvFouVt) | [https://www.quzuo.net/document/QgWYlgvFouVt](https://www.quzuo.net/document/QgWYlgvFouVt) |
 
 [← 返回文档总览](../README.md)

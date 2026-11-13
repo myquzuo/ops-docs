@@ -8,5 +8,6 @@
 | 2 | [Apache BifroMQ 3.3.5 安装指南](https://www.quzuo.net/document/Z1hu9KZjUBRZ) | [https://www.quzuo.net/document/Z1hu9KZjUBRZ](https://www.quzuo.net/document/Z1hu9KZjUBRZ) |
 | 3 | [Apache BifroMQ 3.3.5 常用 CLI 命令与工具详解](https://www.quzuo.net/document/9Zrr4lJFN55r) | [https://www.quzuo.net/document/9Zrr4lJFN55r](https://www.quzuo.net/document/9Zrr4lJFN55r) |
 | 4 | [Apache BifroMQ 3.3.5 配置参数详解](https://www.quzuo.net/document/nNPhvkxk4epc) | [https://www.quzuo.net/document/nNPhvkxk4epc](https://www.quzuo.net/document/nNPhvkxk4epc) |
+| 5 | [Apache BifroMQ 4.0.0-incubating 介绍与选型指南](https://www.quzuo.net/document/1Ka6K5TtbKWQ) | [https://www.quzuo.net/document/1Ka6K5TtbKWQ](https://www.quzuo.net/document/1Ka6K5TtbKWQ) |
 
 [← 返回文档总览](../README.md)

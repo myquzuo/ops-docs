@@ -14,15 +14,16 @@
 | 8 | [CentOS 8 Neovim 安装与命令参数详解](https://www.quzuo.net/document/FVLpw0UaAraK) | [https://www.quzuo.net/document/FVLpw0UaAraK](https://www.quzuo.net/document/FVLpw0UaAraK) |
 | 9 | [CentOS 8 Valgrind 安装与命令参数详解](https://www.quzuo.net/document/TkawuCktrb7a) | [https://www.quzuo.net/document/TkawuCktrb7a](https://www.quzuo.net/document/TkawuCktrb7a) |
 | 10 | [CentOS 8 Vim 安装与命令参数详解](https://www.quzuo.net/document/MF3dH6XZKFgq) | [https://www.quzuo.net/document/MF3dH6XZKFgq](https://www.quzuo.net/document/MF3dH6XZKFgq) |
-| 11 | [Ubuntu 22.04 build-essential 安装与命令参数详解](https://www.quzuo.net/document/RgdYYso1xDGg) | [https://www.quzuo.net/document/RgdYYso1xDGg](https://www.quzuo.net/document/RgdYYso1xDGg) |
-| 12 | [Ubuntu 22.04 CMake 安装与命令参数详解](https://www.quzuo.net/document/9N3QK2aHS5Qj) | [https://www.quzuo.net/document/9N3QK2aHS5Qj](https://www.quzuo.net/document/9N3QK2aHS5Qj) |
-| 13 | [Ubuntu 22.04 G++ 安装与命令参数详解](https://www.quzuo.net/document/lZwfSzcV4dat) | [https://www.quzuo.net/document/lZwfSzcV4dat](https://www.quzuo.net/document/lZwfSzcV4dat) |
-| 14 | [Ubuntu 22.04 GCC 安装与命令参数详解](https://www.quzuo.net/document/lQFLzgOiCe3G) | [https://www.quzuo.net/document/lQFLzgOiCe3G](https://www.quzuo.net/document/lQFLzgOiCe3G) |
-| 15 | [Ubuntu 22.04 GDB 安装与命令参数详解](https://www.quzuo.net/document/H5eU06GIZgXF) | [https://www.quzuo.net/document/H5eU06GIZgXF](https://www.quzuo.net/document/H5eU06GIZgXF) |
-| 16 | [Ubuntu 22.04 Git 安装与命令参数详解](https://www.quzuo.net/document/aJEqMbFcukaB) | [https://www.quzuo.net/document/aJEqMbFcukaB](https://www.quzuo.net/document/aJEqMbFcukaB) |
-| 17 | [Ubuntu 22.04 GNU Make 安装与命令参数详解](https://www.quzuo.net/document/YJbvPYZ5Di5z) | [https://www.quzuo.net/document/YJbvPYZ5Di5z](https://www.quzuo.net/document/YJbvPYZ5Di5z) |
-| 18 | [Ubuntu 22.04 Neovim 安装与命令参数详解](https://www.quzuo.net/document/DiETG3P82uWs) | [https://www.quzuo.net/document/DiETG3P82uWs](https://www.quzuo.net/document/DiETG3P82uWs) |
-| 19 | [Ubuntu 22.04 Valgrind 安装与命令参数详解](https://www.quzuo.net/document/MffpBXWshsUX) | [https://www.quzuo.net/document/MffpBXWshsUX](https://www.quzuo.net/document/MffpBXWshsUX) |
-| 20 | [Ubuntu 22.04 Vim 安装与命令参数详解](https://www.quzuo.net/document/KAjazaNsONMq) | [https://www.quzuo.net/document/KAjazaNsONMq](https://www.quzuo.net/document/KAjazaNsONMq) |
+| 11 | [Linux开发与编译工具链 介绍与选型指南](https://www.quzuo.net/document/42P2nt7O3CQ8) | [https://www.quzuo.net/document/42P2nt7O3CQ8](https://www.quzuo.net/document/42P2nt7O3CQ8) |
+| 12 | [Ubuntu 22.04 build-essential 安装与命令参数详解](https://www.quzuo.net/document/RgdYYso1xDGg) | [https://www.quzuo.net/document/RgdYYso1xDGg](https://www.quzuo.net/document/RgdYYso1xDGg) |
+| 13 | [Ubuntu 22.04 CMake 安装与命令参数详解](https://www.quzuo.net/document/9N3QK2aHS5Qj) | [https://www.quzuo.net/document/9N3QK2aHS5Qj](https://www.quzuo.net/document/9N3QK2aHS5Qj) |
+| 14 | [Ubuntu 22.04 G++ 安装与命令参数详解](https://www.quzuo.net/document/lZwfSzcV4dat) | [https://www.quzuo.net/document/lZwfSzcV4dat](https://www.quzuo.net/document/lZwfSzcV4dat) |
+| 15 | [Ubuntu 22.04 GCC 安装与命令参数详解](https://www.quzuo.net/document/lQFLzgOiCe3G) | [https://www.quzuo.net/document/lQFLzgOiCe3G](https://www.quzuo.net/document/lQFLzgOiCe3G) |
+| 16 | [Ubuntu 22.04 GDB 安装与命令参数详解](https://www.quzuo.net/document/H5eU06GIZgXF) | [https://www.quzuo.net/document/H5eU06GIZgXF](https://www.quzuo.net/document/H5eU06GIZgXF) |
+| 17 | [Ubuntu 22.04 Git 安装与命令参数详解](https://www.quzuo.net/document/aJEqMbFcukaB) | [https://www.quzuo.net/document/aJEqMbFcukaB](https://www.quzuo.net/document/aJEqMbFcukaB) |
+| 18 | [Ubuntu 22.04 GNU Make 安装与命令参数详解](https://www.quzuo.net/document/YJbvPYZ5Di5z) | [https://www.quzuo.net/document/YJbvPYZ5Di5z](https://www.quzuo.net/document/YJbvPYZ5Di5z) |
+| 19 | [Ubuntu 22.04 Neovim 安装与命令参数详解](https://www.quzuo.net/document/DiETG3P82uWs) | [https://www.quzuo.net/document/DiETG3P82uWs](https://www.quzuo.net/document/DiETG3P82uWs) |
+| 20 | [Ubuntu 22.04 Valgrind 安装与命令参数详解](https://www.quzuo.net/document/MffpBXWshsUX) | [https://www.quzuo.net/document/MffpBXWshsUX](https://www.quzuo.net/document/MffpBXWshsUX) |
+| 21 | [Ubuntu 22.04 Vim 安装与命令参数详解](https://www.quzuo.net/document/KAjazaNsONMq) | [https://www.quzuo.net/document/KAjazaNsONMq](https://www.quzuo.net/document/KAjazaNsONMq) |
 
 [← 返回文档总览](../README.md)

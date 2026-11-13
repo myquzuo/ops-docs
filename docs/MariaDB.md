@@ -7,6 +7,7 @@
 | 1 | [MariaDB 11.8 Docker Compose 部署指南](https://www.quzuo.net/document/NeGHKKqbjQCW) | [https://www.quzuo.net/document/NeGHKKqbjQCW](https://www.quzuo.net/document/NeGHKKqbjQCW) |
 | 2 | [MariaDB 11.8 常用 CLI 命令与工具详解](https://www.quzuo.net/document/YryYJUOv8wdv) | [https://www.quzuo.net/document/YryYJUOv8wdv](https://www.quzuo.net/document/YryYJUOv8wdv) |
 | 3 | [MariaDB 11.8 配置参数详解](https://www.quzuo.net/document/xUugiwOeUR5x) | [https://www.quzuo.net/document/xUugiwOeUR5x](https://www.quzuo.net/document/xUugiwOeUR5x) |
-| 4 | [Ubuntu 24.04 安装 MariaDB 11.8](https://www.quzuo.net/document/tBqwvjdfnbXc) | [https://www.quzuo.net/document/tBqwvjdfnbXc](https://www.quzuo.net/document/tBqwvjdfnbXc) |
+| 4 | [MariaDB 13.0 介绍与选型指南](https://www.quzuo.net/document/Hh9CW7Kb85kN) | [https://www.quzuo.net/document/Hh9CW7Kb85kN](https://www.quzuo.net/document/Hh9CW7Kb85kN) |
+| 5 | [Ubuntu 24.04 安装 MariaDB 11.8](https://www.quzuo.net/document/tBqwvjdfnbXc) | [https://www.quzuo.net/document/tBqwvjdfnbXc](https://www.quzuo.net/document/tBqwvjdfnbXc) |
 
 [← 返回文档总览](../README.md)

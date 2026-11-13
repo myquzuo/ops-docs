@@ -5,8 +5,9 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [Apache Qpid Docker Compose 部署指南](https://www.quzuo.net/document/YKwvr0g5vIBJ) | [https://www.quzuo.net/document/YKwvr0g5vIBJ](https://www.quzuo.net/document/YKwvr0g5vIBJ) |
-| 2 | [Apache Qpid 安装指南](https://www.quzuo.net/document/qEn3n1E9RWpL) | [https://www.quzuo.net/document/qEn3n1E9RWpL](https://www.quzuo.net/document/qEn3n1E9RWpL) |
-| 3 | [Apache Qpid 常用 CLI 命令与工具详解](https://www.quzuo.net/document/tOihIEnqDLWM) | [https://www.quzuo.net/document/tOihIEnqDLWM](https://www.quzuo.net/document/tOihIEnqDLWM) |
-| 4 | [Apache Qpid 配置参数详解](https://www.quzuo.net/document/eetLr7ca0w13) | [https://www.quzuo.net/document/eetLr7ca0w13](https://www.quzuo.net/document/eetLr7ca0w13) |
+| 2 | [Apache Qpid 介绍与选型指南](https://www.quzuo.net/document/ZnDI1G7XoIOR) | [https://www.quzuo.net/document/ZnDI1G7XoIOR](https://www.quzuo.net/document/ZnDI1G7XoIOR) |
+| 3 | [Apache Qpid 安装指南](https://www.quzuo.net/document/qEn3n1E9RWpL) | [https://www.quzuo.net/document/qEn3n1E9RWpL](https://www.quzuo.net/document/qEn3n1E9RWpL) |
+| 4 | [Apache Qpid 常用 CLI 命令与工具详解](https://www.quzuo.net/document/tOihIEnqDLWM) | [https://www.quzuo.net/document/tOihIEnqDLWM](https://www.quzuo.net/document/tOihIEnqDLWM) |
+| 5 | [Apache Qpid 配置参数详解](https://www.quzuo.net/document/eetLr7ca0w13) | [https://www.quzuo.net/document/eetLr7ca0w13](https://www.quzuo.net/document/eetLr7ca0w13) |
 
 [← 返回文档总览](../README.md)

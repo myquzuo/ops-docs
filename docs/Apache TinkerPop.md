@@ -5,9 +5,10 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [Apache TinkerPop 3.8.2 Docker Compose 部署指南](https://www.quzuo.net/document/cVznxBnd3x5V) | [https://www.quzuo.net/document/cVznxBnd3x5V](https://www.quzuo.net/document/cVznxBnd3x5V) |
-| 2 | [Apache TinkerPop 3.8.2 常用 CLI 命令与工具详解](https://www.quzuo.net/document/LiWT8ss5p1i9) | [https://www.quzuo.net/document/LiWT8ss5p1i9](https://www.quzuo.net/document/LiWT8ss5p1i9) |
-| 3 | [Apache TinkerPop 3.8.2 配置参数详解](https://www.quzuo.net/document/RG7vFkG4EwKG) | [https://www.quzuo.net/document/RG7vFkG4EwKG](https://www.quzuo.net/document/RG7vFkG4EwKG) |
-| 4 | [CentOS 8 安装 Apache TinkerPop 3.8.2 指南](https://www.quzuo.net/document/CDtwd2pFtc1o) | [https://www.quzuo.net/document/CDtwd2pFtc1o](https://www.quzuo.net/document/CDtwd2pFtc1o) |
-| 5 | [Ubuntu 22.04 安装 Apache TinkerPop 3.8.2 指南](https://www.quzuo.net/document/D5TjUzu1goTU) | [https://www.quzuo.net/document/D5TjUzu1goTU](https://www.quzuo.net/document/D5TjUzu1goTU) |
+| 2 | [Apache TinkerPop 3.8.2 介绍与选型指南](https://www.quzuo.net/document/jMPAMt5OL3jf) | [https://www.quzuo.net/document/jMPAMt5OL3jf](https://www.quzuo.net/document/jMPAMt5OL3jf) |
+| 3 | [Apache TinkerPop 3.8.2 常用 CLI 命令与工具详解](https://www.quzuo.net/document/LiWT8ss5p1i9) | [https://www.quzuo.net/document/LiWT8ss5p1i9](https://www.quzuo.net/document/LiWT8ss5p1i9) |
+| 4 | [Apache TinkerPop 3.8.2 配置参数详解](https://www.quzuo.net/document/RG7vFkG4EwKG) | [https://www.quzuo.net/document/RG7vFkG4EwKG](https://www.quzuo.net/document/RG7vFkG4EwKG) |
+| 5 | [CentOS 8 安装 Apache TinkerPop 3.8.2 指南](https://www.quzuo.net/document/CDtwd2pFtc1o) | [https://www.quzuo.net/document/CDtwd2pFtc1o](https://www.quzuo.net/document/CDtwd2pFtc1o) |
+| 6 | [Ubuntu 22.04 安装 Apache TinkerPop 3.8.2 指南](https://www.quzuo.net/document/D5TjUzu1goTU) | [https://www.quzuo.net/document/D5TjUzu1goTU](https://www.quzuo.net/document/D5TjUzu1goTU) |
 
 [← 返回文档总览](../README.md)

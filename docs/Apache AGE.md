@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache AGE Docker Compose 部署指南](https://www.quzuo.net/document/J1VeV97ClxeM) | [https://www.quzuo.net/document/J1VeV97ClxeM](https://www.quzuo.net/document/J1VeV97ClxeM) |
-| 2 | [Apache AGE 常用命令与运维指南](https://www.quzuo.net/document/Rcgv7lhskbN7) | [https://www.quzuo.net/document/Rcgv7lhskbN7](https://www.quzuo.net/document/Rcgv7lhskbN7) |
-| 3 | [Apache AGE 配置参数详解](https://www.quzuo.net/document/tPy4wCAD9REj) | [https://www.quzuo.net/document/tPy4wCAD9REj](https://www.quzuo.net/document/tPy4wCAD9REj) |
-| 4 | [Ubuntu 22.04 安装 Apache AGE 1.4.0 指南](https://www.quzuo.net/document/am3Ed4YnyrTt) | [https://www.quzuo.net/document/am3Ed4YnyrTt](https://www.quzuo.net/document/am3Ed4YnyrTt) |
+| 1 | [Apache AGE 1.8 介绍与选型指南](https://www.quzuo.net/document/v4hiCJBEX5zP) | [https://www.quzuo.net/document/v4hiCJBEX5zP](https://www.quzuo.net/document/v4hiCJBEX5zP) |
+| 2 | [Apache AGE Docker Compose 部署指南](https://www.quzuo.net/document/J1VeV97ClxeM) | [https://www.quzuo.net/document/J1VeV97ClxeM](https://www.quzuo.net/document/J1VeV97ClxeM) |
+| 3 | [Apache AGE 常用命令与运维指南](https://www.quzuo.net/document/Rcgv7lhskbN7) | [https://www.quzuo.net/document/Rcgv7lhskbN7](https://www.quzuo.net/document/Rcgv7lhskbN7) |
+| 4 | [Apache AGE 配置参数详解](https://www.quzuo.net/document/tPy4wCAD9REj) | [https://www.quzuo.net/document/tPy4wCAD9REj](https://www.quzuo.net/document/tPy4wCAD9REj) |
+| 5 | [Ubuntu 22.04 安装 Apache AGE 1.4.0 指南](https://www.quzuo.net/document/am3Ed4YnyrTt) | [https://www.quzuo.net/document/am3Ed4YnyrTt](https://www.quzuo.net/document/am3Ed4YnyrTt) |
 
 [← 返回文档总览](../README.md)

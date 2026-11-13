@@ -4,10 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Kafka 终端命令参数使用示例](https://www.quzuo.net/document/PuxHnO3HgftW) | [https://www.quzuo.net/document/PuxHnO3HgftW](https://www.quzuo.net/document/PuxHnO3HgftW) |
-| 2 | [Apache Kafka 配置文件详解](https://www.quzuo.net/document/eFL0ydarbLvz) | [https://www.quzuo.net/document/eFL0ydarbLvz](https://www.quzuo.net/document/eFL0ydarbLvz) |
-| 3 | [Ubuntu 22.04 分布式部署 Apache Kafka（KRaft 综合模式）指南](https://www.quzuo.net/document/x0NtVvu4rcfp) | [https://www.quzuo.net/document/x0NtVvu4rcfp](https://www.quzuo.net/document/x0NtVvu4rcfp) |
-| 4 | [Ubuntu 22.04 分布式部署 Apache Kafka（ZooKeeper 依赖型）指南](https://www.quzuo.net/document/Kbi0bafTZ3mJ) | [https://www.quzuo.net/document/Kbi0bafTZ3mJ](https://www.quzuo.net/document/Kbi0bafTZ3mJ) |
-| 5 | [Ubuntu 22.04 单节点伪集群部署 Apache Kafka 指南](https://www.quzuo.net/document/dMaw6Q8VjD0T) | [https://www.quzuo.net/document/dMaw6Q8VjD0T](https://www.quzuo.net/document/dMaw6Q8VjD0T) |
+| 1 | [Apache Kafka 4.3.1 介绍与选型指南](https://www.quzuo.net/document/UY8CbivIy40Z) | [https://www.quzuo.net/document/UY8CbivIy40Z](https://www.quzuo.net/document/UY8CbivIy40Z) |
+| 2 | [Apache Kafka 终端命令参数使用示例](https://www.quzuo.net/document/PuxHnO3HgftW) | [https://www.quzuo.net/document/PuxHnO3HgftW](https://www.quzuo.net/document/PuxHnO3HgftW) |
+| 3 | [Apache Kafka 配置文件详解](https://www.quzuo.net/document/eFL0ydarbLvz) | [https://www.quzuo.net/document/eFL0ydarbLvz](https://www.quzuo.net/document/eFL0ydarbLvz) |
+| 4 | [Ubuntu 22.04 分布式部署 Apache Kafka（KRaft 综合模式）指南](https://www.quzuo.net/document/x0NtVvu4rcfp) | [https://www.quzuo.net/document/x0NtVvu4rcfp](https://www.quzuo.net/document/x0NtVvu4rcfp) |
+| 5 | [Ubuntu 22.04 分布式部署 Apache Kafka（ZooKeeper 依赖型）指南](https://www.quzuo.net/document/Kbi0bafTZ3mJ) | [https://www.quzuo.net/document/Kbi0bafTZ3mJ](https://www.quzuo.net/document/Kbi0bafTZ3mJ) |
+| 6 | [Ubuntu 22.04 单节点伪集群部署 Apache Kafka 指南](https://www.quzuo.net/document/dMaw6Q8VjD0T) | [https://www.quzuo.net/document/dMaw6Q8VjD0T](https://www.quzuo.net/document/dMaw6Q8VjD0T) |
 
 [← 返回文档总览](../README.md)

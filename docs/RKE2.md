@@ -5,10 +5,11 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [CentOS 8 安装 RKE2 集群指南](https://www.quzuo.net/document/LiWLhb25RABs) | [https://www.quzuo.net/document/LiWLhb25RABs](https://www.quzuo.net/document/LiWLhb25RABs) |
-| 2 | [RKE2 常用 CLI 命令详解（CentOS 8）](https://www.quzuo.net/document/g0WQe0f2C9gM) | [https://www.quzuo.net/document/g0WQe0f2C9gM](https://www.quzuo.net/document/g0WQe0f2C9gM) |
-| 3 | [RKE2 常用 CLI 命令详解（Ubuntu 22.04）](https://www.quzuo.net/document/xS9uol7iukmq) | [https://www.quzuo.net/document/xS9uol7iukmq](https://www.quzuo.net/document/xS9uol7iukmq) |
-| 4 | [RKE2 集群配置文件详解（CentOS 8）](https://www.quzuo.net/document/lSHdD0TmM8Ri) | [https://www.quzuo.net/document/lSHdD0TmM8Ri](https://www.quzuo.net/document/lSHdD0TmM8Ri) |
-| 5 | [RKE2 集群配置文件详解（Ubuntu 22.04）](https://www.quzuo.net/document/lCGdbIhhgz13) | [https://www.quzuo.net/document/lCGdbIhhgz13](https://www.quzuo.net/document/lCGdbIhhgz13) |
-| 6 | [Ubuntu 22.04 安装 RKE2 集群指南](https://www.quzuo.net/document/f2yPmMI579YJ) | [https://www.quzuo.net/document/f2yPmMI579YJ](https://www.quzuo.net/document/f2yPmMI579YJ) |
+| 2 | [RKE2 1.37 介绍与选型指南](https://www.quzuo.net/document/jTezXWSG05rA) | [https://www.quzuo.net/document/jTezXWSG05rA](https://www.quzuo.net/document/jTezXWSG05rA) |
+| 3 | [RKE2 常用 CLI 命令详解（CentOS 8）](https://www.quzuo.net/document/g0WQe0f2C9gM) | [https://www.quzuo.net/document/g0WQe0f2C9gM](https://www.quzuo.net/document/g0WQe0f2C9gM) |
+| 4 | [RKE2 常用 CLI 命令详解（Ubuntu 22.04）](https://www.quzuo.net/document/xS9uol7iukmq) | [https://www.quzuo.net/document/xS9uol7iukmq](https://www.quzuo.net/document/xS9uol7iukmq) |
+| 5 | [RKE2 集群配置文件详解（CentOS 8）](https://www.quzuo.net/document/lSHdD0TmM8Ri) | [https://www.quzuo.net/document/lSHdD0TmM8Ri](https://www.quzuo.net/document/lSHdD0TmM8Ri) |
+| 6 | [RKE2 集群配置文件详解（Ubuntu 22.04）](https://www.quzuo.net/document/lCGdbIhhgz13) | [https://www.quzuo.net/document/lCGdbIhhgz13](https://www.quzuo.net/document/lCGdbIhhgz13) |
+| 7 | [Ubuntu 22.04 安装 RKE2 集群指南](https://www.quzuo.net/document/f2yPmMI579YJ) | [https://www.quzuo.net/document/f2yPmMI579YJ](https://www.quzuo.net/document/f2yPmMI579YJ) |
 
 [← 返回文档总览](../README.md)

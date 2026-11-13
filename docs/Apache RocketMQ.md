@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache RocketMQ 终端命令参数使用示例](https://www.quzuo.net/document/Sq6mtciNRyIU) | [https://www.quzuo.net/document/Sq6mtciNRyIU](https://www.quzuo.net/document/Sq6mtciNRyIU) |
-| 2 | [Apache RocketMQ 配置文件详解](https://www.quzuo.net/document/qtdvlCyc2ArB) | [https://www.quzuo.net/document/qtdvlCyc2ArB](https://www.quzuo.net/document/qtdvlCyc2ArB) |
-| 3 | [Ubuntu 22.04 分布式部署 Apache RocketMQ 指南](https://www.quzuo.net/document/7QmuNDRv8u8a) | [https://www.quzuo.net/document/7QmuNDRv8u8a](https://www.quzuo.net/document/7QmuNDRv8u8a) |
-| 4 | [Ubuntu 22.04 单节点伪集群部署 Apache RocketMQ 指南](https://www.quzuo.net/document/X2JrRB9Xp70a) | [https://www.quzuo.net/document/X2JrRB9Xp70a](https://www.quzuo.net/document/X2JrRB9Xp70a) |
+| 1 | [Apache RocketMQ 5.5.1 介绍与选型指南](https://www.quzuo.net/document/SKLzgMdexSHr) | [https://www.quzuo.net/document/SKLzgMdexSHr](https://www.quzuo.net/document/SKLzgMdexSHr) |
+| 2 | [Apache RocketMQ 终端命令参数使用示例](https://www.quzuo.net/document/Sq6mtciNRyIU) | [https://www.quzuo.net/document/Sq6mtciNRyIU](https://www.quzuo.net/document/Sq6mtciNRyIU) |
+| 3 | [Apache RocketMQ 配置文件详解](https://www.quzuo.net/document/qtdvlCyc2ArB) | [https://www.quzuo.net/document/qtdvlCyc2ArB](https://www.quzuo.net/document/qtdvlCyc2ArB) |
+| 4 | [Ubuntu 22.04 分布式部署 Apache RocketMQ 指南](https://www.quzuo.net/document/7QmuNDRv8u8a) | [https://www.quzuo.net/document/7QmuNDRv8u8a](https://www.quzuo.net/document/7QmuNDRv8u8a) |
+| 5 | [Ubuntu 22.04 单节点伪集群部署 Apache RocketMQ 指南](https://www.quzuo.net/document/X2JrRB9Xp70a) | [https://www.quzuo.net/document/X2JrRB9Xp70a](https://www.quzuo.net/document/X2JrRB9Xp70a) |
 
 [← 返回文档总览](../README.md)

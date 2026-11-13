@@ -5,10 +5,11 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [CentOS 8 安装 OceanBase CE 5.0.1.0 指南](https://www.quzuo.net/document/9niYuRqzEyWD) | [https://www.quzuo.net/document/9niYuRqzEyWD](https://www.quzuo.net/document/9niYuRqzEyWD) |
-| 2 | [OceanBase CE 5.0.1.0 Docker Compose 部署指南](https://www.quzuo.net/document/YVCHGGy3mMbx) | [https://www.quzuo.net/document/YVCHGGy3mMbx](https://www.quzuo.net/document/YVCHGGy3mMbx) |
-| 3 | [OceanBase CE 5.0.1.0 分布式集群部署指南](https://www.quzuo.net/document/XzsPda9JPvJG) | [https://www.quzuo.net/document/XzsPda9JPvJG](https://www.quzuo.net/document/XzsPda9JPvJG) |
-| 4 | [OceanBase CE 5.0.1.0 配置参数详解](https://www.quzuo.net/document/NfKadeKZt0MS) | [https://www.quzuo.net/document/NfKadeKZt0MS](https://www.quzuo.net/document/NfKadeKZt0MS) |
-| 5 | [OceanBase 常用 CLI 命令与工具详解](https://www.quzuo.net/document/jqwwd7UnfKM9) | [https://www.quzuo.net/document/jqwwd7UnfKM9](https://www.quzuo.net/document/jqwwd7UnfKM9) |
-| 6 | [Ubuntu 22.04 安装 OceanBase CE 5.0.1.0 指南](https://www.quzuo.net/document/cbxSvYtxlF17) | [https://www.quzuo.net/document/cbxSvYtxlF17](https://www.quzuo.net/document/cbxSvYtxlF17) |
+| 2 | [OceanBase 5.0.1 介绍与选型指南](https://www.quzuo.net/document/mBVmpQdC1Eqi) | [https://www.quzuo.net/document/mBVmpQdC1Eqi](https://www.quzuo.net/document/mBVmpQdC1Eqi) |
+| 3 | [OceanBase CE 5.0.1.0 Docker Compose 部署指南](https://www.quzuo.net/document/YVCHGGy3mMbx) | [https://www.quzuo.net/document/YVCHGGy3mMbx](https://www.quzuo.net/document/YVCHGGy3mMbx) |
+| 4 | [OceanBase CE 5.0.1.0 分布式集群部署指南](https://www.quzuo.net/document/XzsPda9JPvJG) | [https://www.quzuo.net/document/XzsPda9JPvJG](https://www.quzuo.net/document/XzsPda9JPvJG) |
+| 5 | [OceanBase CE 5.0.1.0 配置参数详解](https://www.quzuo.net/document/NfKadeKZt0MS) | [https://www.quzuo.net/document/NfKadeKZt0MS](https://www.quzuo.net/document/NfKadeKZt0MS) |
+| 6 | [OceanBase 常用 CLI 命令与工具详解](https://www.quzuo.net/document/jqwwd7UnfKM9) | [https://www.quzuo.net/document/jqwwd7UnfKM9](https://www.quzuo.net/document/jqwwd7UnfKM9) |
+| 7 | [Ubuntu 22.04 安装 OceanBase CE 5.0.1.0 指南](https://www.quzuo.net/document/cbxSvYtxlF17) | [https://www.quzuo.net/document/cbxSvYtxlF17](https://www.quzuo.net/document/cbxSvYtxlF17) |
 
 [← 返回文档总览](../README.md)

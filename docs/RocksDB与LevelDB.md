@@ -9,6 +9,7 @@
 | 3 | [LevelDB 选项与使用示例](https://www.quzuo.net/document/FP8Xxf9mu1q2) | [https://www.quzuo.net/document/FP8Xxf9mu1q2](https://www.quzuo.net/document/FP8Xxf9mu1q2) |
 | 4 | [RocksDB 工具与使用示例](https://www.quzuo.net/document/Nl37Fu2sSFgF) | [https://www.quzuo.net/document/Nl37Fu2sSFgF](https://www.quzuo.net/document/Nl37Fu2sSFgF) |
 | 5 | [RocksDB 配置与选项详解](https://www.quzuo.net/document/QXb4lqaRa33G) | [https://www.quzuo.net/document/QXb4lqaRa33G](https://www.quzuo.net/document/QXb4lqaRa33G) |
-| 6 | [Ubuntu 22.04 源码编译安装 RocksDB 指南](https://www.quzuo.net/document/29U87rv6fM3f) | [https://www.quzuo.net/document/29U87rv6fM3f](https://www.quzuo.net/document/29U87rv6fM3f) |
+| 6 | [RocksDB与LevelDB 介绍与选型指南](https://www.quzuo.net/document/aYRhdZm2xPCp) | [https://www.quzuo.net/document/aYRhdZm2xPCp](https://www.quzuo.net/document/aYRhdZm2xPCp) |
+| 7 | [Ubuntu 22.04 源码编译安装 RocksDB 指南](https://www.quzuo.net/document/29U87rv6fM3f) | [https://www.quzuo.net/document/29U87rv6fM3f](https://www.quzuo.net/document/29U87rv6fM3f) |
 
 [← 返回文档总览](../README.md)

@@ -4,10 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Yetus 常用 CLI 命令与工具详解](https://www.quzuo.net/document/tTASsnJI1JYd) | [https://www.quzuo.net/document/tTASsnJI1JYd](https://www.quzuo.net/document/tTASsnJI1JYd) |
-| 2 | [Apache Yetus 快速入门与集成示例](https://www.quzuo.net/document/92XbSCM9uQwz) | [https://www.quzuo.net/document/92XbSCM9uQwz](https://www.quzuo.net/document/92XbSCM9uQwz) |
-| 3 | [Apache Yetus 配置参数详解](https://www.quzuo.net/document/uphn7PaTjq57) | [https://www.quzuo.net/document/uphn7PaTjq57](https://www.quzuo.net/document/uphn7PaTjq57) |
-| 4 | [CentOS 8 安装 Apache Yetus 指南](https://www.quzuo.net/document/lmAU0WgUsG9q) | [https://www.quzuo.net/document/lmAU0WgUsG9q](https://www.quzuo.net/document/lmAU0WgUsG9q) |
-| 5 | [Ubuntu 22.04 安装 Apache Yetus 指南](https://www.quzuo.net/document/XOy85Z48YBqV) | [https://www.quzuo.net/document/XOy85Z48YBqV](https://www.quzuo.net/document/XOy85Z48YBqV) |
+| 1 | [Apache Yetus 0.15.1 介绍与选型指南](https://www.quzuo.net/document/GJXwtI9NJtIu) | [https://www.quzuo.net/document/GJXwtI9NJtIu](https://www.quzuo.net/document/GJXwtI9NJtIu) |
+| 2 | [Apache Yetus 常用 CLI 命令与工具详解](https://www.quzuo.net/document/tTASsnJI1JYd) | [https://www.quzuo.net/document/tTASsnJI1JYd](https://www.quzuo.net/document/tTASsnJI1JYd) |
+| 3 | [Apache Yetus 快速入门与集成示例](https://www.quzuo.net/document/92XbSCM9uQwz) | [https://www.quzuo.net/document/92XbSCM9uQwz](https://www.quzuo.net/document/92XbSCM9uQwz) |
+| 4 | [Apache Yetus 配置参数详解](https://www.quzuo.net/document/uphn7PaTjq57) | [https://www.quzuo.net/document/uphn7PaTjq57](https://www.quzuo.net/document/uphn7PaTjq57) |
+| 5 | [CentOS 8 安装 Apache Yetus 指南](https://www.quzuo.net/document/lmAU0WgUsG9q) | [https://www.quzuo.net/document/lmAU0WgUsG9q](https://www.quzuo.net/document/lmAU0WgUsG9q) |
+| 6 | [Ubuntu 22.04 安装 Apache Yetus 指南](https://www.quzuo.net/document/XOy85Z48YBqV) | [https://www.quzuo.net/document/XOy85Z48YBqV](https://www.quzuo.net/document/XOy85Z48YBqV) |
 
 [← 返回文档总览](../README.md)

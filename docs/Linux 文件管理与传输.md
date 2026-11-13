@@ -12,13 +12,14 @@
 | 6 | [CentOS 8 rsync 安装与命令参数详解](https://www.quzuo.net/document/OWbypUua1Whz) | [https://www.quzuo.net/document/OWbypUua1Whz](https://www.quzuo.net/document/OWbypUua1Whz) |
 | 7 | [CentOS 8 tar-gzip-unzip 安装与命令参数详解](https://www.quzuo.net/document/8I4LKrfgZSJ9) | [https://www.quzuo.net/document/8I4LKrfgZSJ9](https://www.quzuo.net/document/8I4LKrfgZSJ9) |
 | 8 | [CentOS 8 tmux 安装与命令参数详解](https://www.quzuo.net/document/J8G0K2KuOJV3) | [https://www.quzuo.net/document/J8G0K2KuOJV3](https://www.quzuo.net/document/J8G0K2KuOJV3) |
-| 9 | [Ubuntu 22.04 bat 安装与命令参数详解](https://www.quzuo.net/document/wBiK0L6gW9zj) | [https://www.quzuo.net/document/wBiK0L6gW9zj](https://www.quzuo.net/document/wBiK0L6gW9zj) |
-| 10 | [Ubuntu 22.04 fd 安装与命令参数详解](https://www.quzuo.net/document/1ijfGUFcn1Sk) | [https://www.quzuo.net/document/1ijfGUFcn1Sk](https://www.quzuo.net/document/1ijfGUFcn1Sk) |
-| 11 | [Ubuntu 22.04 fzf 安装与命令参数详解](https://www.quzuo.net/document/uYWeJ4cBzv1f) | [https://www.quzuo.net/document/uYWeJ4cBzv1f](https://www.quzuo.net/document/uYWeJ4cBzv1f) |
-| 12 | [Ubuntu 22.04 ncdu 安装与命令参数详解](https://www.quzuo.net/document/5Dt0Ny9WU8Hx) | [https://www.quzuo.net/document/5Dt0Ny9WU8Hx](https://www.quzuo.net/document/5Dt0Ny9WU8Hx) |
-| 13 | [Ubuntu 22.04 ripgrep 安装与命令参数详解](https://www.quzuo.net/document/hL9IA5omq6nw) | [https://www.quzuo.net/document/hL9IA5omq6nw](https://www.quzuo.net/document/hL9IA5omq6nw) |
-| 14 | [Ubuntu 22.04 rsync 安装与命令参数详解](https://www.quzuo.net/document/1hfnJjsDbXe0) | [https://www.quzuo.net/document/1hfnJjsDbXe0](https://www.quzuo.net/document/1hfnJjsDbXe0) |
-| 15 | [Ubuntu 22.04 tar-gzip-unzip 安装与命令参数详解](https://www.quzuo.net/document/c5hlYpxM5y4Z) | [https://www.quzuo.net/document/c5hlYpxM5y4Z](https://www.quzuo.net/document/c5hlYpxM5y4Z) |
-| 16 | [Ubuntu 22.04 tmux 安装与命令参数详解](https://www.quzuo.net/document/f3HRg5JKazoS) | [https://www.quzuo.net/document/f3HRg5JKazoS](https://www.quzuo.net/document/f3HRg5JKazoS) |
+| 9 | [Linux 文件管理与传输 介绍与选型指南](https://www.quzuo.net/document/xPy8XykC4EP0) | [https://www.quzuo.net/document/xPy8XykC4EP0](https://www.quzuo.net/document/xPy8XykC4EP0) |
+| 10 | [Ubuntu 22.04 bat 安装与命令参数详解](https://www.quzuo.net/document/wBiK0L6gW9zj) | [https://www.quzuo.net/document/wBiK0L6gW9zj](https://www.quzuo.net/document/wBiK0L6gW9zj) |
+| 11 | [Ubuntu 22.04 fd 安装与命令参数详解](https://www.quzuo.net/document/1ijfGUFcn1Sk) | [https://www.quzuo.net/document/1ijfGUFcn1Sk](https://www.quzuo.net/document/1ijfGUFcn1Sk) |
+| 12 | [Ubuntu 22.04 fzf 安装与命令参数详解](https://www.quzuo.net/document/uYWeJ4cBzv1f) | [https://www.quzuo.net/document/uYWeJ4cBzv1f](https://www.quzuo.net/document/uYWeJ4cBzv1f) |
+| 13 | [Ubuntu 22.04 ncdu 安装与命令参数详解](https://www.quzuo.net/document/5Dt0Ny9WU8Hx) | [https://www.quzuo.net/document/5Dt0Ny9WU8Hx](https://www.quzuo.net/document/5Dt0Ny9WU8Hx) |
+| 14 | [Ubuntu 22.04 ripgrep 安装与命令参数详解](https://www.quzuo.net/document/hL9IA5omq6nw) | [https://www.quzuo.net/document/hL9IA5omq6nw](https://www.quzuo.net/document/hL9IA5omq6nw) |
+| 15 | [Ubuntu 22.04 rsync 安装与命令参数详解](https://www.quzuo.net/document/1hfnJjsDbXe0) | [https://www.quzuo.net/document/1hfnJjsDbXe0](https://www.quzuo.net/document/1hfnJjsDbXe0) |
+| 16 | [Ubuntu 22.04 tar-gzip-unzip 安装与命令参数详解](https://www.quzuo.net/document/c5hlYpxM5y4Z) | [https://www.quzuo.net/document/c5hlYpxM5y4Z](https://www.quzuo.net/document/c5hlYpxM5y4Z) |
+| 17 | [Ubuntu 22.04 tmux 安装与命令参数详解](https://www.quzuo.net/document/f3HRg5JKazoS) | [https://www.quzuo.net/document/f3HRg5JKazoS](https://www.quzuo.net/document/f3HRg5JKazoS) |
 
 [← 返回文档总览](../README.md)

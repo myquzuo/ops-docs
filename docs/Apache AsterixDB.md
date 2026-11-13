@@ -5,8 +5,9 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [Apache AsterixDB 0.9.9 Docker Compose 部署指南](https://www.quzuo.net/document/rTzu4ngIP0ev) | [https://www.quzuo.net/document/rTzu4ngIP0ev](https://www.quzuo.net/document/rTzu4ngIP0ev) |
-| 2 | [Apache AsterixDB 0.9.9 安装指南](https://www.quzuo.net/document/pwFTfZhZjNaL) | [https://www.quzuo.net/document/pwFTfZhZjNaL](https://www.quzuo.net/document/pwFTfZhZjNaL) |
-| 3 | [Apache AsterixDB 0.9.9 常用 CLI 命令与工具详解](https://www.quzuo.net/document/H3yRIe4aJYp2) | [https://www.quzuo.net/document/H3yRIe4aJYp2](https://www.quzuo.net/document/H3yRIe4aJYp2) |
-| 4 | [Apache AsterixDB 0.9.9 配置参数详解](https://www.quzuo.net/document/wjsLuuBiZUCb) | [https://www.quzuo.net/document/wjsLuuBiZUCb](https://www.quzuo.net/document/wjsLuuBiZUCb) |
+| 2 | [Apache AsterixDB 0.9.9 介绍与选型指南](https://www.quzuo.net/document/1D6V4myQXqKC) | [https://www.quzuo.net/document/1D6V4myQXqKC](https://www.quzuo.net/document/1D6V4myQXqKC) |
+| 3 | [Apache AsterixDB 0.9.9 安装指南](https://www.quzuo.net/document/pwFTfZhZjNaL) | [https://www.quzuo.net/document/pwFTfZhZjNaL](https://www.quzuo.net/document/pwFTfZhZjNaL) |
+| 4 | [Apache AsterixDB 0.9.9 常用 CLI 命令与工具详解](https://www.quzuo.net/document/H3yRIe4aJYp2) | [https://www.quzuo.net/document/H3yRIe4aJYp2](https://www.quzuo.net/document/H3yRIe4aJYp2) |
+| 5 | [Apache AsterixDB 0.9.9 配置参数详解](https://www.quzuo.net/document/wjsLuuBiZUCb) | [https://www.quzuo.net/document/wjsLuuBiZUCb](https://www.quzuo.net/document/wjsLuuBiZUCb) |
 
 [← 返回文档总览](../README.md)

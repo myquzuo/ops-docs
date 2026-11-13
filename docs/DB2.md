@@ -9,6 +9,7 @@
 | 3 | [DB2 主备集群（HADR）部署指南](https://www.quzuo.net/document/tjFPhHVdON8N) | [https://www.quzuo.net/document/tjFPhHVdON8N](https://www.quzuo.net/document/tjFPhHVdON8N) |
 | 4 | [DB2 常用 CLI 命令与工具详解](https://www.quzuo.net/document/IztwWtKE1HFW) | [https://www.quzuo.net/document/IztwWtKE1HFW](https://www.quzuo.net/document/IztwWtKE1HFW) |
 | 5 | [DB2 配置参数详解](https://www.quzuo.net/document/ix1tXY2KzSU2) | [https://www.quzuo.net/document/ix1tXY2KzSU2](https://www.quzuo.net/document/ix1tXY2KzSU2) |
-| 6 | [Ubuntu 22.04 安装 DB2 指南](https://www.quzuo.net/document/gEq8u86X7OEG) | [https://www.quzuo.net/document/gEq8u86X7OEG](https://www.quzuo.net/document/gEq8u86X7OEG) |
+| 6 | [IBM Db2 12.1 介绍与选型指南](https://www.quzuo.net/document/ROLzwzY2cDnG) | [https://www.quzuo.net/document/ROLzwzY2cDnG](https://www.quzuo.net/document/ROLzwzY2cDnG) |
+| 7 | [Ubuntu 22.04 安装 DB2 指南](https://www.quzuo.net/document/gEq8u86X7OEG) | [https://www.quzuo.net/document/gEq8u86X7OEG](https://www.quzuo.net/document/gEq8u86X7OEG) |
 
 [← 返回文档总览](../README.md)

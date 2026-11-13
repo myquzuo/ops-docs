@@ -8,5 +8,6 @@
 | 2 | [Anolis OS 23.4 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/32VYoo6QSrwU) | [https://www.quzuo.net/document/32VYoo6QSrwU](https://www.quzuo.net/document/32VYoo6QSrwU) |
 | 3 | [Anolis OS 23.4 Docker Compose 部署指南](https://www.quzuo.net/document/nXER12dB1XQn) | [https://www.quzuo.net/document/nXER12dB1XQn](https://www.quzuo.net/document/nXER12dB1XQn) |
 | 4 | [Anolis OS 23.4 安装 Docker 指南](https://www.quzuo.net/document/kPjkAJfwY4uD) | [https://www.quzuo.net/document/kPjkAJfwY4uD](https://www.quzuo.net/document/kPjkAJfwY4uD) |
+| 5 | [Anolis OS 23.5 介绍与选型指南](https://www.quzuo.net/document/UIH6iG770Z6l) | [https://www.quzuo.net/document/UIH6iG770Z6l](https://www.quzuo.net/document/UIH6iG770Z6l) |
 
 [← 返回文档总览](../README.md)

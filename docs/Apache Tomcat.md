@@ -6,7 +6,8 @@
 |---|---|---|
 | 1 | [Apache Tomcat 11 常用运维命令与常见问题](https://www.quzuo.net/document/hSxPGjVJv2qY) | [https://www.quzuo.net/document/hSxPGjVJv2qY](https://www.quzuo.net/document/hSxPGjVJv2qY) |
 | 2 | [Apache Tomcat 11 配置参数详解（server.xml 与关键配置文件）](https://www.quzuo.net/document/UdXXChxbFlFx) | [https://www.quzuo.net/document/UdXXChxbFlFx](https://www.quzuo.net/document/UdXXChxbFlFx) |
-| 3 | [CentOS 8 安装 Apache Tomcat 11 指南（JDK17 手动部署与离线）](https://www.quzuo.net/document/qXC87kw64s6h) | [https://www.quzuo.net/document/qXC87kw64s6h](https://www.quzuo.net/document/qXC87kw64s6h) |
-| 4 | [Ubuntu 22.04 安装 Apache Tomcat 11 指南（JDK17 手动部署与离线）](https://www.quzuo.net/document/dFKyYm4Z12b6) | [https://www.quzuo.net/document/dFKyYm4Z12b6](https://www.quzuo.net/document/dFKyYm4Z12b6) |
+| 3 | [Apache Tomcat 11.0.27 介绍与选型指南](https://www.quzuo.net/document/zKJ9VBhAc74q) | [https://www.quzuo.net/document/zKJ9VBhAc74q](https://www.quzuo.net/document/zKJ9VBhAc74q) |
+| 4 | [CentOS 8 安装 Apache Tomcat 11 指南（JDK17 手动部署与离线）](https://www.quzuo.net/document/qXC87kw64s6h) | [https://www.quzuo.net/document/qXC87kw64s6h](https://www.quzuo.net/document/qXC87kw64s6h) |
+| 5 | [Ubuntu 22.04 安装 Apache Tomcat 11 指南（JDK17 手动部署与离线）](https://www.quzuo.net/document/dFKyYm4Z12b6) | [https://www.quzuo.net/document/dFKyYm4Z12b6](https://www.quzuo.net/document/dFKyYm4Z12b6) |
 
 [← 返回文档总览](../README.md)

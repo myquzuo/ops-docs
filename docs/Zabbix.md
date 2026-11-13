@@ -9,5 +9,6 @@
 | 3 | [Zabbix 7.0 分布式监控（Proxy 代理与 Agent 分级）部署指南](https://www.quzuo.net/document/FAStzpHpy5iU) | [https://www.quzuo.net/document/FAStzpHpy5iU](https://www.quzuo.net/document/FAStzpHpy5iU) |
 | 4 | [Zabbix 7.0 常用 CLI 命令与工具详解](https://www.quzuo.net/document/eH1zvIS18HNF) | [https://www.quzuo.net/document/eH1zvIS18HNF](https://www.quzuo.net/document/eH1zvIS18HNF) |
 | 5 | [Zabbix 7.0 配置参数详解](https://www.quzuo.net/document/QdfwXKcY5YiS) | [https://www.quzuo.net/document/QdfwXKcY5YiS](https://www.quzuo.net/document/QdfwXKcY5YiS) |
+| 6 | [Zabbix 7.4 介绍与选型指南](https://www.quzuo.net/document/2EIXgzYrodkI) | [https://www.quzuo.net/document/2EIXgzYrodkI](https://www.quzuo.net/document/2EIXgzYrodkI) |
 
 [← 返回文档总览](../README.md)

@@ -7,6 +7,7 @@
 | 1 | [OpenSearch 2.x Docker Compose 部署指南](https://www.quzuo.net/document/k2GQF3SNJPLY) | [https://www.quzuo.net/document/k2GQF3SNJPLY](https://www.quzuo.net/document/k2GQF3SNJPLY) |
 | 2 | [OpenSearch 2.x 常用 CLI 命令与工具详解](https://www.quzuo.net/document/QC0mu41qpig7) | [https://www.quzuo.net/document/QC0mu41qpig7](https://www.quzuo.net/document/QC0mu41qpig7) |
 | 3 | [OpenSearch 2.x 配置参数详解](https://www.quzuo.net/document/vyxwtVxoM9Bm) | [https://www.quzuo.net/document/vyxwtVxoM9Bm](https://www.quzuo.net/document/vyxwtVxoM9Bm) |
-| 4 | [Ubuntu 24.04 安装 OpenSearch 2.x](https://www.quzuo.net/document/dxLaOlsdiTyG) | [https://www.quzuo.net/document/dxLaOlsdiTyG](https://www.quzuo.net/document/dxLaOlsdiTyG) |
+| 4 | [OpenSearch 3.9 介绍与选型指南](https://www.quzuo.net/document/tXui6bG5qynv) | [https://www.quzuo.net/document/tXui6bG5qynv](https://www.quzuo.net/document/tXui6bG5qynv) |
+| 5 | [Ubuntu 24.04 安装 OpenSearch 2.x](https://www.quzuo.net/document/dxLaOlsdiTyG) | [https://www.quzuo.net/document/dxLaOlsdiTyG](https://www.quzuo.net/document/dxLaOlsdiTyG) |
 
 [← 返回文档总览](../README.md)

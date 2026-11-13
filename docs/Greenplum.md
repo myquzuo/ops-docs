@@ -8,7 +8,8 @@
 | 2 | [Greenplum 7 命令与运维指南](https://www.quzuo.net/document/gH0HuBZ561lR) | [https://www.quzuo.net/document/gH0HuBZ561lR](https://www.quzuo.net/document/gH0HuBZ561lR) |
 | 3 | [Greenplum 7 配置参数详解](https://www.quzuo.net/document/TA0xKlKtp7d8) | [https://www.quzuo.net/document/TA0xKlKtp7d8](https://www.quzuo.net/document/TA0xKlKtp7d8) |
 | 4 | [Greenplum 7 集群模式部署指南](https://www.quzuo.net/document/Zzml9llhhUKR) | [https://www.quzuo.net/document/Zzml9llhhUKR](https://www.quzuo.net/document/Zzml9llhhUKR) |
-| 5 | [Rocky Linux 8 安装 Greenplum 7 单节点指南](https://www.quzuo.net/document/oLgCrSK2yAuI) | [https://www.quzuo.net/document/oLgCrSK2yAuI](https://www.quzuo.net/document/oLgCrSK2yAuI) |
-| 6 | [Ubuntu 22.04 安装 Greenplum 7 单节点指南](https://www.quzuo.net/document/yzz8hufesTNX) | [https://www.quzuo.net/document/yzz8hufesTNX](https://www.quzuo.net/document/yzz8hufesTNX) |
+| 5 | [Greenplum 7.8 介绍与选型指南](https://www.quzuo.net/document/5mn7UsSPqdzl) | [https://www.quzuo.net/document/5mn7UsSPqdzl](https://www.quzuo.net/document/5mn7UsSPqdzl) |
+| 6 | [Rocky Linux 8 安装 Greenplum 7 单节点指南](https://www.quzuo.net/document/oLgCrSK2yAuI) | [https://www.quzuo.net/document/oLgCrSK2yAuI](https://www.quzuo.net/document/oLgCrSK2yAuI) |
+| 7 | [Ubuntu 22.04 安装 Greenplum 7 单节点指南](https://www.quzuo.net/document/yzz8hufesTNX) | [https://www.quzuo.net/document/yzz8hufesTNX](https://www.quzuo.net/document/yzz8hufesTNX) |
 
 [← 返回文档总览](../README.md)

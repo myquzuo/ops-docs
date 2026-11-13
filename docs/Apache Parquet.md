@@ -7,6 +7,7 @@
 | 1 | [Apache Parquet 1.18 常用工具与 API 详解](https://www.quzuo.net/document/41C6adFqDxmH) | [https://www.quzuo.net/document/41C6adFqDxmH](https://www.quzuo.net/document/41C6adFqDxmH) |
 | 2 | [Apache Parquet 1.18 构建并运行示例数据存储应用指南](https://www.quzuo.net/document/Nuh0Fw13ccNh) | [https://www.quzuo.net/document/Nuh0Fw13ccNh](https://www.quzuo.net/document/Nuh0Fw13ccNh) |
 | 3 | [Apache Parquet 1.18 配置参数详解](https://www.quzuo.net/document/4KhvraaHzMFM) | [https://www.quzuo.net/document/4KhvraaHzMFM](https://www.quzuo.net/document/4KhvraaHzMFM) |
-| 4 | [Ubuntu 22.04 安装 Apache Parquet 1.18 指南](https://www.quzuo.net/document/ZjOVibFfMGz2) | [https://www.quzuo.net/document/ZjOVibFfMGz2](https://www.quzuo.net/document/ZjOVibFfMGz2) |
+| 4 | [Apache Parquet 介绍与选型指南](https://www.quzuo.net/document/47PCKOrXWQUT) | [https://www.quzuo.net/document/47PCKOrXWQUT](https://www.quzuo.net/document/47PCKOrXWQUT) |
+| 5 | [Ubuntu 22.04 安装 Apache Parquet 1.18 指南](https://www.quzuo.net/document/ZjOVibFfMGz2) | [https://www.quzuo.net/document/ZjOVibFfMGz2](https://www.quzuo.net/document/ZjOVibFfMGz2) |
 
 [← 返回文档总览](../README.md)

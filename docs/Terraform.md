@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Terraform 工作区与项目初始化指南](https://www.quzuo.net/document/c8Vg8kre1VhO) | [https://www.quzuo.net/document/c8Vg8kre1VhO](https://www.quzuo.net/document/c8Vg8kre1VhO) |
-| 2 | [Terraform 常用 CLI 命令与工具详解](https://www.quzuo.net/document/qIqwl0KY6Oqm) | [https://www.quzuo.net/document/qIqwl0KY6Oqm](https://www.quzuo.net/document/qIqwl0KY6Oqm) |
-| 3 | [Terraform 配置参数详解](https://www.quzuo.net/document/avB1IbFkF6hv) | [https://www.quzuo.net/document/avB1IbFkF6hv](https://www.quzuo.net/document/avB1IbFkF6hv) |
-| 4 | [Ubuntu 22.04 安装 Terraform 指南](https://www.quzuo.net/document/jFi5HGcvRjPA) | [https://www.quzuo.net/document/jFi5HGcvRjPA](https://www.quzuo.net/document/jFi5HGcvRjPA) |
+| 1 | [Terraform 1.16 介绍与选型指南](https://www.quzuo.net/document/wacYT7uJ1YLO) | [https://www.quzuo.net/document/wacYT7uJ1YLO](https://www.quzuo.net/document/wacYT7uJ1YLO) |
+| 2 | [Terraform 工作区与项目初始化指南](https://www.quzuo.net/document/c8Vg8kre1VhO) | [https://www.quzuo.net/document/c8Vg8kre1VhO](https://www.quzuo.net/document/c8Vg8kre1VhO) |
+| 3 | [Terraform 常用 CLI 命令与工具详解](https://www.quzuo.net/document/qIqwl0KY6Oqm) | [https://www.quzuo.net/document/qIqwl0KY6Oqm](https://www.quzuo.net/document/qIqwl0KY6Oqm) |
+| 4 | [Terraform 配置参数详解](https://www.quzuo.net/document/avB1IbFkF6hv) | [https://www.quzuo.net/document/avB1IbFkF6hv](https://www.quzuo.net/document/avB1IbFkF6hv) |
+| 5 | [Ubuntu 22.04 安装 Terraform 指南](https://www.quzuo.net/document/jFi5HGcvRjPA) | [https://www.quzuo.net/document/jFi5HGcvRjPA](https://www.quzuo.net/document/jFi5HGcvRjPA) |
 
 [← 返回文档总览](../README.md)

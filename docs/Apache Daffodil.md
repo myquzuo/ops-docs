@@ -4,10 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Daffodil 常用 CLI 命令与工具详解](https://www.quzuo.net/document/Y4SkS3Zusrmf) | [https://www.quzuo.net/document/Y4SkS3Zusrmf](https://www.quzuo.net/document/Y4SkS3Zusrmf) |
-| 2 | [Apache Daffodil 快速入门与集成示例](https://www.quzuo.net/document/Z5W8mTTib9TL) | [https://www.quzuo.net/document/Z5W8mTTib9TL](https://www.quzuo.net/document/Z5W8mTTib9TL) |
-| 3 | [Apache Daffodil 配置参数详解](https://www.quzuo.net/document/ZVBEPFG4tmQh) | [https://www.quzuo.net/document/ZVBEPFG4tmQh](https://www.quzuo.net/document/ZVBEPFG4tmQh) |
-| 4 | [CentOS 8 安装 Apache Daffodil 指南](https://www.quzuo.net/document/0foEE3vPUXu4) | [https://www.quzuo.net/document/0foEE3vPUXu4](https://www.quzuo.net/document/0foEE3vPUXu4) |
-| 5 | [Ubuntu 22.04 安装 Apache Daffodil 指南](https://www.quzuo.net/document/GN1fwQRtynE6) | [https://www.quzuo.net/document/GN1fwQRtynE6](https://www.quzuo.net/document/GN1fwQRtynE6) |
+| 1 | [Apache Daffodil 4.2 介绍与选型指南](https://www.quzuo.net/document/wdRfvrN2WXpW) | [https://www.quzuo.net/document/wdRfvrN2WXpW](https://www.quzuo.net/document/wdRfvrN2WXpW) |
+| 2 | [Apache Daffodil 常用 CLI 命令与工具详解](https://www.quzuo.net/document/Y4SkS3Zusrmf) | [https://www.quzuo.net/document/Y4SkS3Zusrmf](https://www.quzuo.net/document/Y4SkS3Zusrmf) |
+| 3 | [Apache Daffodil 快速入门与集成示例](https://www.quzuo.net/document/Z5W8mTTib9TL) | [https://www.quzuo.net/document/Z5W8mTTib9TL](https://www.quzuo.net/document/Z5W8mTTib9TL) |
+| 4 | [Apache Daffodil 配置参数详解](https://www.quzuo.net/document/ZVBEPFG4tmQh) | [https://www.quzuo.net/document/ZVBEPFG4tmQh](https://www.quzuo.net/document/ZVBEPFG4tmQh) |
+| 5 | [CentOS 8 安装 Apache Daffodil 指南](https://www.quzuo.net/document/0foEE3vPUXu4) | [https://www.quzuo.net/document/0foEE3vPUXu4](https://www.quzuo.net/document/0foEE3vPUXu4) |
+| 6 | [Ubuntu 22.04 安装 Apache Daffodil 指南](https://www.quzuo.net/document/GN1fwQRtynE6) | [https://www.quzuo.net/document/GN1fwQRtynE6](https://www.quzuo.net/document/GN1fwQRtynE6) |
 
 [← 返回文档总览](../README.md)

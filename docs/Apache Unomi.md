@@ -5,9 +5,10 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [Apache Unomi 3.0.1 Docker Compose 部署指南](https://www.quzuo.net/document/Ej7A34OrK8vw) | [https://www.quzuo.net/document/Ej7A34OrK8vw](https://www.quzuo.net/document/Ej7A34OrK8vw) |
-| 2 | [Apache Unomi 3.0.1 常用 CLI 命令与工具详解](https://www.quzuo.net/document/1xpZStSsMZKM) | [https://www.quzuo.net/document/1xpZStSsMZKM](https://www.quzuo.net/document/1xpZStSsMZKM) |
-| 3 | [Apache Unomi 3.0.1 配置参数详解](https://www.quzuo.net/document/FSJBTPYJHZmB) | [https://www.quzuo.net/document/FSJBTPYJHZmB](https://www.quzuo.net/document/FSJBTPYJHZmB) |
-| 4 | [CentOS 8 安装 Apache Unomi 3.0.1 指南](https://www.quzuo.net/document/lLthXXB3gqVh) | [https://www.quzuo.net/document/lLthXXB3gqVh](https://www.quzuo.net/document/lLthXXB3gqVh) |
-| 5 | [Ubuntu 22.04 安装 Apache Unomi 3.0.1 指南](https://www.quzuo.net/document/qBnxcOzmqaR5) | [https://www.quzuo.net/document/qBnxcOzmqaR5](https://www.quzuo.net/document/qBnxcOzmqaR5) |
+| 2 | [Apache Unomi 3.0.1 介绍与选型指南](https://www.quzuo.net/document/ytC0uoyltUBo) | [https://www.quzuo.net/document/ytC0uoyltUBo](https://www.quzuo.net/document/ytC0uoyltUBo) |
+| 3 | [Apache Unomi 3.0.1 常用 CLI 命令与工具详解](https://www.quzuo.net/document/1xpZStSsMZKM) | [https://www.quzuo.net/document/1xpZStSsMZKM](https://www.quzuo.net/document/1xpZStSsMZKM) |
+| 4 | [Apache Unomi 3.0.1 配置参数详解](https://www.quzuo.net/document/FSJBTPYJHZmB) | [https://www.quzuo.net/document/FSJBTPYJHZmB](https://www.quzuo.net/document/FSJBTPYJHZmB) |
+| 5 | [CentOS 8 安装 Apache Unomi 3.0.1 指南](https://www.quzuo.net/document/lLthXXB3gqVh) | [https://www.quzuo.net/document/lLthXXB3gqVh](https://www.quzuo.net/document/lLthXXB3gqVh) |
+| 6 | [Ubuntu 22.04 安装 Apache Unomi 3.0.1 指南](https://www.quzuo.net/document/qBnxcOzmqaR5) | [https://www.quzuo.net/document/qBnxcOzmqaR5](https://www.quzuo.net/document/qBnxcOzmqaR5) |
 
 [← 返回文档总览](../README.md)

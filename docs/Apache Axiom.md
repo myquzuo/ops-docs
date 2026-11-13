@@ -8,5 +8,6 @@
 | 2 | [Apache Axiom 1.4.0 常用工具与 API 详解](https://www.quzuo.net/document/wSBQJMEwnv6D) | [https://www.quzuo.net/document/wSBQJMEwnv6D](https://www.quzuo.net/document/wSBQJMEwnv6D) |
 | 3 | [Apache Axiom 1.4.0 构建并运行示例应用指南](https://www.quzuo.net/document/B0KEW9PoTlXT) | [https://www.quzuo.net/document/B0KEW9PoTlXT](https://www.quzuo.net/document/B0KEW9PoTlXT) |
 | 4 | [Apache Axiom 1.4.0 配置参数详解](https://www.quzuo.net/document/7h6K19zvhT7h) | [https://www.quzuo.net/document/7h6K19zvhT7h](https://www.quzuo.net/document/7h6K19zvhT7h) |
+| 5 | [Apache Axiom 2.0.0 介绍与选型指南](https://www.quzuo.net/document/TKTsS4ZlePJM) | [https://www.quzuo.net/document/TKTsS4ZlePJM](https://www.quzuo.net/document/TKTsS4ZlePJM) |
 
 [← 返回文档总览](../README.md)

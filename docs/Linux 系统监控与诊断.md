@@ -13,14 +13,15 @@
 | 7 | [CentOS 8 nmon 安装与命令参数详解](https://www.quzuo.net/document/umvC4ueE5Glp) | [https://www.quzuo.net/document/umvC4ueE5Glp](https://www.quzuo.net/document/umvC4ueE5Glp) |
 | 8 | [CentOS 8 strace 安装与命令参数详解](https://www.quzuo.net/document/WmBYKTjZjl35) | [https://www.quzuo.net/document/WmBYKTjZjl35](https://www.quzuo.net/document/WmBYKTjZjl35) |
 | 9 | [CentOS 8 sysstat 安装与命令参数详解](https://www.quzuo.net/document/fmPkUw4C7Hl8) | [https://www.quzuo.net/document/fmPkUw4C7Hl8](https://www.quzuo.net/document/fmPkUw4C7Hl8) |
-| 10 | [Ubuntu 22.04 atop 安装与命令参数详解](https://www.quzuo.net/document/QslOoHgvFKoC) | [https://www.quzuo.net/document/QslOoHgvFKoC](https://www.quzuo.net/document/QslOoHgvFKoC) |
-| 11 | [Ubuntu 22.04 dmesg 安装与命令参数详解](https://www.quzuo.net/document/HqYnmCMxxFyf) | [https://www.quzuo.net/document/HqYnmCMxxFyf](https://www.quzuo.net/document/HqYnmCMxxFyf) |
-| 12 | [Ubuntu 22.04 glances 安装与命令参数详解](https://www.quzuo.net/document/FDCXKqbDppTY) | [https://www.quzuo.net/document/FDCXKqbDppTY](https://www.quzuo.net/document/FDCXKqbDppTY) |
-| 13 | [Ubuntu 22.04 htop 安装与命令参数详解](https://www.quzuo.net/document/XoPdSz3CoPYJ) | [https://www.quzuo.net/document/XoPdSz3CoPYJ](https://www.quzuo.net/document/XoPdSz3CoPYJ) |
-| 14 | [Ubuntu 22.04 iotop 安装与命令参数详解](https://www.quzuo.net/document/D7NkXvbxTBoW) | [https://www.quzuo.net/document/D7NkXvbxTBoW](https://www.quzuo.net/document/D7NkXvbxTBoW) |
-| 15 | [Ubuntu 22.04 ltrace 安装与命令参数详解](https://www.quzuo.net/document/LwLMyhVVu6VT) | [https://www.quzuo.net/document/LwLMyhVVu6VT](https://www.quzuo.net/document/LwLMyhVVu6VT) |
-| 16 | [Ubuntu 22.04 nmon 安装与命令参数详解](https://www.quzuo.net/document/kBZRswHnGEg7) | [https://www.quzuo.net/document/kBZRswHnGEg7](https://www.quzuo.net/document/kBZRswHnGEg7) |
-| 17 | [Ubuntu 22.04 strace 安装与命令参数详解](https://www.quzuo.net/document/Vevlu74IHR2A) | [https://www.quzuo.net/document/Vevlu74IHR2A](https://www.quzuo.net/document/Vevlu74IHR2A) |
-| 18 | [Ubuntu 22.04 sysstat 安装与命令参数详解](https://www.quzuo.net/document/yLplK91SLMh6) | [https://www.quzuo.net/document/yLplK91SLMh6](https://www.quzuo.net/document/yLplK91SLMh6) |
+| 10 | [Linux 系统监控与诊断 介绍与选型指南](https://www.quzuo.net/document/rIYA58TQVqdc) | [https://www.quzuo.net/document/rIYA58TQVqdc](https://www.quzuo.net/document/rIYA58TQVqdc) |
+| 11 | [Ubuntu 22.04 atop 安装与命令参数详解](https://www.quzuo.net/document/QslOoHgvFKoC) | [https://www.quzuo.net/document/QslOoHgvFKoC](https://www.quzuo.net/document/QslOoHgvFKoC) |
+| 12 | [Ubuntu 22.04 dmesg 安装与命令参数详解](https://www.quzuo.net/document/HqYnmCMxxFyf) | [https://www.quzuo.net/document/HqYnmCMxxFyf](https://www.quzuo.net/document/HqYnmCMxxFyf) |
+| 13 | [Ubuntu 22.04 glances 安装与命令参数详解](https://www.quzuo.net/document/FDCXKqbDppTY) | [https://www.quzuo.net/document/FDCXKqbDppTY](https://www.quzuo.net/document/FDCXKqbDppTY) |
+| 14 | [Ubuntu 22.04 htop 安装与命令参数详解](https://www.quzuo.net/document/XoPdSz3CoPYJ) | [https://www.quzuo.net/document/XoPdSz3CoPYJ](https://www.quzuo.net/document/XoPdSz3CoPYJ) |
+| 15 | [Ubuntu 22.04 iotop 安装与命令参数详解](https://www.quzuo.net/document/D7NkXvbxTBoW) | [https://www.quzuo.net/document/D7NkXvbxTBoW](https://www.quzuo.net/document/D7NkXvbxTBoW) |
+| 16 | [Ubuntu 22.04 ltrace 安装与命令参数详解](https://www.quzuo.net/document/LwLMyhVVu6VT) | [https://www.quzuo.net/document/LwLMyhVVu6VT](https://www.quzuo.net/document/LwLMyhVVu6VT) |
+| 17 | [Ubuntu 22.04 nmon 安装与命令参数详解](https://www.quzuo.net/document/kBZRswHnGEg7) | [https://www.quzuo.net/document/kBZRswHnGEg7](https://www.quzuo.net/document/kBZRswHnGEg7) |
+| 18 | [Ubuntu 22.04 strace 安装与命令参数详解](https://www.quzuo.net/document/Vevlu74IHR2A) | [https://www.quzuo.net/document/Vevlu74IHR2A](https://www.quzuo.net/document/Vevlu74IHR2A) |
+| 19 | [Ubuntu 22.04 sysstat 安装与命令参数详解](https://www.quzuo.net/document/yLplK91SLMh6) | [https://www.quzuo.net/document/yLplK91SLMh6](https://www.quzuo.net/document/yLplK91SLMh6) |
 
 [← 返回文档总览](../README.md)

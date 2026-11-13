@@ -11,9 +11,10 @@
 | 5 | [Debian 13 安装 Podman 指南](https://www.quzuo.net/document/PzktUEpFYygn) | [https://www.quzuo.net/document/PzktUEpFYygn](https://www.quzuo.net/document/PzktUEpFYygn) |
 | 6 | [Fedora 44 安装 Podman 指南](https://www.quzuo.net/document/7Jy6Oih4jdUJ) | [https://www.quzuo.net/document/7Jy6Oih4jdUJ](https://www.quzuo.net/document/7Jy6Oih4jdUJ) |
 | 7 | [Kali Linux 安装 Podman 指南](https://www.quzuo.net/document/WkE8dyEIXJOP) | [https://www.quzuo.net/document/WkE8dyEIXJOP](https://www.quzuo.net/document/WkE8dyEIXJOP) |
-| 8 | [Podman 常用 CLI 命令与工具详解](https://www.quzuo.net/document/NbnBvYngCPKA) | [https://www.quzuo.net/document/NbnBvYngCPKA](https://www.quzuo.net/document/NbnBvYngCPKA) |
-| 9 | [Podman 配置参数详解](https://www.quzuo.net/document/7RdADzkdxkFl) | [https://www.quzuo.net/document/7RdADzkdxkFl](https://www.quzuo.net/document/7RdADzkdxkFl) |
-| 10 | [Rocky Linux 9 安装 Podman 指南](https://www.quzuo.net/document/uUMbYwsJnfA1) | [https://www.quzuo.net/document/uUMbYwsJnfA1](https://www.quzuo.net/document/uUMbYwsJnfA1) |
-| 11 | [Ubuntu 22.04 安装 Podman 指南](https://www.quzuo.net/document/keHJck4hsqwJ) | [https://www.quzuo.net/document/keHJck4hsqwJ](https://www.quzuo.net/document/keHJck4hsqwJ) |
+| 8 | [Podman 6.1 介绍与选型指南](https://www.quzuo.net/document/d8FwkoR1xkJ8) | [https://www.quzuo.net/document/d8FwkoR1xkJ8](https://www.quzuo.net/document/d8FwkoR1xkJ8) |
+| 9 | [Podman 常用 CLI 命令与工具详解](https://www.quzuo.net/document/NbnBvYngCPKA) | [https://www.quzuo.net/document/NbnBvYngCPKA](https://www.quzuo.net/document/NbnBvYngCPKA) |
+| 10 | [Podman 配置参数详解](https://www.quzuo.net/document/7RdADzkdxkFl) | [https://www.quzuo.net/document/7RdADzkdxkFl](https://www.quzuo.net/document/7RdADzkdxkFl) |
+| 11 | [Rocky Linux 9 安装 Podman 指南](https://www.quzuo.net/document/uUMbYwsJnfA1) | [https://www.quzuo.net/document/uUMbYwsJnfA1](https://www.quzuo.net/document/uUMbYwsJnfA1) |
+| 12 | [Ubuntu 22.04 安装 Podman 指南](https://www.quzuo.net/document/keHJck4hsqwJ) | [https://www.quzuo.net/document/keHJck4hsqwJ](https://www.quzuo.net/document/keHJck4hsqwJ) |
 
 [← 返回文档总览](../README.md)

@@ -8,5 +8,6 @@
 | 2 | [Prefect 3.8.7 常用 CLI 命令与运维详解](https://www.quzuo.net/document/oHaoeVGxaaKf) | [https://www.quzuo.net/document/oHaoeVGxaaKf](https://www.quzuo.net/document/oHaoeVGxaaKf) |
 | 3 | [Prefect 3.8.7 配置参数详解](https://www.quzuo.net/document/Uwt7Js0Aul0w) | [https://www.quzuo.net/document/Uwt7Js0Aul0w](https://www.quzuo.net/document/Uwt7Js0Aul0w) |
 | 4 | [Prefect 3.8.7 集群模式部署指南](https://www.quzuo.net/document/C4eaJR6weIE8) | [https://www.quzuo.net/document/C4eaJR6weIE8](https://www.quzuo.net/document/C4eaJR6weIE8) |
+| 5 | [Prefect 3.8.8 介绍与选型指南](https://www.quzuo.net/document/RhdDpkL4ihuJ) | [https://www.quzuo.net/document/RhdDpkL4ihuJ](https://www.quzuo.net/document/RhdDpkL4ihuJ) |
 
 [← 返回文档总览](../README.md)

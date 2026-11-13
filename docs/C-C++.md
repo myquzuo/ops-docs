@@ -4,6 +4,7 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Ubuntu 22.04 安装 C/C++ 开发环境指南（GCC/Clang 多版本管理）](https://www.quzuo.net/document/lVxW1MYWVmyJ) | [https://www.quzuo.net/document/lVxW1MYWVmyJ](https://www.quzuo.net/document/lVxW1MYWVmyJ) |
+| 1 | [C/C++ 介绍与选型指南](https://www.quzuo.net/document/si6KV0TZgQ84) | [https://www.quzuo.net/document/si6KV0TZgQ84](https://www.quzuo.net/document/si6KV0TZgQ84) |
+| 2 | [Ubuntu 22.04 安装 C/C++ 开发环境指南（GCC/Clang 多版本管理）](https://www.quzuo.net/document/lVxW1MYWVmyJ) | [https://www.quzuo.net/document/lVxW1MYWVmyJ](https://www.quzuo.net/document/lVxW1MYWVmyJ) |
 
 [← 返回文档总览](../README.md)

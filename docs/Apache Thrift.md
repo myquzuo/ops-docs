@@ -4,10 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Thrift 常用 CLI 命令与工具详解](https://www.quzuo.net/document/6JCgnDUWoiV2) | [https://www.quzuo.net/document/6JCgnDUWoiV2](https://www.quzuo.net/document/6JCgnDUWoiV2) |
-| 2 | [Apache Thrift 快速入门与集成示例](https://www.quzuo.net/document/xu67d7migmp1) | [https://www.quzuo.net/document/xu67d7migmp1](https://www.quzuo.net/document/xu67d7migmp1) |
-| 3 | [Apache Thrift 配置参数详解](https://www.quzuo.net/document/xK6WebvWFniC) | [https://www.quzuo.net/document/xK6WebvWFniC](https://www.quzuo.net/document/xK6WebvWFniC) |
-| 4 | [CentOS 8 安装 Apache Thrift 指南](https://www.quzuo.net/document/783rUdormyYq) | [https://www.quzuo.net/document/783rUdormyYq](https://www.quzuo.net/document/783rUdormyYq) |
-| 5 | [Ubuntu 22.04 安装 Apache Thrift 指南](https://www.quzuo.net/document/j9h0LBvX2bpF) | [https://www.quzuo.net/document/j9h0LBvX2bpF](https://www.quzuo.net/document/j9h0LBvX2bpF) |
+| 1 | [Apache Thrift 0.25.0 介绍与选型指南](https://www.quzuo.net/document/UDa0SPkcNOYI) | [https://www.quzuo.net/document/UDa0SPkcNOYI](https://www.quzuo.net/document/UDa0SPkcNOYI) |
+| 2 | [Apache Thrift 常用 CLI 命令与工具详解](https://www.quzuo.net/document/6JCgnDUWoiV2) | [https://www.quzuo.net/document/6JCgnDUWoiV2](https://www.quzuo.net/document/6JCgnDUWoiV2) |
+| 3 | [Apache Thrift 快速入门与集成示例](https://www.quzuo.net/document/xu67d7migmp1) | [https://www.quzuo.net/document/xu67d7migmp1](https://www.quzuo.net/document/xu67d7migmp1) |
+| 4 | [Apache Thrift 配置参数详解](https://www.quzuo.net/document/xK6WebvWFniC) | [https://www.quzuo.net/document/xK6WebvWFniC](https://www.quzuo.net/document/xK6WebvWFniC) |
+| 5 | [CentOS 8 安装 Apache Thrift 指南](https://www.quzuo.net/document/783rUdormyYq) | [https://www.quzuo.net/document/783rUdormyYq](https://www.quzuo.net/document/783rUdormyYq) |
+| 6 | [Ubuntu 22.04 安装 Apache Thrift 指南](https://www.quzuo.net/document/j9h0LBvX2bpF) | [https://www.quzuo.net/document/j9h0LBvX2bpF](https://www.quzuo.net/document/j9h0LBvX2bpF) |
 
 [← 返回文档总览](../README.md)

@@ -7,6 +7,7 @@
 | 1 | [Apache Ranger 2.6.0 Docker Compose 部署指南](https://www.quzuo.net/document/1V8zHTZz95I3) | [https://www.quzuo.net/document/1V8zHTZz95I3](https://www.quzuo.net/document/1V8zHTZz95I3) |
 | 2 | [Apache Ranger 2.6.0 常用 CLI 命令与工具详解](https://www.quzuo.net/document/g527RgeGklaB) | [https://www.quzuo.net/document/g527RgeGklaB](https://www.quzuo.net/document/g527RgeGklaB) |
 | 3 | [Apache Ranger 2.6.0 配置参数详解](https://www.quzuo.net/document/kUsYRqFE9AYG) | [https://www.quzuo.net/document/kUsYRqFE9AYG](https://www.quzuo.net/document/kUsYRqFE9AYG) |
-| 4 | [Ubuntu 22.04 安装 Apache Ranger 2.6.0 指南](https://www.quzuo.net/document/sWEepSWXQ57q) | [https://www.quzuo.net/document/sWEepSWXQ57q](https://www.quzuo.net/document/sWEepSWXQ57q) |
+| 4 | [Apache Ranger 2.9 介绍与选型指南](https://www.quzuo.net/document/Nhc0p7ADYMvJ) | [https://www.quzuo.net/document/Nhc0p7ADYMvJ](https://www.quzuo.net/document/Nhc0p7ADYMvJ) |
+| 5 | [Ubuntu 22.04 安装 Apache Ranger 2.6.0 指南](https://www.quzuo.net/document/sWEepSWXQ57q) | [https://www.quzuo.net/document/sWEepSWXQ57q](https://www.quzuo.net/document/sWEepSWXQ57q) |
 
 [← 返回文档总览](../README.md)

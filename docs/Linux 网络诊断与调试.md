@@ -15,16 +15,17 @@
 | 9 | [CentOS 8 nmap 安装与命令参数详解](https://www.quzuo.net/document/xHRA34BqoU2e) | [https://www.quzuo.net/document/xHRA34BqoU2e](https://www.quzuo.net/document/xHRA34BqoU2e) |
 | 10 | [CentOS 8 tcpdump 安装与命令参数详解](https://www.quzuo.net/document/snqyBck7pFE0) | [https://www.quzuo.net/document/snqyBck7pFE0](https://www.quzuo.net/document/snqyBck7pFE0) |
 | 11 | [CentOS 8 wget 安装与命令参数详解](https://www.quzuo.net/document/rJrME7qhztL9) | [https://www.quzuo.net/document/rJrME7qhztL9](https://www.quzuo.net/document/rJrME7qhztL9) |
-| 12 | [Ubuntu 22.04 curl 安装与命令参数详解](https://www.quzuo.net/document/D43op7fZ3N4R) | [https://www.quzuo.net/document/D43op7fZ3N4R](https://www.quzuo.net/document/D43op7fZ3N4R) |
-| 13 | [Ubuntu 22.04 dnsutils（dig/nslookup/host） 安装与命令参数详解](https://www.quzuo.net/document/8pCSrduLaQTC) | [https://www.quzuo.net/document/8pCSrduLaQTC](https://www.quzuo.net/document/8pCSrduLaQTC) |
-| 14 | [Ubuntu 22.04 ethtool 安装与命令参数详解](https://www.quzuo.net/document/q6oB2EMmy3O9) | [https://www.quzuo.net/document/q6oB2EMmy3O9](https://www.quzuo.net/document/q6oB2EMmy3O9) |
-| 15 | [Ubuntu 22.04 iftop 安装与命令参数详解](https://www.quzuo.net/document/bOIZRJzzjjkZ) | [https://www.quzuo.net/document/bOIZRJzzjjkZ](https://www.quzuo.net/document/bOIZRJzzjjkZ) |
-| 16 | [Ubuntu 22.04 iproute2（ip/ss） 安装与命令参数详解](https://www.quzuo.net/document/ZBpMFRdxT7up) | [https://www.quzuo.net/document/ZBpMFRdxT7up](https://www.quzuo.net/document/ZBpMFRdxT7up) |
-| 17 | [Ubuntu 22.04 mtr 安装与命令参数详解](https://www.quzuo.net/document/BSl05A5X0Kl3) | [https://www.quzuo.net/document/BSl05A5X0Kl3](https://www.quzuo.net/document/BSl05A5X0Kl3) |
-| 18 | [Ubuntu 22.04 net-tools（ifconfig/netstat/route） 安装与命令参数详解](https://www.quzuo.net/document/xk7UIfyFmU1t) | [https://www.quzuo.net/document/xk7UIfyFmU1t](https://www.quzuo.net/document/xk7UIfyFmU1t) |
-| 19 | [Ubuntu 22.04 nethogs 安装与命令参数详解](https://www.quzuo.net/document/UVFgYGBYe8tE) | [https://www.quzuo.net/document/UVFgYGBYe8tE](https://www.quzuo.net/document/UVFgYGBYe8tE) |
-| 20 | [Ubuntu 22.04 nmap 安装与命令参数详解](https://www.quzuo.net/document/9ieEgExpZAxC) | [https://www.quzuo.net/document/9ieEgExpZAxC](https://www.quzuo.net/document/9ieEgExpZAxC) |
-| 21 | [Ubuntu 22.04 tcpdump 安装与命令参数详解](https://www.quzuo.net/document/C2F69u8c7dWW) | [https://www.quzuo.net/document/C2F69u8c7dWW](https://www.quzuo.net/document/C2F69u8c7dWW) |
-| 22 | [Ubuntu 22.04 wget 安装与命令参数详解](https://www.quzuo.net/document/X6QSXE35Kndr) | [https://www.quzuo.net/document/X6QSXE35Kndr](https://www.quzuo.net/document/X6QSXE35Kndr) |
+| 12 | [Linux 网络诊断与调试 介绍与选型指南](https://www.quzuo.net/document/lxVElFuFzsEj) | [https://www.quzuo.net/document/lxVElFuFzsEj](https://www.quzuo.net/document/lxVElFuFzsEj) |
+| 13 | [Ubuntu 22.04 curl 安装与命令参数详解](https://www.quzuo.net/document/D43op7fZ3N4R) | [https://www.quzuo.net/document/D43op7fZ3N4R](https://www.quzuo.net/document/D43op7fZ3N4R) |
+| 14 | [Ubuntu 22.04 dnsutils（dig/nslookup/host） 安装与命令参数详解](https://www.quzuo.net/document/8pCSrduLaQTC) | [https://www.quzuo.net/document/8pCSrduLaQTC](https://www.quzuo.net/document/8pCSrduLaQTC) |
+| 15 | [Ubuntu 22.04 ethtool 安装与命令参数详解](https://www.quzuo.net/document/q6oB2EMmy3O9) | [https://www.quzuo.net/document/q6oB2EMmy3O9](https://www.quzuo.net/document/q6oB2EMmy3O9) |
+| 16 | [Ubuntu 22.04 iftop 安装与命令参数详解](https://www.quzuo.net/document/bOIZRJzzjjkZ) | [https://www.quzuo.net/document/bOIZRJzzjjkZ](https://www.quzuo.net/document/bOIZRJzzjjkZ) |
+| 17 | [Ubuntu 22.04 iproute2（ip/ss） 安装与命令参数详解](https://www.quzuo.net/document/ZBpMFRdxT7up) | [https://www.quzuo.net/document/ZBpMFRdxT7up](https://www.quzuo.net/document/ZBpMFRdxT7up) |
+| 18 | [Ubuntu 22.04 mtr 安装与命令参数详解](https://www.quzuo.net/document/BSl05A5X0Kl3) | [https://www.quzuo.net/document/BSl05A5X0Kl3](https://www.quzuo.net/document/BSl05A5X0Kl3) |
+| 19 | [Ubuntu 22.04 net-tools（ifconfig/netstat/route） 安装与命令参数详解](https://www.quzuo.net/document/xk7UIfyFmU1t) | [https://www.quzuo.net/document/xk7UIfyFmU1t](https://www.quzuo.net/document/xk7UIfyFmU1t) |
+| 20 | [Ubuntu 22.04 nethogs 安装与命令参数详解](https://www.quzuo.net/document/UVFgYGBYe8tE) | [https://www.quzuo.net/document/UVFgYGBYe8tE](https://www.quzuo.net/document/UVFgYGBYe8tE) |
+| 21 | [Ubuntu 22.04 nmap 安装与命令参数详解](https://www.quzuo.net/document/9ieEgExpZAxC) | [https://www.quzuo.net/document/9ieEgExpZAxC](https://www.quzuo.net/document/9ieEgExpZAxC) |
+| 22 | [Ubuntu 22.04 tcpdump 安装与命令参数详解](https://www.quzuo.net/document/C2F69u8c7dWW) | [https://www.quzuo.net/document/C2F69u8c7dWW](https://www.quzuo.net/document/C2F69u8c7dWW) |
+| 23 | [Ubuntu 22.04 wget 安装与命令参数详解](https://www.quzuo.net/document/X6QSXE35Kndr) | [https://www.quzuo.net/document/X6QSXE35Kndr](https://www.quzuo.net/document/X6QSXE35Kndr) |
 
 [← 返回文档总览](../README.md)

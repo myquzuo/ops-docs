@@ -7,6 +7,7 @@
 | 1 | [Apache Camel 4.22.0 Docker Compose 部署指南](https://www.quzuo.net/document/5vl4liZaoOWT) | [https://www.quzuo.net/document/5vl4liZaoOWT](https://www.quzuo.net/document/5vl4liZaoOWT) |
 | 2 | [Apache Camel 4.22.0 常用 CLI 命令与工具详解](https://www.quzuo.net/document/UZqbC5fWPsnz) | [https://www.quzuo.net/document/UZqbC5fWPsnz](https://www.quzuo.net/document/UZqbC5fWPsnz) |
 | 3 | [Apache Camel 4.22.0 配置参数详解](https://www.quzuo.net/document/Qx22Zld2fLq2) | [https://www.quzuo.net/document/Qx22Zld2fLq2](https://www.quzuo.net/document/Qx22Zld2fLq2) |
-| 4 | [Ubuntu 22.04 安装 Apache Camel 4.22.0](https://www.quzuo.net/document/MCybNhawVnxh) | [https://www.quzuo.net/document/MCybNhawVnxh](https://www.quzuo.net/document/MCybNhawVnxh) |
+| 4 | [Apache Camel 4.23.0 介绍与选型指南](https://www.quzuo.net/document/WQrKyrLDz9gT) | [https://www.quzuo.net/document/WQrKyrLDz9gT](https://www.quzuo.net/document/WQrKyrLDz9gT) |
+| 5 | [Ubuntu 22.04 安装 Apache Camel 4.22.0](https://www.quzuo.net/document/MCybNhawVnxh) | [https://www.quzuo.net/document/MCybNhawVnxh](https://www.quzuo.net/document/MCybNhawVnxh) |
 
 [← 返回文档总览](../README.md)

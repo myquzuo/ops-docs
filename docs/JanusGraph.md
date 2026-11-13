@@ -5,10 +5,11 @@
 | # | 技术文档 | 在线地址 |
 |---|---|---|
 | 1 | [CentOS 8 安装 JanusGraph 1.1 指南](https://www.quzuo.net/document/iifLPtoNpNHO) | [https://www.quzuo.net/document/iifLPtoNpNHO](https://www.quzuo.net/document/iifLPtoNpNHO) |
-| 2 | [JanusGraph Docker Compose 部署指南](https://www.quzuo.net/document/EidVJj0wIipK) | [https://www.quzuo.net/document/EidVJj0wIipK](https://www.quzuo.net/document/EidVJj0wIipK) |
-| 3 | [JanusGraph 常用 CLI 命令与工具详解](https://www.quzuo.net/document/v3nXIc8xpw12) | [https://www.quzuo.net/document/v3nXIc8xpw12](https://www.quzuo.net/document/v3nXIc8xpw12) |
-| 4 | [JanusGraph 配置参数详解](https://www.quzuo.net/document/MnAmoOvjQ5xh) | [https://www.quzuo.net/document/MnAmoOvjQ5xh](https://www.quzuo.net/document/MnAmoOvjQ5xh) |
-| 5 | [JanusGraph 集群模式部署指南（Gremlin Server + Cassandra 后端集群）](https://www.quzuo.net/document/t8pebvBFdmFN) | [https://www.quzuo.net/document/t8pebvBFdmFN](https://www.quzuo.net/document/t8pebvBFdmFN) |
-| 6 | [Ubuntu 22.04 安装 JanusGraph 1.1 指南](https://www.quzuo.net/document/BBk3IWBKWeZG) | [https://www.quzuo.net/document/BBk3IWBKWeZG](https://www.quzuo.net/document/BBk3IWBKWeZG) |
+| 2 | [JanusGraph 1.1 介绍与选型指南](https://www.quzuo.net/document/ZUouHlgOAQoc) | [https://www.quzuo.net/document/ZUouHlgOAQoc](https://www.quzuo.net/document/ZUouHlgOAQoc) |
+| 3 | [JanusGraph Docker Compose 部署指南](https://www.quzuo.net/document/EidVJj0wIipK) | [https://www.quzuo.net/document/EidVJj0wIipK](https://www.quzuo.net/document/EidVJj0wIipK) |
+| 4 | [JanusGraph 常用 CLI 命令与工具详解](https://www.quzuo.net/document/v3nXIc8xpw12) | [https://www.quzuo.net/document/v3nXIc8xpw12](https://www.quzuo.net/document/v3nXIc8xpw12) |
+| 5 | [JanusGraph 配置参数详解](https://www.quzuo.net/document/MnAmoOvjQ5xh) | [https://www.quzuo.net/document/MnAmoOvjQ5xh](https://www.quzuo.net/document/MnAmoOvjQ5xh) |
+| 6 | [JanusGraph 集群模式部署指南（Gremlin Server + Cassandra 后端集群）](https://www.quzuo.net/document/t8pebvBFdmFN) | [https://www.quzuo.net/document/t8pebvBFdmFN](https://www.quzuo.net/document/t8pebvBFdmFN) |
+| 7 | [Ubuntu 22.04 安装 JanusGraph 1.1 指南](https://www.quzuo.net/document/BBk3IWBKWeZG) | [https://www.quzuo.net/document/BBk3IWBKWeZG](https://www.quzuo.net/document/BBk3IWBKWeZG) |
 
 [← 返回文档总览](../README.md)

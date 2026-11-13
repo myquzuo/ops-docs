@@ -6,6 +6,8 @@
 |---|---|---|
 | 1 | [Apache Ambari 2.7.9 Docker Compose 部署指南](https://www.quzuo.net/document/3NTHTgu94In7) | [https://www.quzuo.net/document/3NTHTgu94In7](https://www.quzuo.net/document/3NTHTgu94In7) |
 | 2 | [Apache Ambari 2.7.9 安装指南](https://www.quzuo.net/document/ghmBWo62dROr) | [https://www.quzuo.net/document/ghmBWo62dROr](https://www.quzuo.net/document/ghmBWo62dROr) |
-| 3 | [Apache Ambari 2.7.9 配置参数详解](https://www.quzuo.net/document/vF8bSDw3295b) | [https://www.quzuo.net/document/vF8bSDw3295b](https://www.quzuo.net/document/vF8bSDw3295b) |
+| 3 | [Apache Ambari 2.7.9 常用 CLI 命令与工具详解](https://www.quzuo.net/document/7FqzKlnJlSpZ) | [https://www.quzuo.net/document/7FqzKlnJlSpZ](https://www.quzuo.net/document/7FqzKlnJlSpZ) |
+| 4 | [Apache Ambari 2.7.9 配置参数详解](https://www.quzuo.net/document/vF8bSDw3295b) | [https://www.quzuo.net/document/vF8bSDw3295b](https://www.quzuo.net/document/vF8bSDw3295b) |
+| 5 | [Apache Ambari 3.0 介绍与选型指南](https://www.quzuo.net/document/KVeawQpHBqB3) | [https://www.quzuo.net/document/KVeawQpHBqB3](https://www.quzuo.net/document/KVeawQpHBqB3) |
 
 [← 返回文档总览](../README.md)

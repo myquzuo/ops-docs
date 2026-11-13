@@ -12,10 +12,11 @@
 | 6 | [Elasticsearch 9.5.4 常用 CLI 命令与工具详解](https://www.quzuo.net/document/Wp8uOp6rVkLR) | [https://www.quzuo.net/document/Wp8uOp6rVkLR](https://www.quzuo.net/document/Wp8uOp6rVkLR) |
 | 7 | [Elasticsearch 9.5.4 配置参数详解](https://www.quzuo.net/document/NT8QzENsxJpm) | [https://www.quzuo.net/document/NT8QzENsxJpm](https://www.quzuo.net/document/NT8QzENsxJpm) |
 | 8 | [Elasticsearch 9.5.4 集群模式搭建（Ubuntu 22.04 三节点）](https://www.quzuo.net/document/qIQGcAMNTOri) | [https://www.quzuo.net/document/qIQGcAMNTOri](https://www.quzuo.net/document/qIQGcAMNTOri) |
-| 9 | [ELK 日志体系（Logstash + Kibana）部署指南（裸机 + Docker Compose）](https://www.quzuo.net/document/c2nJIBg4UESi) | [https://www.quzuo.net/document/c2nJIBg4UESi](https://www.quzuo.net/document/c2nJIBg4UESi) |
-| 10 | [Fluentd 配置参数详解（td-agent 4.5.2）](https://www.quzuo.net/document/kKWjGocBZxs7) | [https://www.quzuo.net/document/kKWjGocBZxs7](https://www.quzuo.net/document/kKWjGocBZxs7) |
-| 11 | [Kibana 可视化分析与 Web 界面指南](https://www.quzuo.net/document/4uqcxIafb9ek) | [https://www.quzuo.net/document/4uqcxIafb9ek](https://www.quzuo.net/document/4uqcxIafb9ek) |
-| 12 | [Logstash 9.5.4 配置参数详解](https://www.quzuo.net/document/AJj6x63UPhhA) | [https://www.quzuo.net/document/AJj6x63UPhhA](https://www.quzuo.net/document/AJj6x63UPhhA) |
-| 13 | [Ubuntu 24.04 安装 Elasticsearch 8.x](https://www.quzuo.net/document/yykecMDgjkOV) | [https://www.quzuo.net/document/yykecMDgjkOV](https://www.quzuo.net/document/yykecMDgjkOV) |
+| 9 | [Elasticsearch 9.5.5 介绍与选型指南](https://www.quzuo.net/document/PXZAeYnXVTov) | [https://www.quzuo.net/document/PXZAeYnXVTov](https://www.quzuo.net/document/PXZAeYnXVTov) |
+| 10 | [ELK 日志体系（Logstash + Kibana）部署指南（裸机 + Docker Compose）](https://www.quzuo.net/document/c2nJIBg4UESi) | [https://www.quzuo.net/document/c2nJIBg4UESi](https://www.quzuo.net/document/c2nJIBg4UESi) |
+| 11 | [Fluentd 配置参数详解（td-agent 4.5.2）](https://www.quzuo.net/document/kKWjGocBZxs7) | [https://www.quzuo.net/document/kKWjGocBZxs7](https://www.quzuo.net/document/kKWjGocBZxs7) |
+| 12 | [Kibana 可视化分析与 Web 界面指南](https://www.quzuo.net/document/4uqcxIafb9ek) | [https://www.quzuo.net/document/4uqcxIafb9ek](https://www.quzuo.net/document/4uqcxIafb9ek) |
+| 13 | [Logstash 9.5.4 配置参数详解](https://www.quzuo.net/document/AJj6x63UPhhA) | [https://www.quzuo.net/document/AJj6x63UPhhA](https://www.quzuo.net/document/AJj6x63UPhhA) |
+| 14 | [Ubuntu 24.04 安装 Elasticsearch 8.x](https://www.quzuo.net/document/yykecMDgjkOV) | [https://www.quzuo.net/document/yykecMDgjkOV](https://www.quzuo.net/document/yykecMDgjkOV) |
 
 [← 返回文档总览](../README.md)

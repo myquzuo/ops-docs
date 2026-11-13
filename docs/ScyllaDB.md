@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [ScyllaDB 6.x Docker Compose 部署指南](https://www.quzuo.net/document/O06ljKc1ePCl) | [https://www.quzuo.net/document/O06ljKc1ePCl](https://www.quzuo.net/document/O06ljKc1ePCl) |
-| 2 | [ScyllaDB 6.x 常用 CLI 命令与工具详解](https://www.quzuo.net/document/MMrp8PvnDjyF) | [https://www.quzuo.net/document/MMrp8PvnDjyF](https://www.quzuo.net/document/MMrp8PvnDjyF) |
-| 3 | [ScyllaDB 6.x 配置参数详解](https://www.quzuo.net/document/aDMNq1M2DJb5) | [https://www.quzuo.net/document/aDMNq1M2DJb5](https://www.quzuo.net/document/aDMNq1M2DJb5) |
-| 4 | [Ubuntu 24.04 安装 ScyllaDB 6.x](https://www.quzuo.net/document/iGHWQqBoskX9) | [https://www.quzuo.net/document/iGHWQqBoskX9](https://www.quzuo.net/document/iGHWQqBoskX9) |
+| 1 | [ScyllaDB 2026.3 介绍与选型指南](https://www.quzuo.net/document/08jXJwrW1QYT) | [https://www.quzuo.net/document/08jXJwrW1QYT](https://www.quzuo.net/document/08jXJwrW1QYT) |
+| 2 | [ScyllaDB 6.x Docker Compose 部署指南](https://www.quzuo.net/document/O06ljKc1ePCl) | [https://www.quzuo.net/document/O06ljKc1ePCl](https://www.quzuo.net/document/O06ljKc1ePCl) |
+| 3 | [ScyllaDB 6.x 常用 CLI 命令与工具详解](https://www.quzuo.net/document/MMrp8PvnDjyF) | [https://www.quzuo.net/document/MMrp8PvnDjyF](https://www.quzuo.net/document/MMrp8PvnDjyF) |
+| 4 | [ScyllaDB 6.x 配置参数详解](https://www.quzuo.net/document/aDMNq1M2DJb5) | [https://www.quzuo.net/document/aDMNq1M2DJb5](https://www.quzuo.net/document/aDMNq1M2DJb5) |
+| 5 | [Ubuntu 24.04 安装 ScyllaDB 6.x](https://www.quzuo.net/document/iGHWQqBoskX9) | [https://www.quzuo.net/document/iGHWQqBoskX9](https://www.quzuo.net/document/iGHWQqBoskX9) |
 
 [← 返回文档总览](../README.md)

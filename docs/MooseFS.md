@@ -8,7 +8,8 @@
 | 2 | [MooseFS 4 Docker Compose 部署指南](https://www.quzuo.net/document/8xyTmAJetGTh) | [https://www.quzuo.net/document/8xyTmAJetGTh](https://www.quzuo.net/document/8xyTmAJetGTh) |
 | 3 | [MooseFS 4 常用 CLI 命令与运维指南](https://www.quzuo.net/document/RAmpDwb2qWC9) | [https://www.quzuo.net/document/RAmpDwb2qWC9](https://www.quzuo.net/document/RAmpDwb2qWC9) |
 | 4 | [MooseFS 4 配置参数详解](https://www.quzuo.net/document/LmQuFlbRkx9U) | [https://www.quzuo.net/document/LmQuFlbRkx9U](https://www.quzuo.net/document/LmQuFlbRkx9U) |
-| 5 | [MooseFS 集群模式部署指南](https://www.quzuo.net/document/lvw2ZRE4A5Ko) | [https://www.quzuo.net/document/lvw2ZRE4A5Ko](https://www.quzuo.net/document/lvw2ZRE4A5Ko) |
-| 6 | [Ubuntu 22.04 安装 MooseFS 4 指南](https://www.quzuo.net/document/JwJB7pstgDFj) | [https://www.quzuo.net/document/JwJB7pstgDFj](https://www.quzuo.net/document/JwJB7pstgDFj) |
+| 5 | [MooseFS 4.59 介绍与选型指南](https://www.quzuo.net/document/TWt9Efu76vKi) | [https://www.quzuo.net/document/TWt9Efu76vKi](https://www.quzuo.net/document/TWt9Efu76vKi) |
+| 6 | [MooseFS 集群模式部署指南](https://www.quzuo.net/document/lvw2ZRE4A5Ko) | [https://www.quzuo.net/document/lvw2ZRE4A5Ko](https://www.quzuo.net/document/lvw2ZRE4A5Ko) |
+| 7 | [Ubuntu 22.04 安装 MooseFS 4 指南](https://www.quzuo.net/document/JwJB7pstgDFj) | [https://www.quzuo.net/document/JwJB7pstgDFj](https://www.quzuo.net/document/JwJB7pstgDFj) |
 
 [← 返回文档总览](../README.md)

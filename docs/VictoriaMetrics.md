@@ -10,5 +10,6 @@
 | 4 | [VictoriaMetrics 1.153.0 常用 CLI 与工具详解](https://www.quzuo.net/document/UDZ1qkMftjUD) | [https://www.quzuo.net/document/UDZ1qkMftjUD](https://www.quzuo.net/document/UDZ1qkMftjUD) |
 | 5 | [VictoriaMetrics 1.153.0 配置参数详解](https://www.quzuo.net/document/NPGPfApWVbxM) | [https://www.quzuo.net/document/NPGPfApWVbxM](https://www.quzuo.net/document/NPGPfApWVbxM) |
 | 6 | [VictoriaMetrics 1.153.0 集群部署指南](https://www.quzuo.net/document/t5Q3EXgitjGu) | [https://www.quzuo.net/document/t5Q3EXgitjGu](https://www.quzuo.net/document/t5Q3EXgitjGu) |
+| 7 | [VictoriaMetrics 1.154 介绍与选型指南](https://www.quzuo.net/document/t3ETxVuktkO3) | [https://www.quzuo.net/document/t3ETxVuktkO3](https://www.quzuo.net/document/t3ETxVuktkO3) |
 
 [← 返回文档总览](../README.md)

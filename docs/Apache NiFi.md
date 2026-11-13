@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache NiFi 2.12.0 配置文件详解](https://www.quzuo.net/document/2Popi5pZIGK5) | [https://www.quzuo.net/document/2Popi5pZIGK5](https://www.quzuo.net/document/2Popi5pZIGK5) |
-| 2 | [Apache NiFi 命令与运维指南](https://www.quzuo.net/document/yL9aXnMGSftU) | [https://www.quzuo.net/document/yL9aXnMGSftU](https://www.quzuo.net/document/yL9aXnMGSftU) |
-| 3 | [Ubuntu 22.04 分布式部署 Apache NiFi 集群指南](https://www.quzuo.net/document/oYIVLYUnISH9) | [https://www.quzuo.net/document/oYIVLYUnISH9](https://www.quzuo.net/document/oYIVLYUnISH9) |
-| 4 | [Ubuntu 22.04 单节点部署 Apache NiFi 指南](https://www.quzuo.net/document/YlxkG5RbrGLH) | [https://www.quzuo.net/document/YlxkG5RbrGLH](https://www.quzuo.net/document/YlxkG5RbrGLH) |
+| 1 | [Apache NiFi 2.12.0 介绍与选型指南](https://www.quzuo.net/document/XicywuHraXEK) | [https://www.quzuo.net/document/XicywuHraXEK](https://www.quzuo.net/document/XicywuHraXEK) |
+| 2 | [Apache NiFi 2.12.0 配置文件详解](https://www.quzuo.net/document/2Popi5pZIGK5) | [https://www.quzuo.net/document/2Popi5pZIGK5](https://www.quzuo.net/document/2Popi5pZIGK5) |
+| 3 | [Apache NiFi 命令与运维指南](https://www.quzuo.net/document/yL9aXnMGSftU) | [https://www.quzuo.net/document/yL9aXnMGSftU](https://www.quzuo.net/document/yL9aXnMGSftU) |
+| 4 | [Ubuntu 22.04 分布式部署 Apache NiFi 集群指南](https://www.quzuo.net/document/oYIVLYUnISH9) | [https://www.quzuo.net/document/oYIVLYUnISH9](https://www.quzuo.net/document/oYIVLYUnISH9) |
+| 5 | [Ubuntu 22.04 单节点部署 Apache NiFi 指南](https://www.quzuo.net/document/YlxkG5RbrGLH) | [https://www.quzuo.net/document/YlxkG5RbrGLH](https://www.quzuo.net/document/YlxkG5RbrGLH) |
 
 [← 返回文档总览](../README.md)

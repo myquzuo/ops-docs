@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Duplicati Docker Compose 部署指南](https://www.quzuo.net/document/yB75Ps56KgyS) | [https://www.quzuo.net/document/yB75Ps56KgyS](https://www.quzuo.net/document/yB75Ps56KgyS) |
-| 2 | [Duplicati Ubuntu 22.04 安装指南](https://www.quzuo.net/document/cVT1gDKd3Gvn) | [https://www.quzuo.net/document/cVT1gDKd3Gvn](https://www.quzuo.net/document/cVT1gDKd3Gvn) |
-| 3 | [Duplicati 常用 CLI 命令详解](https://www.quzuo.net/document/VzkZbTY6f8ql) | [https://www.quzuo.net/document/VzkZbTY6f8ql](https://www.quzuo.net/document/VzkZbTY6f8ql) |
-| 4 | [Duplicati 配置参数详解](https://www.quzuo.net/document/UuRoiTloL5DW) | [https://www.quzuo.net/document/UuRoiTloL5DW](https://www.quzuo.net/document/UuRoiTloL5DW) |
+| 1 | [Duplicati 2.4 介绍与选型指南](https://www.quzuo.net/document/2YwkLXJjlWLr) | [https://www.quzuo.net/document/2YwkLXJjlWLr](https://www.quzuo.net/document/2YwkLXJjlWLr) |
+| 2 | [Duplicati Docker Compose 部署指南](https://www.quzuo.net/document/yB75Ps56KgyS) | [https://www.quzuo.net/document/yB75Ps56KgyS](https://www.quzuo.net/document/yB75Ps56KgyS) |
+| 3 | [Duplicati Ubuntu 22.04 安装指南](https://www.quzuo.net/document/cVT1gDKd3Gvn) | [https://www.quzuo.net/document/cVT1gDKd3Gvn](https://www.quzuo.net/document/cVT1gDKd3Gvn) |
+| 4 | [Duplicati 常用 CLI 命令详解](https://www.quzuo.net/document/VzkZbTY6f8ql) | [https://www.quzuo.net/document/VzkZbTY6f8ql](https://www.quzuo.net/document/VzkZbTY6f8ql) |
+| 5 | [Duplicati 配置参数详解](https://www.quzuo.net/document/UuRoiTloL5DW) | [https://www.quzuo.net/document/UuRoiTloL5DW](https://www.quzuo.net/document/UuRoiTloL5DW) |
 
 [← 返回文档总览](../README.md)

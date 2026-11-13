@@ -10,5 +10,6 @@
 | 4 | [BadgerDB 4 嵌入式与分布式应用模式指南](https://www.quzuo.net/document/33WiaSkMo2TP) | [https://www.quzuo.net/document/33WiaSkMo2TP](https://www.quzuo.net/document/33WiaSkMo2TP) |
 | 5 | [BadgerDB 4 常用工具与 API 详解](https://www.quzuo.net/document/WsOqvaBs7mvs) | [https://www.quzuo.net/document/WsOqvaBs7mvs](https://www.quzuo.net/document/WsOqvaBs7mvs) |
 | 6 | [BadgerDB 4 配置参数详解](https://www.quzuo.net/document/fs6z5h6nBZ9i) | [https://www.quzuo.net/document/fs6z5h6nBZ9i](https://www.quzuo.net/document/fs6z5h6nBZ9i) |
+| 7 | [BadgerDB 4.9.6 介绍与选型指南](https://www.quzuo.net/document/vZyTFt7MBovX) | [https://www.quzuo.net/document/vZyTFt7MBovX](https://www.quzuo.net/document/vZyTFt7MBovX) |
 
 [← 返回文档总览](../README.md)

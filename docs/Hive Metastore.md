@@ -4,10 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Hive Metastore Docker Compose 部署指南](https://www.quzuo.net/document/sgvfGGqkBWm4) | [https://www.quzuo.net/document/sgvfGGqkBWm4](https://www.quzuo.net/document/sgvfGGqkBWm4) |
-| 2 | [Hive Metastore 多实例高可用部署指南](https://www.quzuo.net/document/Opj5kuqJqN2K) | [https://www.quzuo.net/document/Opj5kuqJqN2K](https://www.quzuo.net/document/Opj5kuqJqN2K) |
-| 3 | [Hive Metastore 常用 CLI 命令与工具详解](https://www.quzuo.net/document/3mu1uMPQfzwS) | [https://www.quzuo.net/document/3mu1uMPQfzwS](https://www.quzuo.net/document/3mu1uMPQfzwS) |
-| 4 | [Hive Metastore 配置参数详解](https://www.quzuo.net/document/Fj01NwFLoQez) | [https://www.quzuo.net/document/Fj01NwFLoQez](https://www.quzuo.net/document/Fj01NwFLoQez) |
-| 5 | [Ubuntu 22.04 安装 Hive Metastore 独立服务 指南](https://www.quzuo.net/document/aQf2RWIzCdTu) | [https://www.quzuo.net/document/aQf2RWIzCdTu](https://www.quzuo.net/document/aQf2RWIzCdTu) |
+| 1 | [Hive Metastore 4.2 介绍与选型指南](https://www.quzuo.net/document/sZwYWUXdiluL) | [https://www.quzuo.net/document/sZwYWUXdiluL](https://www.quzuo.net/document/sZwYWUXdiluL) |
+| 2 | [Hive Metastore Docker Compose 部署指南](https://www.quzuo.net/document/sgvfGGqkBWm4) | [https://www.quzuo.net/document/sgvfGGqkBWm4](https://www.quzuo.net/document/sgvfGGqkBWm4) |
+| 3 | [Hive Metastore 多实例高可用部署指南](https://www.quzuo.net/document/Opj5kuqJqN2K) | [https://www.quzuo.net/document/Opj5kuqJqN2K](https://www.quzuo.net/document/Opj5kuqJqN2K) |
+| 4 | [Hive Metastore 常用 CLI 命令与工具详解](https://www.quzuo.net/document/3mu1uMPQfzwS) | [https://www.quzuo.net/document/3mu1uMPQfzwS](https://www.quzuo.net/document/3mu1uMPQfzwS) |
+| 5 | [Hive Metastore 配置参数详解](https://www.quzuo.net/document/Fj01NwFLoQez) | [https://www.quzuo.net/document/Fj01NwFLoQez](https://www.quzuo.net/document/Fj01NwFLoQez) |
+| 6 | [Ubuntu 22.04 安装 Hive Metastore 独立服务 指南](https://www.quzuo.net/document/aQf2RWIzCdTu) | [https://www.quzuo.net/document/aQf2RWIzCdTu](https://www.quzuo.net/document/aQf2RWIzCdTu) |
 
 [← 返回文档总览](../README.md)

@@ -7,6 +7,7 @@
 | 1 | [Alertmanager 对接钉钉-企微 webhook 告警指南](https://www.quzuo.net/document/jBsgTclCKNG0) | [https://www.quzuo.net/document/jBsgTclCKNG0](https://www.quzuo.net/document/jBsgTclCKNG0) |
 | 2 | [企业微信机器人 webhook 告警接入指南](https://www.quzuo.net/document/kfKdsXZriEYM) | [https://www.quzuo.net/document/kfKdsXZriEYM](https://www.quzuo.net/document/kfKdsXZriEYM) |
 | 3 | [告警消息模板与最佳实践](https://www.quzuo.net/document/LVhUmVc1GQoz) | [https://www.quzuo.net/document/LVhUmVc1GQoz](https://www.quzuo.net/document/LVhUmVc1GQoz) |
-| 4 | [钉钉机器人 webhook 告警接入指南](https://www.quzuo.net/document/k9AJJdA185Iq) | [https://www.quzuo.net/document/k9AJJdA185Iq](https://www.quzuo.net/document/k9AJJdA185Iq) |
+| 4 | [钉钉/企微告警webhook 介绍与选型指南](https://www.quzuo.net/document/2IOhSLHFYgQt) | [https://www.quzuo.net/document/2IOhSLHFYgQt](https://www.quzuo.net/document/2IOhSLHFYgQt) |
+| 5 | [钉钉机器人 webhook 告警接入指南](https://www.quzuo.net/document/k9AJJdA185Iq) | [https://www.quzuo.net/document/k9AJJdA185Iq](https://www.quzuo.net/document/k9AJJdA185Iq) |
 
 [← 返回文档总览](../README.md)

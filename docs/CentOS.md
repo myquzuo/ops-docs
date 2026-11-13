@@ -8,5 +8,6 @@
 | 2 | [CentOS 8 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/amWlBqgj8qc7) | [https://www.quzuo.net/document/amWlBqgj8qc7](https://www.quzuo.net/document/amWlBqgj8qc7) |
 | 3 | [CentOS 8 Docker Compose 部署指南](https://www.quzuo.net/document/FfShkGQx4jIG) | [https://www.quzuo.net/document/FfShkGQx4jIG](https://www.quzuo.net/document/FfShkGQx4jIG) |
 | 4 | [CentOS 8 安装 Docker 指南](https://www.quzuo.net/document/eZ1lEgRuklRm) | [https://www.quzuo.net/document/eZ1lEgRuklRm](https://www.quzuo.net/document/eZ1lEgRuklRm) |
+| 5 | [CentOS 介绍与选型指南](https://www.quzuo.net/document/8sKxDkpELH2v) | [https://www.quzuo.net/document/8sKxDkpELH2v](https://www.quzuo.net/document/8sKxDkpELH2v) |
 
 [← 返回文档总览](../README.md)

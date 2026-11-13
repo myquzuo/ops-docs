@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [统信 UOS Server 20 dnf 包管理工具命令详解](https://www.quzuo.net/document/ElJFurjQMSPF) | [https://www.quzuo.net/document/ElJFurjQMSPF](https://www.quzuo.net/document/ElJFurjQMSPF) |
-| 2 | [统信 UOS Server 20 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/MBzPzN8wPQiq) | [https://www.quzuo.net/document/MBzPzN8wPQiq](https://www.quzuo.net/document/MBzPzN8wPQiq) |
-| 3 | [统信 UOS Server 20 Docker Compose 部署指南](https://www.quzuo.net/document/KZqwCO1ZkVka) | [https://www.quzuo.net/document/KZqwCO1ZkVka](https://www.quzuo.net/document/KZqwCO1ZkVka) |
-| 4 | [统信 UOS Server 20 安装 Docker 指南](https://www.quzuo.net/document/rF4kogjV8021) | [https://www.quzuo.net/document/rF4kogjV8021](https://www.quzuo.net/document/rF4kogjV8021) |
+| 1 | [统信 UOS 25 介绍与选型指南](https://www.quzuo.net/document/pS9kkRl2VeP8) | [https://www.quzuo.net/document/pS9kkRl2VeP8](https://www.quzuo.net/document/pS9kkRl2VeP8) |
+| 2 | [统信 UOS Server 20 dnf 包管理工具命令详解](https://www.quzuo.net/document/ElJFurjQMSPF) | [https://www.quzuo.net/document/ElJFurjQMSPF](https://www.quzuo.net/document/ElJFurjQMSPF) |
+| 3 | [统信 UOS Server 20 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/MBzPzN8wPQiq) | [https://www.quzuo.net/document/MBzPzN8wPQiq](https://www.quzuo.net/document/MBzPzN8wPQiq) |
+| 4 | [统信 UOS Server 20 Docker Compose 部署指南](https://www.quzuo.net/document/KZqwCO1ZkVka) | [https://www.quzuo.net/document/KZqwCO1ZkVka](https://www.quzuo.net/document/KZqwCO1ZkVka) |
+| 5 | [统信 UOS Server 20 安装 Docker 指南](https://www.quzuo.net/document/rF4kogjV8021) | [https://www.quzuo.net/document/rF4kogjV8021](https://www.quzuo.net/document/rF4kogjV8021) |
 
 [← 返回文档总览](../README.md)

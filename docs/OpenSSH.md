@@ -6,7 +6,8 @@
 |---|---|---|
 | 1 | [CentOS 7 RPM 打包升级 OpenSSH 指南](https://www.quzuo.net/document/TuwqpBNmP8Vp) | [https://www.quzuo.net/document/TuwqpBNmP8Vp](https://www.quzuo.net/document/TuwqpBNmP8Vp) |
 | 2 | [CentOS 7 源码编译升级 OpenSSH 指南](https://www.quzuo.net/document/aR3vC7qjdVpN) | [https://www.quzuo.net/document/aR3vC7qjdVpN](https://www.quzuo.net/document/aR3vC7qjdVpN) |
-| 3 | [SFTP 服务配置（基于 SSH）](https://www.quzuo.net/document/4FZn0c6GJ6QL) | [https://www.quzuo.net/document/4FZn0c6GJ6QL](https://www.quzuo.net/document/4FZn0c6GJ6QL) |
-| 4 | [Ubuntu 22.04 升级 OpenSSH 多方案指南](https://www.quzuo.net/document/h1W3YbFFhU6R) | [https://www.quzuo.net/document/h1W3YbFFhU6R](https://www.quzuo.net/document/h1W3YbFFhU6R) |
+| 3 | [OpenSSH 10.5 介绍与选型指南](https://www.quzuo.net/document/54kesfi5p5qT) | [https://www.quzuo.net/document/54kesfi5p5qT](https://www.quzuo.net/document/54kesfi5p5qT) |
+| 4 | [SFTP 服务配置（基于 SSH）](https://www.quzuo.net/document/4FZn0c6GJ6QL) | [https://www.quzuo.net/document/4FZn0c6GJ6QL](https://www.quzuo.net/document/4FZn0c6GJ6QL) |
+| 5 | [Ubuntu 22.04 升级 OpenSSH 多方案指南](https://www.quzuo.net/document/h1W3YbFFhU6R) | [https://www.quzuo.net/document/h1W3YbFFhU6R](https://www.quzuo.net/document/h1W3YbFFhU6R) |
 
 [← 返回文档总览](../README.md)

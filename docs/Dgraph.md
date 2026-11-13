@@ -9,6 +9,7 @@
 | 3 | [Dgraph 24 常用 CLI 命令与工具详解](https://www.quzuo.net/document/9Z2B08SPl3Yy) | [https://www.quzuo.net/document/9Z2B08SPl3Yy](https://www.quzuo.net/document/9Z2B08SPl3Yy) |
 | 4 | [Dgraph 24 配置参数详解](https://www.quzuo.net/document/T0Zt0ue2cin9) | [https://www.quzuo.net/document/T0Zt0ue2cin9](https://www.quzuo.net/document/T0Zt0ue2cin9) |
 | 5 | [Dgraph 24 集群模式部署指南](https://www.quzuo.net/document/XaVZC8lVDUBw) | [https://www.quzuo.net/document/XaVZC8lVDUBw](https://www.quzuo.net/document/XaVZC8lVDUBw) |
-| 6 | [Ubuntu 22.04 安装 Dgraph 24 指南](https://www.quzuo.net/document/ikioW7T0FT3K) | [https://www.quzuo.net/document/ikioW7T0FT3K](https://www.quzuo.net/document/ikioW7T0FT3K) |
+| 6 | [Dgraph 25.5.0 介绍与选型指南](https://www.quzuo.net/document/4e4bWQjUd9Cn) | [https://www.quzuo.net/document/4e4bWQjUd9Cn](https://www.quzuo.net/document/4e4bWQjUd9Cn) |
+| 7 | [Ubuntu 22.04 安装 Dgraph 24 指南](https://www.quzuo.net/document/ikioW7T0FT3K) | [https://www.quzuo.net/document/ikioW7T0FT3K](https://www.quzuo.net/document/ikioW7T0FT3K) |
 
 [← 返回文档总览](../README.md)

@@ -4,9 +4,10 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Apache Arrow PyArrow Docker Compose 部署指南](https://www.quzuo.net/document/ivREYokTZpym) | [https://www.quzuo.net/document/ivREYokTZpym](https://www.quzuo.net/document/ivREYokTZpym) |
-| 2 | [Apache Arrow 常用 CLI 命令与运维指南](https://www.quzuo.net/document/s4WNZtstH7Oo) | [https://www.quzuo.net/document/s4WNZtstH7Oo](https://www.quzuo.net/document/s4WNZtstH7Oo) |
-| 3 | [Apache Arrow 配置参数详解](https://www.quzuo.net/document/mVlgnCMjYNGt) | [https://www.quzuo.net/document/mVlgnCMjYNGt](https://www.quzuo.net/document/mVlgnCMjYNGt) |
-| 4 | [Ubuntu 22.04 安装 Apache Arrow 17 指南](https://www.quzuo.net/document/j33zABGkG0OP) | [https://www.quzuo.net/document/j33zABGkG0OP](https://www.quzuo.net/document/j33zABGkG0OP) |
+| 1 | [Apache Arrow 26.0.0 介绍与选型指南](https://www.quzuo.net/document/5koLJaxGFLwy) | [https://www.quzuo.net/document/5koLJaxGFLwy](https://www.quzuo.net/document/5koLJaxGFLwy) |
+| 2 | [Apache Arrow PyArrow Docker Compose 部署指南](https://www.quzuo.net/document/ivREYokTZpym) | [https://www.quzuo.net/document/ivREYokTZpym](https://www.quzuo.net/document/ivREYokTZpym) |
+| 3 | [Apache Arrow 常用 CLI 命令与运维指南](https://www.quzuo.net/document/s4WNZtstH7Oo) | [https://www.quzuo.net/document/s4WNZtstH7Oo](https://www.quzuo.net/document/s4WNZtstH7Oo) |
+| 4 | [Apache Arrow 配置参数详解](https://www.quzuo.net/document/mVlgnCMjYNGt) | [https://www.quzuo.net/document/mVlgnCMjYNGt](https://www.quzuo.net/document/mVlgnCMjYNGt) |
+| 5 | [Ubuntu 22.04 安装 Apache Arrow 17 指南](https://www.quzuo.net/document/j33zABGkG0OP) | [https://www.quzuo.net/document/j33zABGkG0OP](https://www.quzuo.net/document/j33zABGkG0OP) |
 
 [← 返回文档总览](../README.md)
