@@ -4,11 +4,13 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Loki 3.7.8 介绍与选型指南](https://www.quzuo.net/document/FgoGR37UMAWE) | [https://www.quzuo.net/document/FgoGR37UMAWE](https://www.quzuo.net/document/FgoGR37UMAWE) |
-| 2 | [Loki Docker Compose 部署指南](https://www.quzuo.net/document/6hEG9M4eIwbs) | [https://www.quzuo.net/document/6hEG9M4eIwbs](https://www.quzuo.net/document/6hEG9M4eIwbs) |
-| 3 | [Loki 分布式多租户部署 专项篇](https://www.quzuo.net/document/x7dVTFaE4Nlf) | [https://www.quzuo.net/document/x7dVTFaE4Nlf](https://www.quzuo.net/document/x7dVTFaE4Nlf) |
-| 4 | [Loki 常用 CLI 命令与工具详解](https://www.quzuo.net/document/MefMqKumoOfv) | [https://www.quzuo.net/document/MefMqKumoOfv](https://www.quzuo.net/document/MefMqKumoOfv) |
-| 5 | [Loki 配置参数详解](https://www.quzuo.net/document/pv9tEKH11wJW) | [https://www.quzuo.net/document/pv9tEKH11wJW](https://www.quzuo.net/document/pv9tEKH11wJW) |
-| 6 | [Ubuntu 22.04 安装 Loki 指南](https://www.quzuo.net/document/aeiCilPoS8td) | [https://www.quzuo.net/document/aeiCilPoS8td](https://www.quzuo.net/document/aeiCilPoS8td) |
+| 1 | [Loki 3.7.8 k8s 部署实战：on kind](https://www.quzuo.net/document/wEWZ2YBsKrkD) | [https://www.quzuo.net/document/wEWZ2YBsKrkD](https://www.quzuo.net/document/wEWZ2YBsKrkD) |
+| 2 | [Loki 3.7.8 介绍与选型指南](https://www.quzuo.net/document/FgoGR37UMAWE) | [https://www.quzuo.net/document/FgoGR37UMAWE](https://www.quzuo.net/document/FgoGR37UMAWE) |
+| 3 | [Loki 3.7.8 核心原理详解](https://www.quzuo.net/document/me7M5jIoD69D) | [https://www.quzuo.net/document/me7M5jIoD69D](https://www.quzuo.net/document/me7M5jIoD69D) |
+| 4 | [Loki Docker Compose 部署指南](https://www.quzuo.net/document/6hEG9M4eIwbs) | [https://www.quzuo.net/document/6hEG9M4eIwbs](https://www.quzuo.net/document/6hEG9M4eIwbs) |
+| 5 | [Loki 分布式多租户部署 专项篇](https://www.quzuo.net/document/x7dVTFaE4Nlf) | [https://www.quzuo.net/document/x7dVTFaE4Nlf](https://www.quzuo.net/document/x7dVTFaE4Nlf) |
+| 6 | [Loki 常用 CLI 命令与工具详解](https://www.quzuo.net/document/MefMqKumoOfv) | [https://www.quzuo.net/document/MefMqKumoOfv](https://www.quzuo.net/document/MefMqKumoOfv) |
+| 7 | [Loki 配置参数详解](https://www.quzuo.net/document/pv9tEKH11wJW) | [https://www.quzuo.net/document/pv9tEKH11wJW](https://www.quzuo.net/document/pv9tEKH11wJW) |
+| 8 | [Ubuntu 22.04 安装 Loki 指南](https://www.quzuo.net/document/aeiCilPoS8td) | [https://www.quzuo.net/document/aeiCilPoS8td](https://www.quzuo.net/document/aeiCilPoS8td) |
 
 [← 返回文档总览](../README.md)

@@ -4,9 +4,9 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [Fedora 44 dnf 包管理工具命令详解](https://www.quzuo.net/document/b5vqOhv6vDWn) | [https://www.quzuo.net/document/b5vqOhv6vDWn](https://www.quzuo.net/document/b5vqOhv6vDWn) |
-| 2 | [Fedora 44 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/2rVPOwYt0xO3) | [https://www.quzuo.net/document/2rVPOwYt0xO3](https://www.quzuo.net/document/2rVPOwYt0xO3) |
-| 3 | [Fedora 44 Docker Compose 部署指南](https://www.quzuo.net/document/LDdLRx9vvlYZ) | [https://www.quzuo.net/document/LDdLRx9vvlYZ](https://www.quzuo.net/document/LDdLRx9vvlYZ) |
+| 1 | [Fedora 44 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/2rVPOwYt0xO3) | [https://www.quzuo.net/document/2rVPOwYt0xO3](https://www.quzuo.net/document/2rVPOwYt0xO3) |
+| 2 | [Fedora 44 Docker Compose 部署指南](https://www.quzuo.net/document/LDdLRx9vvlYZ) | [https://www.quzuo.net/document/LDdLRx9vvlYZ](https://www.quzuo.net/document/LDdLRx9vvlYZ) |
+| 3 | [Fedora 44 dnf 包管理工具命令详解](https://www.quzuo.net/document/b5vqOhv6vDWn) | [https://www.quzuo.net/document/b5vqOhv6vDWn](https://www.quzuo.net/document/b5vqOhv6vDWn) |
 | 4 | [Fedora 44 介绍与选型指南](https://www.quzuo.net/document/BMRvCZjLIAxd) | [https://www.quzuo.net/document/BMRvCZjLIAxd](https://www.quzuo.net/document/BMRvCZjLIAxd) |
 | 5 | [Fedora 44 安装 Docker 指南](https://www.quzuo.net/document/4rNmfldb7uQM) | [https://www.quzuo.net/document/4rNmfldb7uQM](https://www.quzuo.net/document/4rNmfldb7uQM) |
 

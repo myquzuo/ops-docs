@@ -4,9 +4,9 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [CentOS 8 dnf 包管理工具命令详解](https://www.quzuo.net/document/FnrhP2A1RyLv) | [https://www.quzuo.net/document/FnrhP2A1RyLv](https://www.quzuo.net/document/FnrhP2A1RyLv) |
-| 2 | [CentOS 8 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/amWlBqgj8qc7) | [https://www.quzuo.net/document/amWlBqgj8qc7](https://www.quzuo.net/document/amWlBqgj8qc7) |
-| 3 | [CentOS 8 Docker Compose 部署指南](https://www.quzuo.net/document/FfShkGQx4jIG) | [https://www.quzuo.net/document/FfShkGQx4jIG](https://www.quzuo.net/document/FfShkGQx4jIG) |
+| 1 | [CentOS 8 Docker CLI 常用命令与运维指南](https://www.quzuo.net/document/amWlBqgj8qc7) | [https://www.quzuo.net/document/amWlBqgj8qc7](https://www.quzuo.net/document/amWlBqgj8qc7) |
+| 2 | [CentOS 8 Docker Compose 部署指南](https://www.quzuo.net/document/FfShkGQx4jIG) | [https://www.quzuo.net/document/FfShkGQx4jIG](https://www.quzuo.net/document/FfShkGQx4jIG) |
+| 3 | [CentOS 8 dnf 包管理工具命令详解](https://www.quzuo.net/document/FnrhP2A1RyLv) | [https://www.quzuo.net/document/FnrhP2A1RyLv](https://www.quzuo.net/document/FnrhP2A1RyLv) |
 | 4 | [CentOS 8 安装 Docker 指南](https://www.quzuo.net/document/eZ1lEgRuklRm) | [https://www.quzuo.net/document/eZ1lEgRuklRm](https://www.quzuo.net/document/eZ1lEgRuklRm) |
 | 5 | [CentOS 介绍与选型指南](https://www.quzuo.net/document/8sKxDkpELH2v) | [https://www.quzuo.net/document/8sKxDkpELH2v](https://www.quzuo.net/document/8sKxDkpELH2v) |
 

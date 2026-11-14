@@ -4,6 +4,11 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [DittoFS 0.35.0 介绍与选型指南](https://www.quzuo.net/document/6jhX9VVlwyRJ) | [https://www.quzuo.net/document/6jhX9VVlwyRJ](https://www.quzuo.net/document/6jhX9VVlwyRJ) |
+| 1 | [CentOS 8 安装 DittoFS 指南](https://www.quzuo.net/document/8Vm0oF6HMIHz) | [https://www.quzuo.net/document/8Vm0oF6HMIHz](https://www.quzuo.net/document/8Vm0oF6HMIHz) |
+| 2 | [DittoFS 0.35.0 介绍与选型指南](https://www.quzuo.net/document/6jhX9VVlwyRJ) | [https://www.quzuo.net/document/6jhX9VVlwyRJ](https://www.quzuo.net/document/6jhX9VVlwyRJ) |
+| 3 | [DittoFS Docker Compose 部署指南](https://www.quzuo.net/document/x0u91ipaMfiS) | [https://www.quzuo.net/document/x0u91ipaMfiS](https://www.quzuo.net/document/x0u91ipaMfiS) |
+| 4 | [DittoFS 常用 CLI 命令与运维指南](https://www.quzuo.net/document/YaS1pTvHye0e) | [https://www.quzuo.net/document/YaS1pTvHye0e](https://www.quzuo.net/document/YaS1pTvHye0e) |
+| 5 | [DittoFS 配置参数详解](https://www.quzuo.net/document/DiS4i0oXpwwl) | [https://www.quzuo.net/document/DiS4i0oXpwwl](https://www.quzuo.net/document/DiS4i0oXpwwl) |
+| 6 | [Ubuntu 22.04 安装 DittoFS 指南](https://www.quzuo.net/document/7uhmJ9oK2PCM) | [https://www.quzuo.net/document/7uhmJ9oK2PCM](https://www.quzuo.net/document/7uhmJ9oK2PCM) |
 
 [← 返回文档总览](../README.md)

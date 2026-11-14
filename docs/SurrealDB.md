@@ -8,5 +8,6 @@
 | 2 | [SurrealDB 介绍与选型指南](https://www.quzuo.net/document/dEibyk6imgTb) | [https://www.quzuo.net/document/dEibyk6imgTb](https://www.quzuo.net/document/dEibyk6imgTb) |
 | 3 | [SurrealDB 安装指南](https://www.quzuo.net/document/X2JGFEo3H3Eg) | [https://www.quzuo.net/document/X2JGFEo3H3Eg](https://www.quzuo.net/document/X2JGFEo3H3Eg) |
 | 4 | [SurrealDB 核心原理详解](https://www.quzuo.net/document/RQbBIhhanNO7) | [https://www.quzuo.net/document/RQbBIhhanNO7](https://www.quzuo.net/document/RQbBIhhanNO7) |
+| 5 | [SurrealDB 行级权限与实时订阅实战](https://www.quzuo.net/document/mCJDx0l0pbRt) | [https://www.quzuo.net/document/mCJDx0l0pbRt](https://www.quzuo.net/document/mCJDx0l0pbRt) |
 
 [← 返回文档总览](../README.md)

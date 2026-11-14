@@ -6,12 +6,12 @@
 |---|---|---|
 | 1 | [CentOS 8 安装 Kubespray 部署 Kubernetes 指南](https://www.quzuo.net/document/GoGz8yw5XCjD) | [https://www.quzuo.net/document/GoGz8yw5XCjD](https://www.quzuo.net/document/GoGz8yw5XCjD) |
 | 2 | [Kubespray v2.32.0 介绍与选型指南](https://www.quzuo.net/document/yHWbUXQFvYLm) | [https://www.quzuo.net/document/yHWbUXQFvYLm](https://www.quzuo.net/document/yHWbUXQFvYLm) |
-| 3 | [Kubespray 常用 CLI 命令详解（ansible-playbook / kubectl）](https://www.quzuo.net/document/0kkMBixfKeBO) | [https://www.quzuo.net/document/0kkMBixfKeBO](https://www.quzuo.net/document/0kkMBixfKeBO) |
-| 4 | [Kubespray 常用 CLI 命令详解（Ubuntu 22.04）](https://www.quzuo.net/document/iUFFFjx79B7h) | [https://www.quzuo.net/document/iUFFFjx79B7h](https://www.quzuo.net/document/iUFFFjx79B7h) |
-| 5 | [Kubespray 部署配置详解（containerd - Ubuntu 22.04）](https://www.quzuo.net/document/GwcWYpF8rezt) | [https://www.quzuo.net/document/GwcWYpF8rezt](https://www.quzuo.net/document/GwcWYpF8rezt) |
-| 6 | [Kubespray 部署配置详解（containerd）](https://www.quzuo.net/document/WKfWmO03qrTq) | [https://www.quzuo.net/document/WKfWmO03qrTq](https://www.quzuo.net/document/WKfWmO03qrTq) |
-| 7 | [Kubespray 部署配置详解（Docker / cri-dockerd - Ubuntu 22.04）](https://www.quzuo.net/document/cP3qg76BRZHp) | [https://www.quzuo.net/document/cP3qg76BRZHp](https://www.quzuo.net/document/cP3qg76BRZHp) |
-| 8 | [Kubespray 部署配置详解（Docker / cri-dockerd）](https://www.quzuo.net/document/Qp2s5yzGGfLB) | [https://www.quzuo.net/document/Qp2s5yzGGfLB](https://www.quzuo.net/document/Qp2s5yzGGfLB) |
+| 3 | [Kubespray 常用 CLI 命令详解（Ubuntu 22.04）](https://www.quzuo.net/document/iUFFFjx79B7h) | [https://www.quzuo.net/document/iUFFFjx79B7h](https://www.quzuo.net/document/iUFFFjx79B7h) |
+| 4 | [Kubespray 常用 CLI 命令详解（ansible-playbook / kubectl）](https://www.quzuo.net/document/0kkMBixfKeBO) | [https://www.quzuo.net/document/0kkMBixfKeBO](https://www.quzuo.net/document/0kkMBixfKeBO) |
+| 5 | [Kubespray 部署配置详解（Docker / cri-dockerd - Ubuntu 22.04）](https://www.quzuo.net/document/cP3qg76BRZHp) | [https://www.quzuo.net/document/cP3qg76BRZHp](https://www.quzuo.net/document/cP3qg76BRZHp) |
+| 6 | [Kubespray 部署配置详解（Docker / cri-dockerd）](https://www.quzuo.net/document/Qp2s5yzGGfLB) | [https://www.quzuo.net/document/Qp2s5yzGGfLB](https://www.quzuo.net/document/Qp2s5yzGGfLB) |
+| 7 | [Kubespray 部署配置详解（containerd - Ubuntu 22.04）](https://www.quzuo.net/document/GwcWYpF8rezt) | [https://www.quzuo.net/document/GwcWYpF8rezt](https://www.quzuo.net/document/GwcWYpF8rezt) |
+| 8 | [Kubespray 部署配置详解（containerd）](https://www.quzuo.net/document/WKfWmO03qrTq) | [https://www.quzuo.net/document/WKfWmO03qrTq](https://www.quzuo.net/document/WKfWmO03qrTq) |
 | 9 | [Ubuntu 22.04 安装 Kubespray 部署 Kubernetes 指南](https://www.quzuo.net/document/Swcq5Ww5iJuJ) | [https://www.quzuo.net/document/Swcq5Ww5iJuJ](https://www.quzuo.net/document/Swcq5Ww5iJuJ) |
 
 [← 返回文档总览](../README.md)

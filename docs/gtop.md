@@ -4,9 +4,9 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [gtop 1.1.5 常用 CLI 命令与工具详解](https://www.quzuo.net/document/GEUA38Hmjugm) | [https://www.quzuo.net/document/GEUA38Hmjugm](https://www.quzuo.net/document/GEUA38Hmjugm) |
-| 2 | [gtop 1.1.5 配置参数详解](https://www.quzuo.net/document/Yoq9Vg7ebgSu) | [https://www.quzuo.net/document/Yoq9Vg7ebgSu](https://www.quzuo.net/document/Yoq9Vg7ebgSu) |
-| 3 | [gtop 介绍与选型指南](https://www.quzuo.net/document/xYqWjz2lHn59) | [https://www.quzuo.net/document/xYqWjz2lHn59](https://www.quzuo.net/document/xYqWjz2lHn59) |
-| 4 | [Ubuntu 24.04 安装 gtop 1.1.5 指南](https://www.quzuo.net/document/EfZ9Nu3Ay4uE) | [https://www.quzuo.net/document/EfZ9Nu3Ay4uE](https://www.quzuo.net/document/EfZ9Nu3Ay4uE) |
+| 1 | [Ubuntu 24.04 安装 gtop 1.1.5 指南](https://www.quzuo.net/document/EfZ9Nu3Ay4uE) | [https://www.quzuo.net/document/EfZ9Nu3Ay4uE](https://www.quzuo.net/document/EfZ9Nu3Ay4uE) |
+| 2 | [gtop 1.1.5 常用 CLI 命令与工具详解](https://www.quzuo.net/document/GEUA38Hmjugm) | [https://www.quzuo.net/document/GEUA38Hmjugm](https://www.quzuo.net/document/GEUA38Hmjugm) |
+| 3 | [gtop 1.1.5 配置参数详解](https://www.quzuo.net/document/Yoq9Vg7ebgSu) | [https://www.quzuo.net/document/Yoq9Vg7ebgSu](https://www.quzuo.net/document/Yoq9Vg7ebgSu) |
+| 4 | [gtop 介绍与选型指南](https://www.quzuo.net/document/xYqWjz2lHn59) | [https://www.quzuo.net/document/xYqWjz2lHn59](https://www.quzuo.net/document/xYqWjz2lHn59) |
 
 [← 返回文档总览](../README.md)

@@ -8,5 +8,6 @@
 | 2 | [Hoppscotch 2026.9.0 配置参数详解](https://www.quzuo.net/document/b27UFF3b5xO1) | [https://www.quzuo.net/document/b27UFF3b5xO1](https://www.quzuo.net/document/b27UFF3b5xO1) |
 | 3 | [Hoppscotch Docker Compose 部署指南](https://www.quzuo.net/document/05vBVBAf0pP5) | [https://www.quzuo.net/document/05vBVBAf0pP5](https://www.quzuo.net/document/05vBVBAf0pP5) |
 | 4 | [Hoppscotch 常用 CLI 命令与工具详解](https://www.quzuo.net/document/AmUtLgwTMgk2) | [https://www.quzuo.net/document/AmUtLgwTMgk2](https://www.quzuo.net/document/AmUtLgwTMgk2) |
+| 5 | [Ubuntu 22.04 安装 Hoppscotch 2026.9.0 指南](https://www.quzuo.net/document/FKsAvSd6J1s2) | [https://www.quzuo.net/document/FKsAvSd6J1s2](https://www.quzuo.net/document/FKsAvSd6J1s2) |
 
 [← 返回文档总览](../README.md)

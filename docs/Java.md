@@ -13,12 +13,12 @@
 | 7 | [Maven 功能测试与验证](https://www.quzuo.net/document/5oGSVH5GVrbb) | [https://www.quzuo.net/document/5oGSVH5GVrbb](https://www.quzuo.net/document/5oGSVH5GVrbb) |
 | 8 | [Maven 命令行与运维命令详解](https://www.quzuo.net/document/xo62eSoLUvuY) | [https://www.quzuo.net/document/xo62eSoLUvuY](https://www.quzuo.net/document/xo62eSoLUvuY) |
 | 9 | [Maven 配置文件详解](https://www.quzuo.net/document/Uh1FCLRDdP1u) | [https://www.quzuo.net/document/Uh1FCLRDdP1u](https://www.quzuo.net/document/Uh1FCLRDdP1u) |
-| 10 | [sdkman 功能测试与验证](https://www.quzuo.net/document/qo8OwQqA9zzb) | [https://www.quzuo.net/document/qo8OwQqA9zzb](https://www.quzuo.net/document/qo8OwQqA9zzb) |
-| 11 | [sdkman 命令行与运维命令详解](https://www.quzuo.net/document/TUjP5N9khjPK) | [https://www.quzuo.net/document/TUjP5N9khjPK](https://www.quzuo.net/document/TUjP5N9khjPK) |
-| 12 | [sdkman 配置文件详解](https://www.quzuo.net/document/cMsJz29nquFk) | [https://www.quzuo.net/document/cMsJz29nquFk](https://www.quzuo.net/document/cMsJz29nquFk) |
-| 13 | [Ubuntu 22.04 安装 Gradle 指南](https://www.quzuo.net/document/je3SjZzAD2zM) | [https://www.quzuo.net/document/je3SjZzAD2zM](https://www.quzuo.net/document/je3SjZzAD2zM) |
-| 14 | [Ubuntu 22.04 安装 Maven 指南](https://www.quzuo.net/document/AYmnPlBlvOGd) | [https://www.quzuo.net/document/AYmnPlBlvOGd](https://www.quzuo.net/document/AYmnPlBlvOGd) |
-| 15 | [Ubuntu 22.04 安装 sdkman 指南](https://www.quzuo.net/document/jL2ptwS8d4NY) | [https://www.quzuo.net/document/jL2ptwS8d4NY](https://www.quzuo.net/document/jL2ptwS8d4NY) |
-| 16 | [Ubuntu 22.04 安装指定版本 Java 指南（多版本切换与 JAVA_HOME）](https://www.quzuo.net/document/TGzm6cYoHuHK) | [https://www.quzuo.net/document/TGzm6cYoHuHK](https://www.quzuo.net/document/TGzm6cYoHuHK) |
+| 10 | [Ubuntu 22.04 安装 Gradle 指南](https://www.quzuo.net/document/je3SjZzAD2zM) | [https://www.quzuo.net/document/je3SjZzAD2zM](https://www.quzuo.net/document/je3SjZzAD2zM) |
+| 11 | [Ubuntu 22.04 安装 Maven 指南](https://www.quzuo.net/document/AYmnPlBlvOGd) | [https://www.quzuo.net/document/AYmnPlBlvOGd](https://www.quzuo.net/document/AYmnPlBlvOGd) |
+| 12 | [Ubuntu 22.04 安装 sdkman 指南](https://www.quzuo.net/document/jL2ptwS8d4NY) | [https://www.quzuo.net/document/jL2ptwS8d4NY](https://www.quzuo.net/document/jL2ptwS8d4NY) |
+| 13 | [Ubuntu 22.04 安装指定版本 Java 指南（多版本切换与 JAVA_HOME）](https://www.quzuo.net/document/TGzm6cYoHuHK) | [https://www.quzuo.net/document/TGzm6cYoHuHK](https://www.quzuo.net/document/TGzm6cYoHuHK) |
+| 14 | [sdkman 功能测试与验证](https://www.quzuo.net/document/qo8OwQqA9zzb) | [https://www.quzuo.net/document/qo8OwQqA9zzb](https://www.quzuo.net/document/qo8OwQqA9zzb) |
+| 15 | [sdkman 命令行与运维命令详解](https://www.quzuo.net/document/TUjP5N9khjPK) | [https://www.quzuo.net/document/TUjP5N9khjPK](https://www.quzuo.net/document/TUjP5N9khjPK) |
+| 16 | [sdkman 配置文件详解](https://www.quzuo.net/document/cMsJz29nquFk) | [https://www.quzuo.net/document/cMsJz29nquFk](https://www.quzuo.net/document/cMsJz29nquFk) |
 
 [← 返回文档总览](../README.md)

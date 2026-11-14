@@ -4,6 +4,12 @@
 
 | # | 技术文档 | 在线地址 |
 |---|---|---|
-| 1 | [LizardFS 3.13.0-rc3 介绍与选型指南](https://www.quzuo.net/document/6k3WF0kSXrrj) | [https://www.quzuo.net/document/6k3WF0kSXrrj](https://www.quzuo.net/document/6k3WF0kSXrrj) |
+| 1 | [CentOS 8 安装 LizardFS 指南](https://www.quzuo.net/document/8e2HUtAxTo8D) | [https://www.quzuo.net/document/8e2HUtAxTo8D](https://www.quzuo.net/document/8e2HUtAxTo8D) |
+| 2 | [LizardFS 3.13.0-rc3 介绍与选型指南](https://www.quzuo.net/document/6k3WF0kSXrrj) | [https://www.quzuo.net/document/6k3WF0kSXrrj](https://www.quzuo.net/document/6k3WF0kSXrrj) |
+| 3 | [LizardFS Docker Compose 部署指南](https://www.quzuo.net/document/tMHd39ubjsK8) | [https://www.quzuo.net/document/tMHd39ubjsK8](https://www.quzuo.net/document/tMHd39ubjsK8) |
+| 4 | [LizardFS 常用 CLI 命令与运维指南](https://www.quzuo.net/document/piTY0TxDpp2G) | [https://www.quzuo.net/document/piTY0TxDpp2G](https://www.quzuo.net/document/piTY0TxDpp2G) |
+| 5 | [LizardFS 配置参数详解](https://www.quzuo.net/document/YjiAQux9DuGS) | [https://www.quzuo.net/document/YjiAQux9DuGS](https://www.quzuo.net/document/YjiAQux9DuGS) |
+| 6 | [LizardFS 集群模式部署指南](https://www.quzuo.net/document/yZMq9ZFJhwJm) | [https://www.quzuo.net/document/yZMq9ZFJhwJm](https://www.quzuo.net/document/yZMq9ZFJhwJm) |
+| 7 | [Ubuntu 22.04 安装 LizardFS 指南](https://www.quzuo.net/document/2Jw2sCBxF2oA) | [https://www.quzuo.net/document/2Jw2sCBxF2oA](https://www.quzuo.net/document/2Jw2sCBxF2oA) |
 
 [← 返回文档总览](../README.md)

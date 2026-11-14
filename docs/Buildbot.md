@@ -8,5 +8,6 @@
 | 2 | [Buildbot 4.3.0 安装与部署指南](https://www.quzuo.net/document/Am7EUFvGktO6) | [https://www.quzuo.net/document/Am7EUFvGktO6](https://www.quzuo.net/document/Am7EUFvGktO6) |
 | 3 | [Buildbot 4.3.0 常用 CLI 命令详解](https://www.quzuo.net/document/GRtuUc1s2lB3) | [https://www.quzuo.net/document/GRtuUc1s2lB3](https://www.quzuo.net/document/GRtuUc1s2lB3) |
 | 4 | [Buildbot 4.3.0 配置参数详解](https://www.quzuo.net/document/udrmeExtOAkc) | [https://www.quzuo.net/document/udrmeExtOAkc](https://www.quzuo.net/document/udrmeExtOAkc) |
+| 5 | [Buildbot 分布式 CI 流水线实战](https://www.quzuo.net/document/RbwvW4hxPyMf) | [https://www.quzuo.net/document/RbwvW4hxPyMf](https://www.quzuo.net/document/RbwvW4hxPyMf) |
 
 [← 返回文档总览](../README.md)
