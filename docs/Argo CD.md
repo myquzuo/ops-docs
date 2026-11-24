@@ -10,7 +10,7 @@
 | 4 | [Argo CD 3.5.6 配置参数详解](https://www.quzuo.net/document/tmoyVsoHBGAA) | [https://www.quzuo.net/document/tmoyVsoHBGAA](https://www.quzuo.net/document/tmoyVsoHBGAA) |
 | 5 | [Argo CD 3.5.7 k8s 部署实战](https://www.quzuo.net/document/LjhZTfqALlEx) | [https://www.quzuo.net/document/LjhZTfqALlEx](https://www.quzuo.net/document/LjhZTfqALlEx) |
 | 6 | [Argo CD 3.5.7 功能验证：GitOps 同步、差异与回滚](https://www.quzuo.net/document/LbW9aS1P50ec) | [https://www.quzuo.net/document/LbW9aS1P50ec](https://www.quzuo.net/document/LbW9aS1P50ec) |
-| 7 | [Argo CD 3.5.7 核心原理详解](https://www.quzuo.net/document/wLqUuai4Fdev) | [https://www.quzuo.net/document/wLqUuai4Fdev](https://www.quzuo.net/document/wLqUuai4Fdev) |
-| 8 | [Argo CD 3.5.7 核心原理详解](https://www.quzuo.net/document/qOdVnbSv0wr2) | [https://www.quzuo.net/document/qOdVnbSv0wr2](https://www.quzuo.net/document/qOdVnbSv0wr2) |
+| 7 | [Argo CD 3.5.7 核心原理详解](https://www.quzuo.net/document/qOdVnbSv0wr2) | [https://www.quzuo.net/document/qOdVnbSv0wr2](https://www.quzuo.net/document/qOdVnbSv0wr2) |
+| 8 | [Argo CD 3.5.7 核心原理详解](https://www.quzuo.net/document/wLqUuai4Fdev) | [https://www.quzuo.net/document/wLqUuai4Fdev](https://www.quzuo.net/document/wLqUuai4Fdev) |
 
 [← 返回文档总览](../README.md)
