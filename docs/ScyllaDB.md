@@ -12,22 +12,26 @@
 | 6 | [ScyllaDB 6.x Prometheus + Grafana 官方监控栈部署实战](https://www.quzuo.net/document/QJ1TG1i5emmh) | [https://www.quzuo.net/document/QJ1TG1i5emmh](https://www.quzuo.net/document/QJ1TG1i5emmh) |
 | 7 | [ScyllaDB 6.x TPU 调优方法论与多档位实测](https://www.quzuo.net/document/msL1HPfwwnUP) | [https://www.quzuo.net/document/msL1HPfwwnUP](https://www.quzuo.net/document/msL1HPfwwnUP) |
 | 8 | [ScyllaDB 6.x cassandra-stress 基准测试实战](https://www.quzuo.net/document/A4eKx9Fcxhia) | [https://www.quzuo.net/document/A4eKx9Fcxhia](https://www.quzuo.net/document/A4eKx9Fcxhia) |
-| 9 | [ScyllaDB 6.x hinted handoff 与 read repair 机制及参数验证](https://www.quzuo.net/document/cfZ1BTxEjHkR) | [https://www.quzuo.net/document/cfZ1BTxEjHkR](https://www.quzuo.net/document/cfZ1BTxEjHkR) |
-| 10 | [ScyllaDB 6.x io_properties 磁盘 IO 属性配置实战](https://www.quzuo.net/document/eW9RlyDj33su) | [https://www.quzuo.net/document/eW9RlyDj33su](https://www.quzuo.net/document/eW9RlyDj33su) |
-| 11 | [ScyllaDB 6.x nodetool 兼容命令详解](https://www.quzuo.net/document/fCnwtI5yuShS) | [https://www.quzuo.net/document/fCnwtI5yuShS](https://www.quzuo.net/document/fCnwtI5yuShS) |
-| 12 | [ScyllaDB 6.x reactor stall 排查与触发源定位实战](https://www.quzuo.net/document/smUAqAHmtB09) | [https://www.quzuo.net/document/smUAqAHmtB09](https://www.quzuo.net/document/smUAqAHmtB09) |
-| 13 | [ScyllaDB 6.x scylla-bench 基准测试实战](https://www.quzuo.net/document/cIqbLLqEQmFS) | [https://www.quzuo.net/document/cIqbLLqEQmFS](https://www.quzuo.net/document/cIqbLLqEQmFS) |
-| 14 | [ScyllaDB 6.x seed 节点设计与 gossip 集群发现机制实战](https://www.quzuo.net/document/xs0W689OnLpu) | [https://www.quzuo.net/document/xs0W689OnLpu](https://www.quzuo.net/document/xs0W689OnLpu) |
-| 15 | [ScyllaDB 6.x shard 与 TPU 参数详解](https://www.quzuo.net/document/aa1zxntCWTba) | [https://www.quzuo.net/document/aa1zxntCWTba](https://www.quzuo.net/document/aa1zxntCWTba) |
-| 16 | [ScyllaDB 6.x snapshot 快照备份与 sstableloader 恢复实战](https://www.quzuo.net/document/Qe26e69PrYUE) | [https://www.quzuo.net/document/Qe26e69PrYUE](https://www.quzuo.net/document/Qe26e69PrYUE) |
-| 17 | [ScyllaDB 6.x tablets 按表均衡与分裂合并治理实战](https://www.quzuo.net/document/9RYxmziMHRYV) | [https://www.quzuo.net/document/9RYxmziMHRYV](https://www.quzuo.net/document/9RYxmziMHRYV) |
-| 18 | [ScyllaDB 6.x vnode 到 tablets 零停机迁移实战](https://www.quzuo.net/document/n6kpwSGC6Ran) | [https://www.quzuo.net/document/n6kpwSGC6Ran](https://www.quzuo.net/document/n6kpwSGC6Ran) |
-| 19 | [ScyllaDB 6.x 复制策略与一致性级别选型实测](https://www.quzuo.net/document/kqL1eRXyO7y7) | [https://www.quzuo.net/document/kqL1eRXyO7y7](https://www.quzuo.net/document/kqL1eRXyO7y7) |
-| 20 | [ScyllaDB 6.x 多数据中心部署与跨 DC 复制实战](https://www.quzuo.net/document/jXBDcNYPTtAY) | [https://www.quzuo.net/document/jXBDcNYPTtAY](https://www.quzuo.net/document/jXBDcNYPTtAY) |
-| 21 | [ScyllaDB 6.x 常用 CLI 命令与工具详解](https://www.quzuo.net/document/MMrp8PvnDjyF) | [https://www.quzuo.net/document/MMrp8PvnDjyF](https://www.quzuo.net/document/MMrp8PvnDjyF) |
-| 22 | [ScyllaDB 6.x 机架感知与 snitch 配置实战](https://www.quzuo.net/document/WL0rSnVs7l6x) | [https://www.quzuo.net/document/WL0rSnVs7l6x](https://www.quzuo.net/document/WL0rSnVs7l6x) |
-| 23 | [ScyllaDB 6.x 节点扩容与缩容实战（join / decommission / replace node）](https://www.quzuo.net/document/HgWyePtW7kqQ) | [https://www.quzuo.net/document/HgWyePtW7kqQ](https://www.quzuo.net/document/HgWyePtW7kqQ) |
-| 24 | [ScyllaDB 6.x 配置参数详解](https://www.quzuo.net/document/aDMNq1M2DJb5) | [https://www.quzuo.net/document/aDMNq1M2DJb5](https://www.quzuo.net/document/aDMNq1M2DJb5) |
-| 25 | [Ubuntu 24.04 安装 ScyllaDB 6.x](https://www.quzuo.net/document/iGHWQqBoskX9) | [https://www.quzuo.net/document/iGHWQqBoskX9](https://www.quzuo.net/document/iGHWQqBoskX9) |
+| 9 | [ScyllaDB 6.x cqlsh 与 CQL 兼容使用指南](https://www.quzuo.net/document/xdyUeHkhw3DR) | [https://www.quzuo.net/document/xdyUeHkhw3DR](https://www.quzuo.net/document/xdyUeHkhw3DR) |
+| 10 | [ScyllaDB 6.x hinted handoff 与 read repair 机制及参数验证](https://www.quzuo.net/document/cfZ1BTxEjHkR) | [https://www.quzuo.net/document/cfZ1BTxEjHkR](https://www.quzuo.net/document/cfZ1BTxEjHkR) |
+| 11 | [ScyllaDB 6.x io_properties 磁盘 IO 属性配置实战](https://www.quzuo.net/document/eW9RlyDj33su) | [https://www.quzuo.net/document/eW9RlyDj33su](https://www.quzuo.net/document/eW9RlyDj33su) |
+| 12 | [ScyllaDB 6.x nodetool 兼容命令详解](https://www.quzuo.net/document/fCnwtI5yuShS) | [https://www.quzuo.net/document/fCnwtI5yuShS](https://www.quzuo.net/document/fCnwtI5yuShS) |
+| 13 | [ScyllaDB 6.x reactor stall 排查与触发源定位实战](https://www.quzuo.net/document/smUAqAHmtB09) | [https://www.quzuo.net/document/smUAqAHmtB09](https://www.quzuo.net/document/smUAqAHmtB09) |
+| 14 | [ScyllaDB 6.x scylla-bench 基准测试实战](https://www.quzuo.net/document/cIqbLLqEQmFS) | [https://www.quzuo.net/document/cIqbLLqEQmFS](https://www.quzuo.net/document/cIqbLLqEQmFS) |
+| 15 | [ScyllaDB 6.x scylla.yaml 核心参数精解](https://www.quzuo.net/document/u9nd479f9vSQ) | [https://www.quzuo.net/document/u9nd479f9vSQ](https://www.quzuo.net/document/u9nd479f9vSQ) |
+| 16 | [ScyllaDB 6.x scyllatop 实时监控工具使用详解](https://www.quzuo.net/document/2jwxovGpfyFm) | [https://www.quzuo.net/document/2jwxovGpfyFm](https://www.quzuo.net/document/2jwxovGpfyFm) |
+| 17 | [ScyllaDB 6.x seed 节点设计与 gossip 集群发现机制实战](https://www.quzuo.net/document/xs0W689OnLpu) | [https://www.quzuo.net/document/xs0W689OnLpu](https://www.quzuo.net/document/xs0W689OnLpu) |
+| 18 | [ScyllaDB 6.x shard 与 TPU 参数详解](https://www.quzuo.net/document/aa1zxntCWTba) | [https://www.quzuo.net/document/aa1zxntCWTba](https://www.quzuo.net/document/aa1zxntCWTba) |
+| 19 | [ScyllaDB 6.x snapshot 快照备份与 sstableloader 恢复实战](https://www.quzuo.net/document/Qe26e69PrYUE) | [https://www.quzuo.net/document/Qe26e69PrYUE](https://www.quzuo.net/document/Qe26e69PrYUE) |
+| 20 | [ScyllaDB 6.x tablets 按表均衡与分裂合并治理实战](https://www.quzuo.net/document/9RYxmziMHRYV) | [https://www.quzuo.net/document/9RYxmziMHRYV](https://www.quzuo.net/document/9RYxmziMHRYV) |
+| 21 | [ScyllaDB 6.x vnode 到 tablets 零停机迁移实战](https://www.quzuo.net/document/n6kpwSGC6Ran) | [https://www.quzuo.net/document/n6kpwSGC6Ran](https://www.quzuo.net/document/n6kpwSGC6Ran) |
+| 22 | [ScyllaDB 6.x 备份恢复演练与数据一致性校验流程](https://www.quzuo.net/document/bij7rGFKW22p) | [https://www.quzuo.net/document/bij7rGFKW22p](https://www.quzuo.net/document/bij7rGFKW22p) |
+| 23 | [ScyllaDB 6.x 复制策略与一致性级别选型实测](https://www.quzuo.net/document/kqL1eRXyO7y7) | [https://www.quzuo.net/document/kqL1eRXyO7y7](https://www.quzuo.net/document/kqL1eRXyO7y7) |
+| 24 | [ScyllaDB 6.x 多数据中心部署与跨 DC 复制实战](https://www.quzuo.net/document/jXBDcNYPTtAY) | [https://www.quzuo.net/document/jXBDcNYPTtAY](https://www.quzuo.net/document/jXBDcNYPTtAY) |
+| 25 | [ScyllaDB 6.x 常用 CLI 命令与工具详解](https://www.quzuo.net/document/MMrp8PvnDjyF) | [https://www.quzuo.net/document/MMrp8PvnDjyF](https://www.quzuo.net/document/MMrp8PvnDjyF) |
+| 26 | [ScyllaDB 6.x 机架感知与 snitch 配置实战](https://www.quzuo.net/document/WL0rSnVs7l6x) | [https://www.quzuo.net/document/WL0rSnVs7l6x](https://www.quzuo.net/document/WL0rSnVs7l6x) |
+| 27 | [ScyllaDB 6.x 节点扩容与缩容实战（join / decommission / replace node）](https://www.quzuo.net/document/HgWyePtW7kqQ) | [https://www.quzuo.net/document/HgWyePtW7kqQ](https://www.quzuo.net/document/HgWyePtW7kqQ) |
+| 28 | [ScyllaDB 6.x 配置参数详解](https://www.quzuo.net/document/aDMNq1M2DJb5) | [https://www.quzuo.net/document/aDMNq1M2DJb5](https://www.quzuo.net/document/aDMNq1M2DJb5) |
+| 29 | [Ubuntu 24.04 安装 ScyllaDB 6.x](https://www.quzuo.net/document/iGHWQqBoskX9) | [https://www.quzuo.net/document/iGHWQqBoskX9](https://www.quzuo.net/document/iGHWQqBoskX9) |
 
 [← 返回文档总览](../README.md)
