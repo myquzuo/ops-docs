@@ -1,6 +1,6 @@
 # Quzuo ops-docs · 运维与开发技术文档库
 
-Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**真实服务器环境实际安装、部署、测试并落地运行**，覆盖操作系统、容器与云原生、数据库、中间件、CI/CD 与 DevOps、监控告警、网络与安全等方向，内容贯穿安装、部署、配置、使用、性能测试与优化、故障排查的完整实操流程。点击文档标题即可在线阅读，无需登录即可访问正文，文档中的命令与回显均为真实环境逐条实测结果。
+Quzuo（https://www.quzuo.net）是一个面向运维与开发者的技术文档平台。公开文档库所有内容均基于**真实服务器环境**实际安装、部署、测试并落地运行，覆盖主流开源软件与国产化技术栈，贯穿安装、部署、配置、使用、测试、优化、运维与排障等完整实操流程，命令与回显均为逐条实测结果。点击文档标题即可在线阅读，欢迎[访问官网](https://www.quzuo.net)收藏、检索与分享。
 
 ## 内容主题
 
@@ -18,10 +18,6 @@ Quzuo（quzuo.net）技术文档平台公开文档库。所有文档均基于**�
 - 站内全文检索：https://www.quzuo.net
 - 按专栏 / 标签浏览，无需登录即可阅读正文
 - 直达链接格式：`https://www.quzuo.net/document/<slug>`，例如 https://www.quzuo.net/document/WIIFPfUSqsph
-
-## 关于 Quzuo
-
-Quzuo是一个面向运维与开发者的技术文档平台，文档内容全部基于真实环境实测沉淀，覆盖主流开源软件与国产化技术栈的安装、部署、配置、使用、优化与排障，欢迎[访问官网](https://www.quzuo.net)收藏、检索与分享。
 
 ## 专栏总览
 
@@ -191,6 +187,7 @@ Quzuo是一个面向运维与开发者的技术文档平台，文档内容全部
 | [Apache Guacamole](docs/Apache%20Guacamole.md) | [→ 查看](docs/Apache%20Guacamole.md) |
 | [Apache Gump](docs/Apache%20Gump.md) | [→ 查看](docs/Apache%20Gump.md) |
 | [Apache HBase](docs/Apache%20HBase.md) | [→ 查看](docs/Apache%20HBase.md) |
+| [Apache HDFS](docs/Apache%20HDFS.md) | [→ 查看](docs/Apache%20HDFS.md) |
 | [Apache HTTP Server](docs/Apache%20HTTP%20Server.md) | [→ 查看](docs/Apache%20HTTP%20Server.md) |
 | [Apache Hadoop](docs/Apache%20Hadoop.md) | [→ 查看](docs/Apache%20Hadoop.md) |
 | [Apache Hamilton](docs/Apache%20Hamilton.md) | [→ 查看](docs/Apache%20Hamilton.md) |
@@ -1431,6 +1428,7 @@ Quzuo是一个面向运维与开发者的技术文档平台，文档内容全部
 | [pg_exporter](docs/pg_exporter.md) | [→ 查看](docs/pg_exporter.md) |
 | [pgexporter](docs/pgexporter.md) | [→ 查看](docs/pgexporter.md) |
 | [pglookout](docs/pglookout.md) | [→ 查看](docs/pglookout.md) |
+| [pgvector](docs/pgvector.md) | [→ 查看](docs/pgvector.md) |
 | [phpBB](docs/phpBB.md) | [→ 查看](docs/phpBB.md) |
 | [phpIPAM](docs/phpIPAM.md) | [→ 查看](docs/phpIPAM.md) |
 | [phpList](docs/phpList.md) | [→ 查看](docs/phpList.md) |
